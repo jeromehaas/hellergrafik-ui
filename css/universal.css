@@ -1,0 +1,137 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F5F5F5;
+}
+
+h1, h2, h3, h4, h5, p, td, a {
+    font-family: "fjPlatzGroteske-SemiBold";
+    color: #151515;
+}
+
+h1 {
+    font-size: 26px;
+    line-height: 33px;
+}
+
+h2 {
+    font-size: 26px;
+    line-height: 33px;
+}
+
+.link {
+    color: #151515;
+    text-decoration: none;
+
+}
+
+.link__small {
+    font-size: 16px;
+    line-height: 16px;
+    outline: none;
+}
+
+.link__small:hover .link__small__arrow,
+.link__small:hover .link__small__text
+{
+    color: #5101BE;
+    fill: #5101BE;
+    border-color: #5101BE;
+}
+
+.link__small:focus .link__small__arrow,
+.link__small:focus .link__small__text
+{
+    color: #5101BE;
+    fill: #5101BE;
+    border-color: #5101BE;
+}
+
+.link__small__arrow {
+    display: inline-block;
+    content: "";
+    background-size: contain;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    height: 16px;
+    width: 16px;
+    max-height: 16px;
+    margin-right: 5px;
+    fill: #151515;
+    transition: 0.3s ease;
+}
+
+.link__small__arrow:hover {
+    fill: #5101BE;
+}
+
+.link__small__text {
+    border-bottom: 2px solid #151515;
+    line-height: 10px;
+    height: 16px;
+    display: inline-block;
+    transition: 0.3s ease;
+}
+
+.link--big {
+
+}
+
+
+
+#page-wrapper {
+    width: 100%;
+    max-width: 2560px;
+    margin: 0 auto;
+}
+
+/* ------------------------------------------------------ */
+/* PARTIAL - NAVIGATION MOBILE
+/* ------------------------------------------------------ */
+
+.navigation-mobile {
+    width: 100%;
+    padding: 0 16px;
+}
+
+.navigation-mobile__bar {
+    display: flex;
+    flex-row: column;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.navigation-mobile__logo {
+    width: 90px;
+    padding: 10px 20px 10px 0;
+}
+
+.navigation-mobile__hamburger-menu {
+
+}
+
+/* ------------------------------------------------------ */
+/* SECTION - HERO
+/* ------------------------------------------------------ */
+
+.section-hero {
+
+}
+
+.section-hero__image {
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.section-hero__content {
+    width: 100%;
+    padding: 0 16px;
+}
+
+.section-hero__content__title {
+    margin-bottom: 28px;
+    max-width: 1025px;
+}
+
