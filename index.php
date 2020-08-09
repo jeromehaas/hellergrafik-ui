@@ -15,7 +15,7 @@
     <!-- NAVIGATION MOBILE -->
 
     <div class="section-hero">
-            <img class="section-hero__image" src="http://localhost:63342/grafik_heller/media/img/placeholder_img_yellow.png" alt="">
+            <img class="section-hero__image" src="http://localhost:8888/grafik_heller/media/img/placeholder_img_yellow.png" alt="">
             <div class="section-hero__content">
                 <h1 class="section-hero__content__title">Grafik für helle Köpfe. Hinter heller grafik steckt eine visuelle Gestalterin aus Luzern mit Passion zu durchdachtem Branding.</h1>
                 <a class="section-hero__content__link link link--small" href="" tabindex="1">
@@ -28,7 +28,7 @@
     <main class="section-projects">
         <article class="project">
             <a href="" class="project__image__link">
-                <img class="project__image" src="http://localhost:63342/grafik_heller/media/img/placeholder_img_grey.png" alt="">
+                <img class="project__image" src="http://localhost:8888/grafik_heller/media/img/placeholder_img_grey.png" alt="">
             </a>
             <a class="project__title link link--big" href="" tabindex="2">
                 <span class="project__title__text link__text link__text--big">XUND Bildung Gesundheit Zentralschweiz</span>
@@ -37,7 +37,7 @@
         </article>
         <article class="project">
             <a href="" class="project__image__link">
-                <img class="project__image" src="http://localhost:63342/grafik_heller/media/img/placeholder_img_grey.png" alt="">
+                <img class="project__image" src="http://localhost:8888/grafik_heller/media/img/placeholder_img_grey.png" alt="">
             </a>
             <a class="project__title link link--big" href="" tabindex="2">
                 <span class="project__title__text link__text link__text--big">Albertini</span>
@@ -46,7 +46,7 @@
         </article>
         <article class="project">
             <a href="" class="project__image__link">
-                <img class="project__image" src="http://localhost:63342/grafik_heller/media/img/placeholder_img_grey.png" alt="">
+                <img class="project__image" src="http://localhost:8888/grafik_heller/media/img/placeholder_img_grey.png" alt="">
             </a>
             <a class="project__title link link--big" href="" tabindex="2">
                 <span class="project__title__text link__text link__text--big">Parksolution</span>
@@ -55,7 +55,7 @@
         </article>
         <article class="project">
             <a href="" class="project__image__link">
-                <img class="project__image" src="http://localhost:63342/grafik_heller/media/img/placeholder_img_grey.png" alt="">
+                <img class="project__image" src="http://localhost:8888/grafik_heller/media/img/placeholder_img_grey.png" alt="">
             </a>
             <a class="project__title link link--big" href="" tabindex="2">
                 <span class="project__title__text link__text link__text--big">XUND Messeauftritt</span>
@@ -68,7 +68,7 @@
     <?php include './lang/de/partials/footer_mobile.php' ?>
     <!-- FOOTER -->
 
-    <script src="http://localhost:63342/grafik_heller/js/ux.js"></script>
+    <script src="http://localhost:8888/grafik_heller/js/ux.js"></script>
 </div>
 </body>
 </html>

@@ -20,7 +20,7 @@
     <?php include '../partials/footer_mobile.php' ?>
     <!-- FOOTER -->
 
-    <script src="http://localhost:63342/grafik_heller/js/ux.js"></script>
+    <script src="http://localhost:8888/grafik_heller/js/ux.js"></script>
 </div>
 </body>
 </html>
