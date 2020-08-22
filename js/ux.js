@@ -4,13 +4,17 @@ let ux = (function() {
 
 
     let navigationElements = {
-        navigationItems: $(".navigation-mobile__navigation-item"),
+        navigationItems: $(".navigation-mobile__link-background__list-item"),
         hamburgerMenu: $(".navigation-mobile__hamburger-menu"),
-        navigationLogo: $(".navigation-mobile__logo")
+        navigationLogo: $(".navigation-mobile__logo"),
+        navigationLinkBackGround: $(".navigation-mobile__link-background")
+
     }
 
     function navigationMobileToggle() {
             navigationElements.hamburgerMenu.toggleClass("is-active");
+            navigationElements.navigationLinkBackGround.toggleClass("is-visible");
+            navigationElements.navigationItems.toggleClass("is-present");
     }
 
     return {

@@ -10,7 +10,7 @@
         <a class="footer-desktop__column-two__item" href="">Instagram</a>
     </address>
     <address class="footer-desktop__column footer-desktop__column--three">
-        <a class="footer-desktop__column-three__item" href="">©Isabel Heller</a>
+        <p class="footer-desktop__column-three__item" href="">©Isabel Heller</p>
         <a class="footer-desktop__column-three__item" href="">Impressum</a>
     </address>
 </footer>
