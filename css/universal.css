@@ -255,11 +255,11 @@ img {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    flex-direction: column;
 }
 
 .footer-mobile__row--one {
     margin-bottom: 30px;
-    flex-direction: row;
 }
 
 .footer-mobile__row-one__item:not(:last-child),
@@ -295,7 +295,6 @@ img {
 
 .footer-mobile__row--two {
     margin-bottom: 30px;
-    flex-direction: column;
 }
 
 .footer-mobile__row-two__item {
@@ -309,11 +308,101 @@ img {
 
 
 @media screen and (min-width: 400px) {
-    .footer-mobile__row--two {
+    .footer-mobile__row {
         flex-direction: row;
     }
 }
 
+@media screen and (min-width: 1050px) {
+    .footer-mobile {
+        display: none;
+    }
+}
+
+/* ------------------------------------------------------ */
+/* PARTIAL - FOOTER DESKTOP
+/* ------------------------------------------------------ */
+
+.footer-desktop {
+    padding: 50px 16px;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    display: none;
+}
+
+.footer-desktop__column {
+
+}
+
+.footer-desktop__column--one {
+    margin-right: 60px;
+}
+
+.footer-desktop__logo {
+    width: 80px;
+    height: auto;
+}
+
+.footer-desktop__column--two {
+
+}
+
+.footer-desktop__column-two__item {
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.footer-desktop__column-two__item {
+    margin-right: 25px;
+}
+
+.footer-desktop__column-two__item:last-child {
+    margin-right: 60px;
+}
+
+.footer-desktop__column--three {
+    margin-left: auto;
+}
+
+.footer-desktop__column-three__item:not(:last-child) {
+    margin-right: 25px;
+}
+
+
+
+@media screen and (min-width: 1050px) {
+    .footer-desktop {
+        display: flex;
+    }
+}
+
+
+@media screen and (min-width: 1050px) {
+    .footer-desktop__column--one {
+        margin-right: 60px;
+    }
+    .footer-desktop__column-two__item:last-child {
+        margin-right: 60px;
+    }
+    .footer-desktop__column-two__item {
+        margin-right: 25px;
+    }
+}
+
+@media screen and (min-width: 1350px) {
+    .footer-desktop__column--one {
+        margin-right: 120px;
+    }
+    .footer-desktop__column-two__item:last-child {
+        margin-right: 120px;
+    }
+    .footer-desktop__column-two__item {
+        margin-right: 40px;
+    }
+}
 
 /* ------------------------------------------------------ */
 /* SECTION - HERO

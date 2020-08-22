@@ -62,7 +62,8 @@
     </main>
 
     <!-- FOOTER -->
-    <?php include '../partials/footer_mobile.php' ?>
+    <?php include './lang/de/partials/footer_mobile.php' ?>
+    <?php include './lang/de/partials/footer_desktop.php' ?>
     <!-- FOOTER -->
 
     <script src="http://localhost:8888/grafik_heller/js/ux.js"></script>
