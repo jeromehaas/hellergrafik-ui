@@ -15,7 +15,7 @@ body {
     background-color: #F5F5F5;
 }
 
-h1, h2, h3, h4, h5, p, td, a {
+h1, h2, h3, h4, h5, p, td, a, li {
     font-family: "fjPlatzGroteske-SemiBold";
     color: #151515;
 }
@@ -35,6 +35,10 @@ h3 {
     line-height: 33px;
 }
 
+p {
+    font-size: 16px;
+    line-height: 22px;
+}
 /* --------------------------------- */
 /* COMPONENT - NAVIGATION MOBILE
 /* --------------------------------- */
@@ -304,4 +308,85 @@ h3 {
 
 .project__title {
     margin-bottom: 40px
+}
+
+/* ------------------------------------------------------ */
+/* SECTION - INFO
+/* ------------------------------------------------------ */
+
+.section-info {
+    padding: 0 16px;
+    margin-top: 20px;
+}
+
+.section-info .intro__text {
+    margin-bottom: 30px;
+}
+
+.section-info .intro__link {
+    margin-bottom: 90px;
+}
+
+.section-info .intro__image {
+    width: 100%;
+    margin-bottom: 16px;
+}
+
+.section-info .cards {
+    display: flex;
+    flex-direction: column;
+}
+
+.section-info .card {
+    width: 100%;
+    text-align: center;
+    padding: 50px 25px;
+    background-color: #ffffff;
+    margin-bottom: 16px;
+}
+
+
+.section-info .card__title {
+    margin-bottom: 25px;
+}
+
+.section-info .about__image {
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+.section-info .about__title {
+    margin-bottom: 25px;
+}
+
+.section-info .about__text {
+    margin-bottom: 25px;
+}
+
+.section-info .about__link{
+    margin-bottom: 50px;
+}
+
+.section-info .contact__image {
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.section-info .contact__title {
+    font-size: 26px;
+    line-height: 33px;
+    margin-bottom: 25px;
+
+}
+
+.section-info .contact__address {
+    margin-bottom: 50px;
+}
+
+.section-info .contact__list-item {
+    line-height: 22px;
+}
+
+.section-info .contact__list-item:nth-child(2) {
+    margin-bottom: 22px;
 }
