@@ -20,9 +20,9 @@
                 heller grafik fokussiert sich auf wertebasiertes Branding. Die visuelle Sprache einer Marke soll unternehmerische Ziele und Werte wiederspiegeln und bei deren Publikum Anklang finden.<br>
                 Ich höre zu, möchte Zusammenhänge und Zielgruppen verstehen.
             </h2>
-            <a class="intro__link link link--small" href="" tabindex="1">
-                <svg class="link__arrow link__arrow--small" viewBox="0 0 80 91.97"><g id="Ebene_2" data-name="Ebene 2"><g id="Ebene_1-2" data-name="Ebene 1"><g id="_7jJlH4" data-name="7jJlH4"><path d="M34,0c-3.16,3.15-6.36,6.36-9.68,9.68L53.78,39.09H0V52.87H53.67l.1.17Q39.08,67.72,24.45,82.33q4.86,4.86,9.61,9.64L80,46Z"/></g></g></g></svg>
-                <span class="link__text link__text--small">Kontakt aufnehmen</span>
+            <a class="section-hero__content__link link-small" href="" tabindex="1">
+                <svg class="link-small__arrow" viewBox="0 0 80 91.97"><g id="Ebene_2" data-name="Ebene 2"><g id="Ebene_1-2" data-name="Ebene 1"><g id="_7jJlH4" data-name="7jJlH4"><path d="M34,0c-3.16,3.15-6.36,6.36-9.68,9.68L53.78,39.09H0V52.87H53.67l.1.17Q39.08,67.72,24.45,82.33q4.86,4.86,9.61,9.64L80,46Z"/></g></g></g></svg>
+                <span class="link-small__text">Kontakt aufnehmen</span>
             </a>
             <img class="intro__image" src="http://localhost:8888/grafik_heller/media/img/placeholder_img_yellow.png" alt="">
         </div>
@@ -61,9 +61,9 @@
             <p class="about__text">
                 Hier steht ein Text über mich. Hier steht ein Text über mich. Hier steht ein Text über mich. Hier steht ein Text über mich. Hier steht ein Text über mich. Hier steht ein Text über mich. Hier steht ein Text über mich. Hier steht ein Text über mich. Hier steht ein Text über mich. Hier steht ein Text über mich.
             </p>
-            <a class="about__link link link--small" href="" tabindex="1">
-                <svg class="link__arrow link__arrow--small" viewBox="0 0 80 91.97"><g id="Ebene_2" data-name="Ebene 2"><g id="Ebene_1-2" data-name="Ebene 1"><g id="_7jJlH4" data-name="7jJlH4"><path d="M34,0c-3.16,3.15-6.36,6.36-9.68,9.68L53.78,39.09H0V52.87H53.67l.1.17Q39.08,67.72,24.45,82.33q4.86,4.86,9.61,9.64L80,46Z"/></g></g></g></svg>
-                <span class="link__text link__text--small">Mehr erfahren</span>
+            <a class="section-hero__content__link link-small" href="" tabindex="1">
+                <svg class="link-small__arrow" viewBox="0 0 80 91.97"><g id="Ebene_2" data-name="Ebene 2"><g id="Ebene_1-2" data-name="Ebene 1"><g id="_7jJlH4" data-name="7jJlH4"><path d="M34,0c-3.16,3.15-6.36,6.36-9.68,9.68L53.78,39.09H0V52.87H53.67l.1.17Q39.08,67.72,24.45,82.33q4.86,4.86,9.61,9.64L80,46Z"/></g></g></g></svg>
+                <span class="link-small__text">Mehr efahren</span>
             </a>
         </div>
         <div class="contact">

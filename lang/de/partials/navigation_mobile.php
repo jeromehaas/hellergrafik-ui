@@ -1,6 +1,8 @@
 <nav class="navigation-mobile">
     <div class="navigation-mobile__bar">
-        <img class="navigation-mobile__logo" src="http://localhost:8888/grafik_heller/media/logo/logo.svg" alt="heller grafik">
+        <a class="navigation-mobile__logo__link" href="http://localhost:8888/grafik_heller/index.php">
+            <img class="navigation-mobile__logo" src="http://localhost:8888/grafik_heller/media/logo/logo.svg" alt="heller grafik">
+        </a>
         <button class="navigation-mobile__hamburger-menu hamburger--squeeze hamburger" type="button">
             <span class="hamburger__box">
                 <span class="hamburger__inner"></span>
@@ -16,4 +18,6 @@
 
 
 </nav>
+
+
 
