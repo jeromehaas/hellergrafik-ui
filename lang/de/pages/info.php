@@ -4,7 +4,7 @@
     <?php include '../partials/head.php' ?>
 </head>
 <body>
-<div id="page-wrapper">
+
 
     <!-- NAVIGATION DESKTOP -->
     <?php include '../partials/navigation_desktop.php' ?>
@@ -13,6 +13,8 @@
     <!-- NAVIGATION MOBILE -->
     <?php include '../partials/navigation_mobile.php' ?>
     <!-- NAVIGATION MOBILE -->
+
+    <div id="page-wrapper">
 
     <main class="section-info">
         <div class="intro">
@@ -24,7 +26,7 @@
                 <svg class="link-small__arrow" viewBox="0 0 80 91.97"><g id="Ebene_2" data-name="Ebene 2"><g id="Ebene_1-2" data-name="Ebene 1"><g id="_7jJlH4" data-name="7jJlH4"><path d="M34,0c-3.16,3.15-6.36,6.36-9.68,9.68L53.78,39.09H0V52.87H53.67l.1.17Q39.08,67.72,24.45,82.33q4.86,4.86,9.61,9.64L80,46Z"/></g></g></g></svg>
                 <span class="link-small__text">Kontakt aufnehmen</span>
             </a>
-            <img class="intro__image" src="http://localhost:8888/grafik_heller/media/img/placeholder_img_yellow.png" alt="">
+            <img class="intro__image" src="http://localhost:8888/grafik_heller/media/img/placeholder_img_grey_landscape.png" alt="">
         </div>
         <div class="cards">
             <article class="card ">
@@ -53,7 +55,7 @@
             </article>
         </div>
         <div class="about">
-            <img class="about__image" src="http://localhost:8888/grafik_heller/media/img/placeholder_img_yellow.png" alt="">
+            <img class="about__image" src="http://localhost:8888/grafik_heller/media/img/placeholder_img_grey_landscape.png" alt="">
             <h2 class="about__title">
                 Isabel Heller <br>
                 Visuelle Gestalterin
@@ -67,21 +69,20 @@
             </a>
         </div>
         <div class="contact">
-            <img class="contact__image" src="http://localhost:8888/grafik_heller/media/img/placeholder_img_yellow.png" alt="">
+            <img class="contact__image" src="http://localhost:8888/grafik_heller/media/img/placeholder_img_grey_landscape.png" alt="">
             <p class="contact__title">Kontakt</p>
             <address class="contact__address">
-                <ul class="contact__list">
-                    <li class="contact__list-item">isabel@hellergrafik.ch</li>
-                    <li class="contact__list-item">077 405 23 49</li>
-                    <li class="contact__list-item">heller grafik</li>
-                    <li class="contact__list-item">Isabel Heller</li>
-                    <li class="contact__list-item">Zähringerstrasse 13</li>
-                    <li class="contact__list-item">6003 Luzern</li>
-                </ul>
-
+                <a class="contact__address__link default-link" href="mailto:isabel@hellergrafik.ch">isabel@hellergrafik.ch</a><br>
+                <a class="contact__address__link default-link" href="tel:0774052349">077 405 23 49</a>
+                <p class="contact__address__text">heller grafik</p>
+                <p class="contact__address__text">Isabel Heller</p>
+                <p class="contact__address__text">Zähringerstrasse 13</p>
+                <p class="contact__address__text">6003 Luzern</p>
             </address>
         </div>
-</div>
+
+    </div>
+
 
 
 
@@ -94,6 +95,6 @@
 <!-- FOOTER -->
 
     <script src="http://localhost:8888/grafik_heller/js/ux.js"></script>
-</div>
+
 </body>
 </html>

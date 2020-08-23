@@ -36,7 +36,7 @@
 
 .hamburger__inner, .hamburger__inner::before, .hamburger__inner::after {
     width: 30px;
-    height: 3px;
+    height: 2px;
     background-color: #151515;
     border-radius: 4px;
     position: absolute;

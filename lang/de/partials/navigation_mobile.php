@@ -12,12 +12,10 @@
     <div class="navigation-mobile__placeholder"></div>
     <div class="navigation-mobile__link-background">
         <ul class="navigation-mobile__link-background__list">
-            <li class="navigation-mobile__link-background__list-item"><a class="navigation-mobile__link-background__list-item__link" href="http://localhost:8888/grafik_heller/lang/de/pages/work.php">Arbeiten</a></liclass>
-            <li class="navigation-mobile__link-background__list-item"><a class="navigation-mobile__link-background__list-item__link" href="http://localhost:8888/grafik_heller/lang/de/pages/info.php">Info</a></liclass>
+            <li class="navigation-mobile__link-background__list-item"><a class="navigation-mobile__link-background__list-item__link default-link" href="http://localhost:8888/grafik_heller/lang/de/pages/work.php">Arbeiten</a></li>
+            <li class="navigation-mobile__link-background__list-item"><a class="navigation-mobile__link-background__list-item__link default-link" href="http://localhost:8888/grafik_heller/lang/de/pages/info.php">Info</a></li>
         </ul>
     </div>
-
-
 </nav>
 
 
