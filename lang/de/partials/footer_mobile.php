@@ -6,6 +6,6 @@
     <address class="footer-mobile__row footer-mobile__row--two">
         <a class="footer-mobile__row-two__item" target="_blank" href="https://www.instagram.com/hellerisabel/?hl=en">Instagram</a>
         <p class="footer-mobile__row-two__item" >©Isabel Heller</p>
-        <a class="footer-mobile__row-two__item" target="_blank" href="http://localhost:8888/grafik_heller/lang/de/pages/impressum.php">Impressum</a>
+        <a class="footer-mobile__row-two__item" href="http://localhost:8888/grafik_heller/lang/de/pages/impressum.php">Impressum</a>
     </address>
 </footer>
