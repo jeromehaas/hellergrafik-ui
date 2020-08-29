@@ -70,18 +70,19 @@
             </a>
         </article>
         <article class="project">
-            <a href="" class="project__image__link">
+            <a href="../projects/project_xundzebi.php" class="project__image__link">
                 <img
                         class="project__image"
                         srcset="
-                        ../../../media/img/work/xund_zebi/10_500_Xund_Zebi_Karten_09_quer.jpg  500w,
-                        ../../../media/img/work/xund_zebi/10_1000_Xund_Zebi_Karten_09_quer.jpg  1000w,
-                        ../../../media/img/work/xund_zebi/10_1500_Xund_Zebi_Karten_09_quer.jpg  1500w,
-                        ../../../media/img/work/xund_zebi/10_2000_Xund_Zebi_Karten_09_quer.jpg  2000w,
-                        ../../../media/img/work/xund_zebi/10_2500_Xund_Zebi_Karten_09_quer.jpg  2500w"
+                        ../../../media/img/work/xundzebi/10_500_Xund_Zebi_Karten_09_quer.jpg  500w,
+                        ../../../media/img/work/xundzebi/10_1000_Xund_Zebi_Karten_09_quer.jpg  1000w,
+                        ../../../media/img/work/xundzebi/10_1500_Xund_Zebi_Karten_09_quer.jpg  1500w,
+                        ../../../media/img/work/xundzebi/10_2000_Xund_Zebi_Karten_09_quer.jpg  2000w,
+                        ../../../media/img/work/xundzebi/10_2500_Xund_Zebi_Karten_09_quer.jpg  2500w"
                         sizes="100%"
-                        alt="XUND Messeauftritt">            </a>
-            <a class="project__title link-big" href="" tabindex="5">
+                        alt="XUND Messeauftritt">
+            </a>
+            <a class="project__title link-big" href="../projects/project_xundzebi.php" tabindex="5">
                 <span class="link-big__text">XUND Messeauftritt</span>
                 <?php include '../../../media/icons/arrow_big.svg' ?>
             </a>

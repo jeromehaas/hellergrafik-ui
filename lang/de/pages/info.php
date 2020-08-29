@@ -69,10 +69,10 @@
                     class="about__image"
                     srcset="
                         ../../../media/img/info/02_500_Isabel_Heller_Grafik.jpg  500w,
-                        ../../../media/img/info/02_500_Isabel_Heller_Grafik.jpg  1000w,
-                        ../../../media/img/info/02_500_Isabel_Heller_Grafik.jpg  1500w,
-                        ../../../media/img/info/02_500_Isabel_Heller_Grafik.jpg  2000w,
-                        ../../../media/img/info/02_500_Isabel_Heller_Grafik.jpg  2500w,
+                        ../../../media/img/info/02_1000_Isabel_Heller_Grafik.jpg  1000w,
+                        ../../../media/img/info/02_1500_Isabel_Heller_Grafik.jpg  1500w,
+                        ../../../media/img/info/02_2000_Isabel_Heller_Grafik.jpg  2000w,
+                        ../../../media/img/info/02_2500_Isabel_Heller_Grafik.jpg  2500w,
                       "
                     sizes="100%"
                     alt="Isabel Heller">
