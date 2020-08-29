@@ -23,10 +23,20 @@
                 Ich höre zu, möchte Zusammenhänge und Zielgruppen verstehen.
             </h2>
             <a class="section-hero__content__link link-small" href="" tabindex="1">
-                <svg class="link-small__arrow" viewBox="0 0 80 91.97"><g id="Ebene_2" data-name="Ebene 2"><g id="Ebene_1-2" data-name="Ebene 1"><g id="_7jJlH4" data-name="7jJlH4"><path d="M34,0c-3.16,3.15-6.36,6.36-9.68,9.68L53.78,39.09H0V52.87H53.67l.1.17Q39.08,67.72,24.45,82.33q4.86,4.86,9.61,9.64L80,46Z"/></g></g></g></svg>
+                <?php include '../../../media/icons/arrow_small.svg' ?>
                 <span class="link-small__text">Kontakt aufnehmen</span>
             </a>
-            <img class="intro__image" src="http://localhost:8888/grafik_heller/media/img/placeholder_img_grey_landscape.png" alt="">
+            <img
+                    class="intro__image"
+                    srcset="
+                        ../../../media/img/info/01_500_hellergrafik_04.jpg  500w,
+                        ../../../media/img/info/01_1000_hellergrafik_04.jpg  1000w,
+                        ../../../media/img/info/01_1500_hellergrafik_04.jpg  1500w,
+                        ../../../media/img/info/01_2000_hellergrafik_04.jpg  2000w,
+                        ../../../media/img/info/01_2500_hellergrafik_04.jpg  2500w,
+                      "
+                    sizes="100%"
+                    alt="light my fire">
         </div>
         <div class="cards">
             <article class="card ">
@@ -55,7 +65,17 @@
             </article>
         </div>
         <div class="about">
-            <img class="about__image" src="http://localhost:8888/grafik_heller/media/img/placeholder_img_grey_landscape.png" alt="">
+            <img
+                    class="about__image"
+                    srcset="
+                        ../../../media/img/info/02_500_Isabel_Heller_Grafik.jpg  500w,
+                        ../../../media/img/info/02_500_Isabel_Heller_Grafik.jpg  1000w,
+                        ../../../media/img/info/02_500_Isabel_Heller_Grafik.jpg  1500w,
+                        ../../../media/img/info/02_500_Isabel_Heller_Grafik.jpg  2000w,
+                        ../../../media/img/info/02_500_Isabel_Heller_Grafik.jpg  2500w,
+                      "
+                    sizes="100%"
+                    alt="Isabel Heller">
             <h2 class="about__title">
                 Isabel Heller <br>
                 Visuelle Gestalterin
@@ -64,12 +84,22 @@
                 Hier steht ein Text über mich. Hier steht ein Text über mich. Hier steht ein Text über mich. Hier steht ein Text über mich. Hier steht ein Text über mich. Hier steht ein Text über mich. Hier steht ein Text über mich. Hier steht ein Text über mich. Hier steht ein Text über mich. Hier steht ein Text über mich.
             </p>
             <a class="section-hero__content__link link-small" href="" tabindex="1">
-                <svg class="link-small__arrow" viewBox="0 0 80 91.97"><g id="Ebene_2" data-name="Ebene 2"><g id="Ebene_1-2" data-name="Ebene 1"><g id="_7jJlH4" data-name="7jJlH4"><path d="M34,0c-3.16,3.15-6.36,6.36-9.68,9.68L53.78,39.09H0V52.87H53.67l.1.17Q39.08,67.72,24.45,82.33q4.86,4.86,9.61,9.64L80,46Z"/></g></g></g></svg>
+                <?php include '../../../media/icons/arrow_small.svg' ?>
                 <span class="link-small__text">Mehr efahren</span>
             </a>
         </div>
         <div class="contact">
-            <img class="contact__image" src="http://localhost:8888/grafik_heller/media/img/placeholder_img_grey_landscape.png" alt="">
+            <img
+                    class="contact__image"
+                    srcset="
+                        ../../../media/img/info/03_500_hellergrafik_02.jpg  500w,
+                        ../../../media/img/info/03_1000_hellergrafik_02.jpg  1000w,
+                        ../../../media/img/info/03_1500_hellergrafik_02.jpg  1500w,
+                        ../../../media/img/info/03_2000_hellergrafik_02.jpg  2000w,
+                        ../../../media/img/info/03_2500_hellergrafik_02.jpg  2500w,
+                      "
+                    sizes="100%"
+                    alt="Isabel Heller">
             <p class="contact__title">Kontakt</p>
             <address class="contact__address">
                 <a class="contact__address__link default-link" href="mailto:isabel@hellergrafik.ch">isabel@hellergrafik.ch</a><br>

@@ -7,6 +7,10 @@
     outline: none;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: #F5F5F5;
 }
@@ -73,11 +77,14 @@ img {
     text-decoration: none;
     display: inline-block;
     outline: none;
+}
 
+.link-big__arrow polygon {
+    transition: fill 0.3s ease
 }
 
 .link-big:hover,
-.link-big:hover .link-big__arrow,
+.link-big:hover .link-big__arrow polygon,
 .link-big:hover .link-big__text {
     color: #5101BE;
     fill: #5101BE;
@@ -85,7 +92,7 @@ img {
 }
 
 .link-big:focus,
-.link-big:focus .link-big__arrow,
+.link-big:focus .link-big__arrow polygon,
 .link-big:focus .link-big__text {
     color: #400095;
     fill: #400095;
@@ -129,8 +136,12 @@ img {
     outline: none;
 }
 
+.link-small__arrow polygon {
+    transition: fill 0.3s ease
+}
+
 .link-small:hover,
-.link-small:hover .link-small__arrow,
+.link-small:hover .link-small__arrow polygon,
 .link-small:hover .link-small__plus,
 .link-small:hover .link-small__text {
     color: #5101BE;
@@ -139,7 +150,7 @@ img {
 }
 
 .link-small:focus,
-.link-small:focus .link-small__arrow,
+.link-small:focus .link-small__arrow polygon,
 .link-small:hover .link-small__plus,
 .link-small:focus .link-small__text {
     color: #400095;
@@ -212,6 +223,7 @@ img {
     position: fixed;
     padding: 0 16px;
     background-color: #F5F5F5;
+    z-index: 5;
 }
 
 .navigation-mobile__logo {
@@ -270,7 +282,7 @@ img {
 
 .navigation-mobile__link-background.is-visible {
     height: 100px;
-    box-shadow: 0px 75px 80px 60px #f5f5f5;
+     box-shadow: 0px 75px 80px 60px #f5f5f5;
 
 }
 
@@ -595,20 +607,20 @@ img {
     margin-bottom: 40px;
 }
 
-.project__image__link:hover + .link-big .link-big__arrow,
+.project__image__link:hover + .link-big .link-big__arrow polygon,
 .project__image__link:hover +  .link-big .link-big__text {
     color: #5101BE;
     fill: #5101BE;
     border-color: #5101BE;
 }
 
-.project__image__link:hover + .link-big .link-big__arrow,
+.project__image__link:hover + .link-big .link-big__arrow ,
 .project__title:hover .link-big__arrow,
 .project__title:focus .link-big__arrow{
     margin-left: 9px !important;
 }
 
-.project__image__link:focus .link-big__arrow,
+.project__image__link:focus .link-big__arrow polygon,
 .project__image__link:focus .link-big__text {
     color: #400095;
     fill: #400095;
@@ -701,7 +713,7 @@ contact__address__text {
     margin-bottom: 22px;;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 950px) {
     .section-info .cards {
         flex-direction: row;
     }
@@ -785,22 +797,30 @@ contact__address__text {
 @media screen and (min-width: 700px) {
     .item-1     { grid-area: 1 / 1 / 2 / 3; }
     .item-2     { grid-area: 2 / 1 / 4 / 2; }
-    .item-3     { grid-area: 2 / 2 / 3 / 3; }
-    .item-4     { grid-area: 3 / 2 / 4 / 3; }
-    .item-5     { grid-area: 4 / 1 / 5 / 3; }
-    .item-6     { grid-area: 5 / 1 / 6 / 3; }
-    .item-7     { grid-area: 6 / 1 / 7 / 2; }
-    .item-8     { grid-area: 7 / 1 / 8 / 2; }
-    .item-9     { grid-area: 6 / 2 / 8 / 3; }
-    .item-10    { grid-area: 8 / 1 / 9 / 3; }
+    .item-3     { grid-area: 2 / 2 / 4 / 3; }
+    .item-4     { grid-area: 4 / 1 / 5 / 3; }
+    .item-5     { grid-area: 5 / 1 / 7 / 2; }
+    .item-6     { grid-area: 5 / 2 / 6 / 3; }
+    .item-7     { grid-area: 6 / 2 / 7 / 3; }
+    .item-8     { grid-area: 7 / 1 / 8 / 3; }
+    .item-9     { grid-area: 8 / 1 / 9 / 2; }
+    .item-10    { grid-area: 8 / 2 / 9 / 3; }
     .item-11    { grid-area: 9 / 1 / 10 / 3; }
-    .item-12    { grid-area: 10 / 1 / 11 / 3; }
-    .item-13    { grid-area: 11 / 1 / 12 / 2; }
-    .item-14    { grid-area: 12 / 1 / 13 / 2; }
-    .item-15    { grid-area: 11 / 2 / 13 / 3; }
-    .item-16    { grid-area: 13 / 1 / 14 / 3; }
-    .item-17    { grid-area: 14 / 1 / 15 / 3; }
-    .item-18    { grid-area: 15 / 1 / 16 / 3; }
+    .item-12    { grid-area: 10 / 1 / 11 / 2; }
+    .item-13    { grid-area: 10 / 2 / 11 / 3; }
+    .item-14    { grid-area: 11 / 1 / 12 / 3; }
+    .item-15    { grid-area: 12 / 1 / 13 / 2; }
+    .item-16    { grid-area: 12 / 2 / 13 / 3; }
+    .item-17    { grid-area: 13 / 1 / 14 / 3; }
+    .item-18    { grid-area: 14 / 1 / 15 / 3; }
+    .item-19    { grid-area: 15 / 1 / 16 / 2; }
+    .item-20    { grid-area: 15 / 2 / 16 / 3; }
+    .item-21    { grid-area: 16 / 1 / 17 /3; }
+    .item-22    { grid-area: 17 / 1 / 18 / 2; }
+    .item-23    { grid-area: 17 / 2 / 18 / 3; }
+    .item-24    { grid-area: 18 / 1 / 19 / 3; }
+    .item-25    { grid-area: 19 / 1 / 20 / 3; }
+    .item-26    { grid-area: 20 / 1 / 21 / 3; }
 }
 
 @media screen and (min-width: 1000px) {

@@ -3,10 +3,22 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <title>heller grafik</title>
 <link rel="stylesheet" href="http://localhost:8888/grafik_heller/css/central.css">
-<link rel="apple-touch-icon" sizes="180x180" href="http://localhost:8888/grafik_heller/media/favicon/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="57x57" href="http://localhost:8888/grafik_heller/media/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="http://localhost:8888/grafik_heller/media/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="http://localhost:8888/grafik_heller/media/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="http://localhost:8888/grafik_heller/media/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="http://localhost:8888/grafik_heller/media/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="http://localhost:8888/grafik_heller/media/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="http://localhost:8888/grafik_heller/media/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="http://localhost:8888/grafik_heller/media/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="http://localhost:8888/grafik_heller/media/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="http://localhost:8888/grafik_heller/media/favicon/android-icon-192x192.png">
 <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:8888/grafik_heller/media/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="http://localhost:8888/grafik_heller/media/favicon/favicon-96x96.png">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:8888/grafik_heller/media/favicon/favicon-16x16.png">
-<link rel="mask-icon" href="http://localhost:8888/grafik_heller/media/favicon/safari-pinned-tab.svg" color="#000000">
-<link rel="shortcut icon" href="http://localhost:8888/grafik_heller/media/favicon/favicon.ico">
+<link rel="manifest" href="http://localhost:8888/grafik_heller/media/favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="http://localhost:8888/grafik_heller/media/favicon/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+

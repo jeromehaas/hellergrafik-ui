@@ -17,11 +17,21 @@
 
 
     <div class="section-hero">
-            <img class="section-hero__image" src="http://localhost:8888/grafik_heller/media/img/placeholder_img_yellow.png" alt="">
+            <img
+                    class="section-hero__image"
+                    srcset="
+                        ./media/img/start/01_500_hellergrafik_03_quer.jpg  500w,
+                        ./media/img/start/01_1000_hellergrafik_03_quer.jpg  1000w,
+                        ./media/img/start/01_1500_hellergrafik_03_quer.jpg  1500w,
+                        ./media/img/start/01_1500_hellergrafik_03_quer.jpg  2000w,
+                        ./media/img/start/01_1500_hellergrafik_03_quer.jpg  2500w,
+                      "
+                    sizes="100%"
+                    alt="heller grafik">
             <div class="section-hero__content">
                 <h1 class="section-hero__content__title">Grafik für helle Köpfe. Hinter heller grafik steckt eine visuelle Gestalterin aus Luzern mit Passion zu durchdachtem Branding.</h1>
                 <a class="section-hero__content__link link-small" href="http://localhost:8888/grafik_heller/lang/de/pages/info.php" tabindex="1">
-                    <svg class="link-small__arrow" viewBox="0 0 80 91.97"><g id="Ebene_2" data-name="Ebene 2"><g id="Ebene_1-2" data-name="Ebene 1"><g id="_7jJlH4" data-name="7jJlH4"><path d="M34,0c-3.16,3.15-6.36,6.36-9.68,9.68L53.78,39.09H0V52.87H53.67l.1.17Q39.08,67.72,24.45,82.33q4.86,4.86,9.61,9.64L80,46Z"/></g></g></g></svg>
+                    <?php include './media/icons/arrow_small.svg' ?>
                     <span class="link-small__text">Mehr efahren</span>
                 </a>
             </div>
@@ -30,48 +40,82 @@
     <div id="page-wrapper">
 
     <main class="section-projects">
+
         <article class="project">
-            <a href="./lang/de/projects/xund/project_xund.php" class="project__image__link">
-                <img class="project__image" src="http://localhost:8888/grafik_heller/media/img/placeholder_img_grey_landscape.png" alt="">
+            <a href="lang/de/projects/project_xund.php" class="project__image__link">
+                <img
+                        class="project__image"
+                        srcset="
+                        ./media/img/work/xund/01_500_Berufsfodler_Detail_03_quer.jpg  500w,
+                        ./media/img/work/xund/01_1000_Berufsfodler_Detail_03_quer.jpg  1000w,
+                        ./media/img/work/xund/01_1500_Berufsfodler_Detail_03_quer.jpg  1500w,
+                        ./media/img/work/xund/01_2000_Berufsfodler_Detail_03_quer.jpg  2000w,
+                        ./media/img/work/xund/01_2500_Berufsfodler_Detail_03_quer.jpg  2500w,
+                      "
+                        sizes="100%"
+                        alt="XUND Bildung Gesundheit Zentralschweiz">
             </a>
             <a class="project__title link-big" href="" tabindex="2">
                 <span class="link-big__text">XUND Bildung Gesundheit Zentralschweiz</span>
-                <svg class="link-big__arrow" viewBox="0 0 80 91.97">
-                    <path d="M34,0c-3.16,3.15-6.36,6.36-9.68,9.68L53.78,39.09H0V52.87H53.67l.1.17Q39.08,67.72,24.45,82.33q4.86,4.86,9.61,9.64L80,46Z"/>
-                </svg>
+                <?php include './media/icons/arrow_big.svg' ?>
             </a>
         </article>
+
         <article class="project">
             <a href="" class="project__image__link">
-                <img class="project__image" src="http://localhost:8888/grafik_heller/media/img/placeholder_img_grey_landscape.png" alt="">
+                <img
+                        class="project__image"
+                        srcset="
+                        ./media/img/work/albertini/01_500_Kontrast_Detail_07.jpg  500w,
+                        ./media/img/work/albertini/01_1000_Kontrast_Detail_07.jpg  1000w,
+                        ./media/img/work/albertini/01_1500_Kontrast_Detail_07.jpg  1500w,
+                        ./media/img/work/albertini/01_2000_Kontrast_Detail_07.jpg  2000w,
+                        ./media/img/work/albertini/01_2500_Kontrast_Detail_07.jpg  2500w,
+                      "
+                        sizes="100%"
+                        alt="Albertini">
             </a>
             <a class="project__title link-big" href="" tabindex="3">
                 <span class="link-big__text">Albertini</span>
-                <svg class="link-big__arrow" viewBox="0 0 80 91.97">
-                    <path d="M34,0c-3.16,3.15-6.36,6.36-9.68,9.68L53.78,39.09H0V52.87H53.67l.1.17Q39.08,67.72,24.45,82.33q4.86,4.86,9.61,9.64L80,46Z"/>
-                </svg>
+                <?php include './media/icons/arrow_big.svg' ?>
             </a>
         </article>
         <article class="project">
             <a href="" class="project__image__link">
-                <img class="project__image" src="http://localhost:8888/grafik_heller/media/img/placeholder_img_grey_landscape.png" alt="">
+                <img
+                        class="project__image"
+                        srcset="
+                        ./media/img/work/hellergrafik/01_500_hellergrafik_01_quer.jpg  500w,
+                        ./media/img/work/hellergrafik/01_1000_hellergrafik_01_quer.jpg  1000w,
+                        ./media/img/work/hellergrafik/01_1500_hellergrafik_01_quer.jpg  1500w,
+                        ./media/img/work/hellergrafik/01_2000_hellergrafik_01_quer.jpg  2000w,
+                        ./media/img/work/hellergrafik/01_2500_hellergrafik_01_quer.jpg  2500w,
+                      "
+                        sizes="100%"
+                        alt="heller grafik">
             </a>
             <a class="project__title link-big" href="" tabindex="4">
-                <span class="link-big__text">Parksolution</span>
-                <svg class="link-big__arrow" viewBox="0 0 80 91.97">
-                    <path d="M34,0c-3.16,3.15-6.36,6.36-9.68,9.68L53.78,39.09H0V52.87H53.67l.1.17Q39.08,67.72,24.45,82.33q4.86,4.86,9.61,9.64L80,46Z"/>
-                </svg>
+                <span class="link-big__text">heller grafik</span>
+                <?php include './media/icons/arrow_big.svg' ?>
             </a>
         </article>
         <article class="project">
             <a href="" class="project__image__link">
-                <img class="project__image" src="http://localhost:8888/grafik_heller/media/img/placeholder_img_grey_landscape.png" alt="">
+                <img
+                        class="project__image"
+                        srcset="
+                        ./media/img/work/xund_zebi/10_500_Xund_Zebi_Karten_09_quer.jpg  500w,
+                        ./media/img/work/xund_zebi/10_1000_Xund_Zebi_Karten_09_quer.jpg  1000w,
+                        ./media/img/work/xund_zebi/10_1500_Xund_Zebi_Karten_09_quer.jpg  1500w,
+                        ./media/img/work/xund_zebi/10_2000_Xund_Zebi_Karten_09_quer.jpg  2000w,
+                        ./media/img/work/xund_zebi/10_2500_Xund_Zebi_Karten_09_quer.jpg  2500w,
+                      "
+                        sizes="100%"
+                        alt="XUND Messeauftritt">
             </a>
             <a class="project__title link-big" href="" tabindex="5">
                 <span class="link-big__text">XUND Messeauftritt</span>
-                <svg class="link-big__arrow" viewBox="0 0 80 91.97">
-                    <path d="M34,0c-3.16,3.15-6.36,6.36-9.68,9.68L53.78,39.09H0V52.87H53.67l.1.17Q39.08,67.72,24.45,82.33q4.86,4.86,9.61,9.64L80,46Z"/>
-                </svg>
+                <?php include './media/icons/arrow_big.svg' ?>
             </a>
         </article>
     </main>
