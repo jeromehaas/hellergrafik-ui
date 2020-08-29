@@ -5,6 +5,7 @@
         </a>
         <a class="navigation-desktop__navigation-item link-navigation default-link" href="http://localhost:8888/grafik_heller/lang/de/pages/work.php">Arbeiten</a>
         <a class="navigation-desktop__navigation-item link-navigation default-link" href="http://localhost:8888/grafik_heller/lang/de/pages/info.php">Info</a>
+        <a class="navigation-desktop__navigation-item link-navigation default-link" href="http://localhost:8888/grafik_heller/lang/de/pages/info.php">Kontakt</a>
     </div>
     <div class="navigation-desktop__placeholder"></div>
 </nav>

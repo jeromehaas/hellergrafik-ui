@@ -14,6 +14,7 @@
         <ul class="navigation-mobile__link-background__list">
             <li class="navigation-mobile__link-background__list-item"><a class="navigation-mobile__link-background__list-item__link default-link" href="http://localhost:8888/grafik_heller/lang/de/pages/work.php">Arbeiten</a></li>
             <li class="navigation-mobile__link-background__list-item"><a class="navigation-mobile__link-background__list-item__link default-link" href="http://localhost:8888/grafik_heller/lang/de/pages/info.php">Info</a></li>
+            <li class="navigation-mobile__link-background__list-item"><a class="navigation-mobile__link-background__list-item__link default-link" href="http://localhost:8888/grafik_heller/lang/de/pages/info.php">Kontakt</a></li>
         </ul>
     </div>
 </nav>
