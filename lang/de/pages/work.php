@@ -36,7 +36,7 @@
             </a>
         </article>
         <article class="project">
-            <a href="" class="project__image__link">
+            <a href="../projects/project_albertini.php" class="project__image__link">
                 <img
                         class="project__image"
                         srcset="
@@ -49,7 +49,7 @@
                         sizes="100%"
                         alt="Albertini">
             </a>
-            <a class="project__title link-big" href="" tabindex="3">
+            <a class="project__title link-big" href="../projects/project_albertini.php" tabindex="3">
                 <span class="link-big__text">Albertini</span>
                 <?php include '../../../media/icons/arrow_big.svg' ?>
             </a>

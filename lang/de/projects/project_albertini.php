@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="de">
+<head>
+    <?php include '../partials/head.php' ?>
+</head>
+<body>
+
+<!-- NAVIGATION DESKTOP -->
+<?php include '../partials/navigation_desktop.php' ?>
+<!-- NAVIGATION DESKTOP -->
+
+<!-- NAVIGATION MOBILE -->
+<?php include '../partials/navigation_mobile.php' ?>
+<!-- NAVIGATION MOBILE -->
+
+<div id="page-wrapper">
+
+    <div class="section-description">
+        <img
+            class="section-description__image"
+            srcset="
+                        ../../../media/img/work/albertini/01_500_Kontrast_Detail_07.jpg  500w,
+                        ../../../media/img/work/albertini/01_1000_Kontrast_Detail_07.jpg  1000w,
+                        ../../../media/img/work/albertini/01_1500_Kontrast_Detail_07.jpg  1500w,
+                        ../../../media/img/work/albertini/01_2000_Kontrast_Detail_07.jpg  2000w,
+                        ../../../media/img/work/albertini/01_2500_Kontrast_Detail_07.jpg  2500w,
+                      "
+            sizes="100%"
+            alt="XUND Bildung Gesundheit Zentralschweiz">
+        <div class="section-description__content">
+            <h3 class="section-description__content__title"> XUND Bildung Gesundheit Zentralschweiz</h3>
+            <div class="section-description__content__container">
+                <p class="section-description__content__description">Seit dem 1. August 2017 gehen die Höhere Fachschule Gesundheit Zentralschweiz (HFGZ) und die Zentralschweizer Interessengemeinschaft Gesundheitsberufe (ZIGG) einen gemeinsamen Weg und treten unter dem Namen XUND auf.</p>
+                <a class="section-description__content__link link-small" href="" tabindex="1">
+                    <svg class="link-small__plus" viewBox="0 0 62.11 62.08"><rect x="26.36" y="6.03" width="9.42" height="50"/><rect x="26.36" y="5.62" width="9.42" height="50.82" transform="translate(62.1 -0.05) rotate(90)"/></svg>
+                    <span class="link-small__text">Mehr efahren</span>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="section-details section-details--albertini">
+        <img class="detail__image item-1"       srcset="../../../media/img/work/albertini/02_500_Kontrast_Cover.jpg  500w,                  ../../../media/img/work/albertini/02_1000_Kontrast_Cover.jpg  1000w,                    ../../../media/img/work/albertini/02_1500_Kontrast_Cover.jpg  1500w,                      ../../../media/img/work/albertini/02_2000_Kontrast_Cover.jpg  2000w,                     ../../../media/img/work/albertini/02_2500_Kontrast_Cover.jpg  2500w"                     sizes="100%"        alt="Isabel Heller">
+        <img class="detail__image item-2"       srcset="../../../media/img/work/albertini/03_500_Kontrast_05_hoch.jpg  500w,                ../../../media/img/work/albertini/03_500_Kontrast_05_hoch.jpg  1000w,                   ../../../media/img/work/albertini/03_500_Kontrast_05_hoch.jpg  1500w,                     ../../../media/img/work/albertini/03_500_Kontrast_05_hoch.jpg  2000w,                    ../../../media/img/work/albertini/03_500_Kontrast_05_hoch.jpg   2500w"                   sizes="100%"        alt="Isabel Heller">
+        <img class="detail__image item-3"       srcset="../../../media/img/work/albertini/04_500_Kontrast_Detail_07.jpg  500w,              ../../../media/img/work/albertini/04_500_Kontrast_Detail_07.jpg  1000w,                 ../../../media/img/work/albertini/04_500_Kontrast_Detail_07.jpg  1500w,                   ../../../media/img/work/albertini/04_500_Kontrast_Detail_07.jpg  2000w,                  ../../../media/img/work/albertini/04_500_Kontrast_Detail_07.jpg  2500w"                  sizes="100%"        alt="Isabel Heller">
+        <img class="detail__image item-4"       srcset="../../../media/img/work/albertini/05_500_Kontrast_Detail_06.jpg  500w,              ../../../media/img/work/albertini/05_500_Kontrast_Detail_06.jpg  1000w,                 ../../../media/img/work/albertini/05_500_Kontrast_Detail_06.jpg 1500w,                    ../../../media/img/work/albertini/05_500_Kontrast_Detail_06.jpg  2000w,                  ../../../media/img/work/albertini/05_500_Kontrast_Detail_06.jpg  2500w"                  sizes="100%"        alt="Isabel Heller">
+        <img class="detail__image item-5"       srcset="../../../media/img/work/albertini/06_500_Kontrast_02.jpg  500w,                     ../../../media/img/work/albertini/06_500_Kontrast_02.jpg  1000w,                        ../../../media/img/work/albertini/06_500_Kontrast_02.jpg  1500w,                          ../../../media/img/work/albertini/06_500_Kontrast_02.jpg  2000w,                         ../../../media/img/work/albertini/06_500_Kontrast_02.jpg  2500w"                         sizes="100%"        alt="Isabel Heller">
+        <img class="detail__image item-6"       srcset="../../../media/img/work/albertini/07_500_Kontrast_01.jpg  500w,                     ../../../media/img/work/albertini/07_500_Kontrast_01.jpg  1000w,                        ../../../media/img/work/albertini/07_500_Kontrast_01.jpg  1500w,                          ../../../media/img/work/albertini/07_500_Kontrast_01.jpg 2000w,                          ../../../media/img/work/albertini/07_500_Kontrast_01.jpg  2500w"                         sizes="100%"        alt="Isabel Heller">
+        <img class="detail__image item-7"       srcset="../../../media/img/work/albertini/08_500_Kontrast_Detail_04.jpg  500w,              ../../../media/img/work/albertini/08_500_Kontrast_Detail_04.jpg  1000w,                 ../../../media/img/work/albertini/08_500_Kontrast_Detail_04.jpg  1500w,                   ../../../media/img/work/albertini/08_500_Kontrast_Detail_04.jpg  2000w,                  ../../../media/img/work/albertini/08_500_Kontrast_Detail_04.jpg  2500w"                  sizes="100%"        alt="Isabel Heller">
+        <img class="detail__image item-8"       srcset="../../../media/img/work/albertini/09_500_Kontrast_Detail_05.jpg  500w,              ../../../media/img/work/albertini/09_500_Kontrast_Detail_05.jpg 1000w,                  ../../../media/img/work/albertini/09_500_Kontrast_Detail_05.jpg  1500w,                   ../../../media/img/work/albertini/09_500_Kontrast_Detail_05.jpg  2000w,                  ../../../media/img/work/albertini/09_500_Kontrast_Detail_05.jpg  2500w"                  sizes="100%"        alt="Isabel Heller">
+        <img class="detail__image item-9"       srcset="../../../media/img/work/albertini/10_500_Kontrast_06_hoch.jpg  500w,                ../../../media/img/work/albertini/10_500_Kontrast_06_hoch.jpg   1000w,                  ../../../media/img/work/albertini/10_500_Kontrast_06_hoch.jpg   1500w,                    ../../../media/img/work/albertini/10_500_Kontrast_06_hoch.jpg   2000w,                   ../../../media/img/work/albertini/10_500_Kontrast_06_hoch.jpg   2500w"                   sizes="100%"        alt="Isabel Heller">
+        <img class="detail__image item-10"      srcset="../../../media/img/work/albertini/11_500_Kontrast_03.jpg  500w,                     ../../../media/img/work/albertini/11_500_Kontrast_03.jpg  1000w,                        ../../../media/img/work/albertini/11_500_Kontrast_03.jpg  1500w,                          ../../../media/img/work/albertini/11_500_Kontrast_03.jpg  2000w,                         ../../../media/img/work/albertini/11_500_Kontrast_03.jpg  2500w"                         sizes="100%"        alt="Isabel Heller">
+        <img class="detail__image item-11"      srcset="../../../media/img/work/albertini/12_500_Kontrast_04.jpg  500w,                     ../../../media/img/work/albertini/12_500_Kontrast_04.jpg  1000w,                        ../../../media/img/work/albertini/12_500_Kontrast_04.jpg  1500w,                          ../../../media/img/work/albertini/12_500_Kontrast_04.jpg  2000w,                         ../../../media/img/work/albertini/12_500_Kontrast_04.jpg  2500w"                         sizes="100%"        alt="Isabel Heller">
+        <img class="detail__image item-12"      srcset="../../../media/img/work/albertini/13_500_logo_website_content.jpg  500w,            ../../../media/img/work/albertini/13_500_logo_website_content.jpg  1000w,               ../../../media/img/work/albertini/13_500_logo_website_content.jpg  1500w,                 ../../../media/img/work/albertini/13_500_logo_website_content.jpg  2000w,                ../../../media/img/work/albertini/13_500_logo_website_content.jpg  2500w"                sizes="100%"        alt="Isabel Heller">
+        <img class="detail__image item-13"      srcset="../../../media/img/work/albertini/14_500_Factsheet_Detail_02.jpg  500w,             ../../../media/img/work/albertini/14_500_Factsheet_Detail_02.jpg  1000w,                ../../../media/img/work/albertini/14_500_Factsheet_Detail_02.jpg  1500w,                  ../../../media/img/work/albertini/14_500_Factsheet_Detail_02.jpg  2000w,                 ../../../media/img/work/albertini/14_500_Factsheet_Detail_02.jpg  2500w"                 sizes="100%"        alt="Isabel Heller">
+        <img class="detail__image item-14"      srcset="../../../media/img/work/albertini/15_500_Factsheet_Detail_03.jpg  500w,             ../../../media/img/work/albertini/15_500_Factsheet_Detail_03.jpg  1000w,                ../../../media/img/work/albertini/15_500_Factsheet_Detail_03.jpg  1500w,                  ../../../media/img/work/albertini/15_500_Factsheet_Detail_03.jpg  2000w,                 ../../../media/img/work/albertini/15_500_Factsheet_Detail_03.jpg  2500w"                 sizes="100%"        alt="Isabel Heller">
+        <img class="detail__image item-15"      srcset="../../../media/img/work/albertini/16_500_Factsheet_Detail_01_hoch.jpg  500w,        ../../../media/img/work/albertini/16_500_Factsheet_Detail_01_hoch.jpg  1000w,           ../../../media/img/work/albertini/16_500_Factsheet_Detail_01_hoch.jpg  1500w,             ../../../media/img/work/albertini/16_500_Factsheet_Detail_01_hoch.jpg  2000w,            ../../../media/img/work/albertini/16_500_Factsheet_Detail_01_hoch.jpg  2500w"            sizes="100%"        alt="Isabel Heller">
+        <img class="detail__image item-16"      srcset="../../../media/img/work/albertini/17_500_Factsheet_2_bearb.jpg  500w,               ../../../media/img/work/albertini/17_500_Factsheet_2_bearb.jpg  1000w,                  ../../../media/img/work/albertini/17_500_Factsheet_2_bearb.jpg  1500w,                    ../../../media/img/work/albertini/17_500_Factsheet_2_bearb.jpg  2000w,                   ../../../media/img/work/albertini/17_500_Factsheet_2_bearb.jpg  2500w"                   sizes="100%"        alt="Isabel Heller">
+        <img class="detail__image item-17"      srcset="../../../media/img/work/albertini/18_500_Factsheet_5.jpg  500w,                     ../../../media/img/work/albertini/18_500_Factsheet_5.jpg  1000w,                        ../../../media/img/work/albertini/18_500_Factsheet_5.jpg  1500w,                          ../../../media/img/work/albertini/18_500_Factsheet_5.jpg  2000w,                         ../../../media/img/work/albertini/18_500_Factsheet_5.jpg  2500w"                         sizes="100%"        alt="Isabel Heller">
+        <img class="detail__image item-18"      srcset="../../../media/img/work/albertini/19_500_Factsheet_3.jpg  500w,                     ../../../media/img/work/albertini/19_500_Factsheet_3.jpg  1000w,                        ../../../media/img/work/albertini/19_500_Factsheet_3.jpg  1500w,                          ../../../media/img/work/albertini/19_500_Factsheet_3.jpg  2000w,                         ../../../media/img/work/albertini/19_500_Factsheet_3.jpg  2500w"                         sizes="100%"        alt="Isabel Heller">
+    </div>
+
+</div>
+
+<!-- FOOTER -->
+<?php include '../partials/footer_mobile.php' ?>
+<?php include '../partials/footer_desktop.php' ?>
+<!-- FOOTER -->
+
+<script src="http://localhost:8888/grafik_heller/js/ux.js"></script>
+
+</body>
+</html>
