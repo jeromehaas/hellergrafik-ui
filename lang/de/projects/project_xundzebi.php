@@ -29,7 +29,18 @@
         <div class="section-description__content">
             <h3 class="section-description__content__title"> XUND Bildung Gesundheit Zentralschweiz</h3>
             <div class="section-description__content__container">
-                <p class="section-description__content__description">Seit dem 1. August 2017 gehen die Höhere Fachschule Gesundheit Zentralschweiz (HFGZ) und die Zentralschweizer Interessengemeinschaft Gesundheitsberufe (ZIGG) einen gemeinsamen Weg und treten unter dem Namen XUND auf.</p>
+                <p class="section-description__content__description">Für XUND wurde ein neuer Eye-Catcher und Anziehungspunkt an der Zentralschweizer Bildungsmesse entwickelt. Mittels einem interaktiven Game konnten die Besucher auf eine spielerische Art herausfinden, welche Gesundheitsberufe zu ihnen passen und zu welchem XUND-Typ sie gehören.</p>
+                <p class="section-description__content__description">Das gesamte Bildungsangebot der Gesundheitsbranche wurde vier XUND-Typen zugeteilt: dem Menschenfreund, dem Technikwunder, dem Actionheld oder der Sportskanone. Hatte man das Game durchgespielt, bekam man als Belohnung einen Gymbag und eine entsprechende Infokarte mit vorgeschlagenen Bildungsangeboten – gebrandet mit ihrem XUND-Typ-Label. Ich entwickelte bei der Agentur FRONTAL AG einen grossen Teil  des Messestandkonzepts und die verschiedenen, dazugehörigen visuellen Elemente.</p>
+                <div class="section-description__show-more-box show-more-box">
+                    <div class="show-more-box__item">
+                        <p class="show-more-box__title">Realisation</p>
+                        <p class="show-more-box__text">2018 bei Agentur FRONTAL AG, Willisau</p>
+                    </div>
+                    <div class="show-more-box__item">
+                        <p class="show-more-box__title">Leistungen</p>
+                        <p class="show-more-box__text">Visuelle Konzeption, Print Design</p>
+                    </div>
+                </div>
                 <a class="section-description__content__link link-small" href="" tabindex="1">
                     <svg class="link-small__plus" viewBox="0 0 62.11 62.08"><rect x="26.36" y="6.03" width="9.42" height="50"/><rect x="26.36" y="5.62" width="9.42" height="50.82" transform="translate(62.1 -0.05) rotate(90)"/></svg>
                     <span class="link-small__text">Mehr efahren</span>

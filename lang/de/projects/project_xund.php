@@ -16,6 +16,7 @@
     <div id="page-wrapper">
 
     <div class="section-description">
+
         <img
                 class="section-description__image"
                 srcset="
@@ -23,14 +24,29 @@
                         ../../../media/img/work/xund/01_1000_Berufsfodler_Detail_03_quer.jpg  1000w,
                         ../../../media/img/work/xund/01_1500_Berufsfodler_Detail_03_quer.jpg  1500w,
                         ../../../media/img/work/xund/01_2000_Berufsfodler_Detail_03_quer.jpg  2000w,
-                        ../../../media/img/work/xund/01_2500_Berufsfodler_Detail_03_quer.jpg  2500w,
-                      "
+                        ../../../media/img/work/xund/01_2500_Berufsfodler_Detail_03_quer.jpg  2500w"
                 sizes="100%"
                 alt="XUND Bildung Gesundheit Zentralschweiz">
+
         <div class="section-description__content">
-            <h3 class="section-description__content__title"> XUND Bildung Gesundheit Zentralschweiz</h3>
+            <h3 class="section-description__content__title">XUND Bildung Gesundheit Zentralschweiz</h3>
             <div class="section-description__content__container">
-                <p class="section-description__content__description">Seit dem 1. August 2017 gehen die Höhere Fachschule Gesundheit Zentralschweiz (HFGZ) und die Zentralschweizer Interessengemeinschaft Gesundheitsberufe (ZIGG) einen gemeinsamen Weg und treten unter dem Namen XUND auf.</p>
+                <p class="section-description__content__description">Seit August 2017 gehen die Höhere Fachschule Gesundheit Zentralschweiz (HFGZ) und die Zentralschweizer Interessengemeinschaft Gesundheitsberufe (ZIGG) einen gemeinsamen Weg und treten unter dem Namen XUND auf. Ich begleitete bei der Agentur FRONTAL AG die Designkonzeptphase und Realisierungsphase der neuen Marke «XUND» intensiv.</p>
+                <p class="section-description__content__description">XUND positioniert sich als vernetzte, zentralschweizer Drehscheibe der Gesundheitsbranche in Theorie und Praxis. Die Wortmarke, die einzigartigen Icons, speziell für XUND entwickelt, und weitere Design-Elemente, aber auch die Erstellung der Geschäftsdrucksachen und Layouts für diverse Kommunikationsmittel, Give-Aways, Event- und Messematerial sowie Signaletik trägt meine Handschrift.</p>
+                <div class="section-description__show-more-box show-more-box">
+                    <div class="show-more-box__item">
+                        <p class="show-more-box__title">Realisation</p>
+                        <p class="show-more-box__text">2016 – 2018 bei Agentur FRONTAL AG, Willisau</p>
+                    </div>
+                    <div class="show-more-box__item">
+                        <p class="show-more-box__title">Leistungen</p>
+                        <p class="show-more-box__text">Branding, Print Design, Signaletik</p>
+                    </div>
+                    <div class="show-more-box__item">
+                        <p class="show-more-box__title">Auszeichnung</p>
+                        <p class="show-more-box__text">German Design Award Special Mention in Brand Identity</p>
+                    </div>
+                </div>
                 <a class="section-description__content__link link-small" href="" tabindex="1">
                     <svg class="link-small__plus" viewBox="0 0 62.11 62.08"><rect x="26.36" y="6.03" width="9.42" height="50"/><rect x="26.36" y="5.62" width="9.42" height="50.82" transform="translate(62.1 -0.05) rotate(90)"/></svg>
                     <span class="link-small__text">Mehr efahren</span>
@@ -40,7 +56,7 @@
     </div>
 
     <div class="section-details section-details--xund">
-        <img class="detail__image item-1"       srcset="../../../media/img/work/xund/02_500_Geschaeftsdrucksachen_012.jpg  500w,            ../../../media/img/work/xund/02_1000_Geschaeftsdrucksachen_012.jpg  1000w,               ../../../media/img/work/xund/02_1500_Geschaeftsdrucksachen_012.jpg  1500w,               ../../../media/img/work/xund/02_2000_Geschaeftsdrucksachen_012.jpg  2000w,              ../../../media/img/work/xund/02_2500_Geschaeftsdrucksachen_012.jpg  2500w"              sizes="100%"        alt="Isabel Heller">
+        <img class="detail__image item-1"       srcset="../../../media/img/work/xund/02_500_Geschaeftsdrucksachen_012.jpg  500w,            ../../../media/img/work/xund/02_1000_Geschaeftsdrucksachen_012.jpg  1000w,               ../../../media/img/work/xund/02_1500_Geschaeftsdrucksachen_012.jpg  1500w,               ../../../media/img/work/xund/02_2000_Geschaeftsdrucksachen_012.jpg  2000w,               ../../../media/img/work/xund/02_2500_Geschaeftsdrucksachen_012.jpg  2500w"               sizes="100%"        alt="Isabel Heller">
         <img class="detail__image item-2"       srcset="../../../media/img/work/xund/03_500_Geschaeftsdrucksachen_01_hoch.jpg  500w,        ../../../media/img/work/xund/03_1000_Geschaeftsdrucksachen_01_hoch.jpg  1000w,           ../../../media/img/work/xund/03_1500_Geschaeftsdrucksachen_01_hoch.jpg  1500w,           ../../../media/img/work/xund/03_2000_Geschaeftsdrucksachen_01_hoch.jpg  2000w,           ../../../media/img/work/xund/03_2500_Geschaeftsdrucksachen_01_hoch.jpg  2500w"           sizes="100%"        alt="Isabel Heller">
         <img class="detail__image item-3"       srcset="../../../media/img/work/xund/04_500_Geschaeftsdrucksachen_03_hoch.jpg  500w,        ../../../media/img/work/xund/04_1000_Geschaeftsdrucksachen_03_hoch.jpg  1000w,           ../../../media/img/work/xund/04_1500_Geschaeftsdrucksachen_03_hoch.jpg  1500w,           ../../../media/img/work/xund/04_2000_Geschaeftsdrucksachen_03_hoch.jpg  2000w,           ../../../media/img/work/xund/04_2500_Geschaeftsdrucksachen_03_hoch.jpg  2500w"           sizes="100%"        alt="Isabel Heller">
         <img class="detail__image item-4"       srcset="../../../media/img/work/xund/05_500_Icons_website_content.jpg  500w,                ../../../media/img/work/xund/05_1000_Icons_website_content.jpg  1000w,                   ../../../media/img/work/xund/05_1500_Icons_website_content.jpg  1500w,                   ../../../media/img/work/xund/05_2000_Icons_website_content.jpg  2000w,                   ../../../media/img/work/xund/05_2500_Icons_website_content.jpg  2500w"                   sizes="100%"        alt="Isabel Heller">

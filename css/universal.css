@@ -94,6 +94,11 @@ img {
     outline: none;
 }
 
+.link-big::selection {
+    background-color: inherit;
+    color: inherit;
+}
+
 .link-big__arrow polygon {
     transition: fill 0.3s ease
 }
@@ -149,6 +154,11 @@ img {
     text-decoration: none;
     display: inline-block;
     outline: none;
+}
+
+.link-small::selection {
+    background-color: inherit;
+    color: inherit;
 }
 
 .link-small__arrow polygon {
@@ -208,7 +218,7 @@ img {
     color: #151515;
     text-decoration: none;
     display: inline-block;
-    transition: 0.3s ease;
+    transition: color 0.3s ease;
 }
 
 .default-link:hover {
@@ -218,6 +228,29 @@ img {
 .default-link:focus {
     color: #400095;
 }
+
+
+/* --------------------------------- */
+/* COMPONENT - SHOW MORE BOX
+/* --------------------------------- */
+
+.show-more-box {
+    max-height: 100%;
+}
+
+.show-more-box__item {
+    margin-bottom: 28px;
+}
+
+.show-more-box__title {
+    font-family: "fjPlatzGroteske-UltraBold";
+}
+
+.show-more-box__text {
+
+}
+
+
 
 
 /* ------------------------------------------------------ */
@@ -693,6 +726,7 @@ img {
     text-align: center;
     padding: 50px 25px;
     background-color: #ffffff;
+    background-color: #ffffff;
     margin-bottom: 16px;
 }
 
@@ -702,8 +736,11 @@ img {
 }
 
 .section-info .about__image {
-    margin-bottom: 50px;
     width: 100%;
+}
+
+.section-info .about__image:first-child {
+    margin-bottom: 50px;
 }
 
 .section-info .about__title {
@@ -755,6 +792,49 @@ contact__address__text {
     }
 }
 
+/* ------------------------------------------------------ */
+/* SECTION - CONTACT
+/* ------------------------------------------------------ */
+
+.section-contact {
+    margin-top: 20px;
+}
+
+.section-contact .contact__image {
+    width: 100%;
+    margin-bottom: 16px;
+}
+
+.section-contact .contact__address {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.section-contact .contact__address__container:first-child {
+    margin-right: 64px;
+}
+
+.section-contact .contact__address__text,
+.section-contact .contact__address__link {
+    font-size: 26px;
+    line-height: 33px;
+}
+
+
+@media screen and (min-width: 700px) {
+    .section-contact .contact__address__text,
+    .section-contact .contact__address__link {
+        font-size: 44px;
+        line-height: 56px;
+    }
+}
+
+@media screen and (min-width: 1015px) {
+    .section-contact .contact__address {
+        flex-direction: row;
+    }
+}
 
 /* ------------------------------------------------------ */
 /* SECTION - DETAILS
@@ -823,6 +903,14 @@ contact__address__text {
 .section-details .item-16    { grid-area: 16 / 1 / 17 / 3; }
 .section-details .item-17    { grid-area: 17 / 1 / 18 / 3; }
 .section-details .item-18    { grid-area: 18 / 1 / 19 / 3; }
+.section-details .item-19    { grid-area: 18 / 1 / 19 / 3; }
+.section-details .item-20    { grid-area: 19 / 1 / 20 / 3; }
+.section-details .item-21    { grid-area: 20 / 1 / 21 / 3; }
+.section-details .item-22    { grid-area: 21 / 1 / 22 / 3; }
+.section-details .item-23    { grid-area: 22 / 1 / 23 / 3; }
+.section-details .item-24    { grid-area: 23 / 1 / 24 / 3; }
+.section-details .item-25    { grid-area: 24 / 1 / 25 / 3; }
+.section-details .item-25    { grid-area: 25 / 1 / 26 / 3; }
 
 @media screen and (min-width: 700px) {
     .section-details--xund .item-1     { grid-area: 1 / 1 / 2 / 3; }

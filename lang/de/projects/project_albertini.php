@@ -28,9 +28,24 @@
             sizes="100%"
             alt="XUND Bildung Gesundheit Zentralschweiz">
         <div class="section-description__content">
-            <h3 class="section-description__content__title"> XUND Bildung Gesundheit Zentralschweiz</h3>
+            <h3 class="section-description__content__title">Albertini Schreinerei und Innenausbau</h3>
             <div class="section-description__content__container">
-                <p class="section-description__content__description">Seit dem 1. August 2017 gehen die Höhere Fachschule Gesundheit Zentralschweiz (HFGZ) und die Zentralschweizer Interessengemeinschaft Gesundheitsberufe (ZIGG) einen gemeinsamen Weg und treten unter dem Namen XUND auf.</p>
+                <p class="section-description__content__description">Wichtige Werte und Ansprüche der fiktiven Möbelfirma Albertini, Schreinerei und Innenausbau AG, sind hochwertige Materialien, sorgfältige Verarbeitung und Innovation durch Zusammenarbeit von verschiedenen Designer und Disziplinen. Die Möbelherstellung und -designs sind robust, funktional und zeitlos.</p>
+                <p class="section-description__content__description">Das hochwertige Material Holz steht im Zentrum der Gestaltung. Einerseits um den Rohstoff Holz zu visualisieren und andererseits um die Stabilität der Möbel mit lebenslanger Garantie zu betonen. Die abstrahierten Baumstamm-Querschnitte mit den ersichtlichen Jahresringen erzielen auf verschiedenen Anwendungen eine gewisseDynamik, Flexibilität und Individualität – passend zu Albertini. Das neue Erscheinungsbild und verschiedene Printanwendungen entstanden im Rahmen der Eidg. Berufsprüfung zur Typografischen Gestalterin. </p>
+                <div class="section-description__show-more-box show-more-box">
+                    <div class="show-more-box__item">
+                        <p class="show-more-box__title">Realisation</p>
+                        <p class="show-more-box__text">2016</p>
+                    </div>
+                    <div class="show-more-box__item">
+                        <p class="show-more-box__title">Leistungen</p>
+                        <p class="show-more-box__text">Branding, Editorial Design, Print Design</p>
+                    </div>
+                    <div class="show-more-box__item">
+                        <p class="show-more-box__title">Auszeichnung</p>
+                        <p class="show-more-box__text">German Design Award Special Mention in Brand Identity</p>
+                    </div>
+                </div>
                 <a class="section-description__content__link link-small" href="" tabindex="1">
                     <svg class="link-small__plus" viewBox="0 0 62.11 62.08"><rect x="26.36" y="6.03" width="9.42" height="50"/><rect x="26.36" y="5.62" width="9.42" height="50.82" transform="translate(62.1 -0.05) rotate(90)"/></svg>
                     <span class="link-small__text">Mehr efahren</span>
