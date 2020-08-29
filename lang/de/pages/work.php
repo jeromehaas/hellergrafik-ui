@@ -25,8 +25,7 @@
                         ../../../media/img/work/xund/01_1000_Berufsfodler_Detail_03_quer.jpg  1000w,
                         ../../../media/img/work/xund/01_1500_Berufsfodler_Detail_03_quer.jpg  1500w,
                         ../../../media/img/work/xund/01_2000_Berufsfodler_Detail_03_quer.jpg  2000w,
-                        ../../../media/img/work/xund/01_2500_Berufsfodler_Detail_03_quer.jpg  2500w,
-                      "
+                        ../../../media/img/work/xund/01_2500_Berufsfodler_Detail_03_quer.jpg  2500w"
                         sizes="100%"
                         alt="XUND Bildung Gesundheit Zentralschweiz">
             </a>
@@ -44,8 +43,7 @@
                         ../../../media/img/work/albertini/01_1000_Kontrast_Detail_07.jpg  1000w,
                         ../../../media/img/work/albertini/01_1500_Kontrast_Detail_07.jpg  1500w,
                         ../../../media/img/work/albertini/01_2000_Kontrast_Detail_07.jpg  2000w,
-                        ../../../media/img/work/albertini/01_2500_Kontrast_Detail_07.jpg  2500w,
-                      "
+                        ../../../media/img/work/albertini/01_2500_Kontrast_Detail_07.jpg  2500w"
                         sizes="100%"
                         alt="Albertini">
             </a>
@@ -55,7 +53,7 @@
             </a>
         </article>
         <article class="project">
-            <a href="" class="project__image__link">
+            <a href="../projects/project_hellergrafik.php" class="project__image__link">
                 <img
                         class="project__image"
                         srcset="
@@ -63,11 +61,10 @@
                         ../../../media/img/work/hellergrafik/01_1000_hellergrafik_01_quer.jpg  1000w,
                         ../../../media/img/work/hellergrafik/01_1500_hellergrafik_01_quer.jpg  1500w,
                         ../../../media/img/work/hellergrafik/01_2000_hellergrafik_01_quer.jpg  2000w,
-                        ../../../media/img/work/hellergrafik/01_2500_hellergrafik_01_quer.jpg  2500w,
-                      "
+                        ../../../media/img/work/hellergrafik/01_2500_hellergrafik_01_quer.jpg  2500w"
                         sizes="100%"
                         alt="heller grafik">            </a>
-            <a class="project__title link-big" href="" tabindex="4">
+            <a class="project__title link-big" href="../projects/project_hellergrafik.php" tabindex="4">
                 <span class="link-big__text">heller grafik</span>
                 <?php include '../../../media/icons/arrow_big.svg' ?>
             </a>
@@ -81,8 +78,7 @@
                         ../../../media/img/work/xund_zebi/10_1000_Xund_Zebi_Karten_09_quer.jpg  1000w,
                         ../../../media/img/work/xund_zebi/10_1500_Xund_Zebi_Karten_09_quer.jpg  1500w,
                         ../../../media/img/work/xund_zebi/10_2000_Xund_Zebi_Karten_09_quer.jpg  2000w,
-                        ../../../media/img/work/xund_zebi/10_2500_Xund_Zebi_Karten_09_quer.jpg  2500w,
-                      "
+                        ../../../media/img/work/xund_zebi/10_2500_Xund_Zebi_Karten_09_quer.jpg  2500w"
                         sizes="100%"
                         alt="XUND Messeauftritt">            </a>
             <a class="project__title link-big" href="" tabindex="5">
