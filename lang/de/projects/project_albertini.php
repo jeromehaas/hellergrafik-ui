@@ -46,10 +46,12 @@
                         <p class="show-more-box__text">German Design Award Special Mention in Brand Identity</p>
                     </div>
                 </div>
-                <a class="section-description__content__link link-small" href="" tabindex="1">
+
+                <!--  <a class="section-description__content__link link-small show-more-box__trigger" tabindex="1">
                     <svg class="link-small__plus" viewBox="0 0 62.11 62.08"><rect x="26.36" y="6.03" width="9.42" height="50"/><rect x="26.36" y="5.62" width="9.42" height="50.82" transform="translate(62.1 -0.05) rotate(90)"/></svg>
                     <span class="link-small__text">Mehr efahren</span>
-                </a>
+                 </a> -->
+
             </div>
         </div>
     </div>

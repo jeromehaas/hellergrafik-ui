@@ -52,6 +52,8 @@
                 alt="light my fire">
     </main>
 
+</div>
+
 <!-- FOOTER -->
 <?php include '../partials/footer_mobile.php' ?>
 <?php include '../partials/footer_desktop.php' ?>

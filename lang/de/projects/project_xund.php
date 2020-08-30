@@ -33,7 +33,7 @@
             <div class="section-description__content__container">
                 <p class="section-description__content__description">Seit August 2017 gehen die Höhere Fachschule Gesundheit Zentralschweiz (HFGZ) und die Zentralschweizer Interessengemeinschaft Gesundheitsberufe (ZIGG) einen gemeinsamen Weg und treten unter dem Namen XUND auf. Ich begleitete bei der Agentur FRONTAL AG die Designkonzeptphase und Realisierungsphase der neuen Marke «XUND» intensiv.</p>
                 <p class="section-description__content__description">XUND positioniert sich als vernetzte, zentralschweizer Drehscheibe der Gesundheitsbranche in Theorie und Praxis. Die Wortmarke, die einzigartigen Icons, speziell für XUND entwickelt, und weitere Design-Elemente, aber auch die Erstellung der Geschäftsdrucksachen und Layouts für diverse Kommunikationsmittel, Give-Aways, Event- und Messematerial sowie Signaletik trägt meine Handschrift.</p>
-                <div class="section-description__show-more-box show-more-box">
+                <div class="section-description__show-more-box show-more-box" id="show-more-box">
                     <div class="show-more-box__item">
                         <p class="show-more-box__title">Realisation</p>
                         <p class="show-more-box__text">2016 – 2018 bei Agentur FRONTAL AG, Willisau</p>
@@ -47,10 +47,12 @@
                         <p class="show-more-box__text">German Design Award Special Mention in Brand Identity</p>
                     </div>
                 </div>
-                <a class="section-description__content__link link-small" href="" tabindex="1">
+
+               <!--  <a class="section-description__content__link link-small show-more-box__trigger" tabindex="1">
                     <svg class="link-small__plus" viewBox="0 0 62.11 62.08"><rect x="26.36" y="6.03" width="9.42" height="50"/><rect x="26.36" y="5.62" width="9.42" height="50.82" transform="translate(62.1 -0.05) rotate(90)"/></svg>
                     <span class="link-small__text">Mehr efahren</span>
-                </a>
+                </a> -->
+
             </div>
         </div>
     </div>

@@ -1,14 +1,14 @@
 let ux = (function() {
 
+    // -------------------------
     // NAVIGATION MOBILE TOGGLE
-
+    // -------------------------
 
     let navigationElements = {
         navigationItems: $(".navigation-mobile__link-background__list-item"),
         hamburgerMenu: $(".navigation-mobile__hamburger-menu"),
         navigationLogo: $(".navigation-mobile__logo"),
         navigationLinkBackGround: $(".navigation-mobile__link-background")
-
     }
 
     function navigationMobileToggle() {
@@ -16,6 +16,13 @@ let ux = (function() {
             navigationElements.navigationLinkBackGround.toggleClass("is-visible");
             navigationElements.navigationItems.toggleClass("is-present");
     }
+
+
+
+
+    // -------------------------
+    // RETURN VALUES
+    // -------------------------
 
     return {
         navigationElements: navigationElements,

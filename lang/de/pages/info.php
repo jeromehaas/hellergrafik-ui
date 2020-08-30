@@ -99,19 +99,8 @@
                     sizes="100%"
                     alt="Isabel Heller">
         </div>
-        <div class="contact">
-            <!-- <p class="contact__title">Kontakt</p>
-            <address class="contact__address">
-                <a class="contact__address__link default-link" href="mailto:isabel@hellergrafik.ch">isabel@hellergrafik.ch</a><br>
-                <a class="contact__address__link default-link" href="tel:0774052349">077 405 23 49</a>
-                <p class="contact__address__text">heller grafik</p>
-                <p class="contact__address__text">Isabel Heller</p>
-                <p class="contact__address__text">Zähringerstrasse 13</p>
-                <p class="contact__address__text">6003 Luzern</p>
-            </address> -->
-        </div>
 
-    </div>
+
 
 
 
