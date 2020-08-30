@@ -123,11 +123,16 @@ img {
 
 .link-big:focus,
 .link-big:focus .link-big__arrow polygon,
-.link-big:focus .link-big__text {
+.link-big:focus .link-big__text,
+.link-big:active,
+.link-big:active .link-big__arrow polygon,
+.link-big:active .link-big__text {
     color: #400095;
     fill: #400095;
     border-color: #400095;
 }
+
+
 
 .link-big__text {
     line-height: 32px;
@@ -185,8 +190,12 @@ img {
 
 .link-small:focus,
 .link-small:focus .link-small__arrow polygon,
-.link-small:hover .link-small__plus,
-.link-small:focus .link-small__text {
+.link-small:focus .link-small__plus,
+.link-small:focus .link-small__text,
+.link-small:active,
+.link-small:active .link-small__arrow polygon,
+.link-small:active .link-small__plus,
+.link-small:active .link-small__text {
     color: #400095;
     fill: #400095;
     border-color: #400095;
