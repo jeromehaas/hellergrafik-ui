@@ -66,7 +66,7 @@
         <img class="detail__image item-14"      srcset="../../../media/img/work/hellergrafik/15_500_hellergrafik_08_quer.jpg 500w,                          ../../../media/img/work/hellergrafik/15_1000_hellergrafik_08_quer.jpg  1000w,                            ../../../media/img/work/hellergrafik/15_1500_hellergrafik_08_quer.jpg  1500w,                            ../../../media/img/work/hellergrafik/15_2000_hellergrafik_08_quer.jpg  2000w,                          ../../../media/img/work/hellergrafik/15_2500_hellergrafik_08_quer.jpg  2500w"                      sizes="100%"        alt="heller grafik Projektbild">
     </div>
 
-</div>
+</div> <!-- END OF PAGE-WRAPPER -->
 
 <!-- FOOTER -->
 <?php include '../partials/footer_mobile.php' ?>

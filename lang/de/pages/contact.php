@@ -48,7 +48,7 @@
                 alt="Isabel Heller">
     </main>
 
-</div>
+</div> <!-- END OF PAGE-WRAPPER -->
 
 <!-- FOOTER -->
 <?php include '../partials/footer_mobile.php' ?>

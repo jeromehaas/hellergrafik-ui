@@ -74,7 +74,7 @@
         <img class="detail__image item-18"      srcset="../../../media/img/work/albertini/19_500_Factsheet_3.jpg  500w,                     ../../../media/img/work/albertini/19_1000_Factsheet_3.jpg  1000w,                        ../../../media/img/work/albertini/19_1500_Factsheet_3.jpg  1500w,                          ../../../media/img/work/albertini/19_2000_Factsheet_3.jpg  2000w,                         ../../../media/img/work/albertini/19_2500_Factsheet_3.jpg  2500w"                         sizes="100%"        alt="Albertini Projektbild">
     </div>
 
-</div>
+</div> <!-- END OF PAGE-WRAPPER -->
 
 <!-- FOOTER -->
 <?php include '../partials/footer_mobile.php' ?>

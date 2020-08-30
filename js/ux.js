@@ -1,3 +1,5 @@
+$(document).ready(function() {
+
 let ux = (function() {
 
     // -------------------------
@@ -34,3 +36,5 @@ let ux = (function() {
 ux.navigationElements.navigationItems.on("click", ux.navigationMobileToggle);
 ux.navigationElements.hamburgerMenu.on("click", ux.navigationMobileToggle);
 ux.navigationElements.navigationLogo.on("click", ux.navigationMobileToggle);
+
+});

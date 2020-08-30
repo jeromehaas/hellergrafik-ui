@@ -61,7 +61,7 @@
         <img class="detail__image item-9" srcset="../../../media/img/work/xundzebi/10_500_Xund_Zebi_Karten_09_quer.jpg  500w,            ../../../media/img/work/xundzebi/10_1000_Xund_Zebi_Karten_09_quer.jpg   1000w,              ../../../media/img/work/xundzebi/10_1500_Xund_Zebi_Karten_09_quer.jpg   1500w,              ../../../media/img/work/xundzebi/10_2000_Xund_Zebi_Karten_09_quer.jpg   2000w,            ../../../media/img/work/xundzebi/10_2500_Xund_Zebi_Karten_09_quer.jpg   2500w"   sizes="100%" alt="XUND Messeauftritt Projektbild">
     </div>
 
-</div>
+</div> <!-- END OF PAGE-WRAPPER -->
 
 <!-- FOOTER -->
 <?php include '../partials/footer_mobile.php' ?>

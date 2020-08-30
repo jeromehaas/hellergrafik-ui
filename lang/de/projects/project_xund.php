@@ -82,12 +82,13 @@
         <img class="detail__image item-24"      srcset="../../../media/img/work/xund/25_500_XUND_Baustelle_05_quer.jpg  500w,               ../../../media/img/work/xund/25_1000_XUND_Baustelle_05_quer.jpg  1000w,                  ../../../media/img/work/xund/25_1500_XUND_Baustelle_05_quer.jpg  1500w,                  ../../../media/img/work/xund/25_2000_XUND_Baustelle_05_quer.jpg  2000w,                  ../../../media/img/work/xund/25_2500_XUND_Baustelle_05_quer.jpg  2500w"                  sizes="100%"        alt="XUND Projektbild">
     </div>
 
-    </div>
+    </div> <!-- END OF PAGE-WRAPPER -->
 
     <!-- FOOTER -->
     <?php include '../partials/footer_mobile.php' ?>
     <?php include '../partials/footer_desktop.php' ?>
     <!-- FOOTER -->
+
     <script src="http://localhost:8888/grafik_heller/js/jquery.js"></script>
     <script src="http://localhost:8888/grafik_heller/js/ux.js"></script>
 
