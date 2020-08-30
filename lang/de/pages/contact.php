@@ -30,26 +30,22 @@
             </div>
 
         </address>
-        <img
-                class="contact__image"
-                srcset="
-                        ../../../media/img/contact/01_500_hellergrafik_visitenkarten_02.jpg  500w,
-                        ../../../media/img/contact/01_1000_hellergrafik_visitenkarten_02.jpg  1000w,
-                        ../../../media/img/contact/01_1500_hellergrafik_visitenkarten_02.jpg  1500w,
-                        ../../../media/img/contact/01_2000_hellergrafik_visitenkarten_02.jpg  2000w,
-                        ../../../media/img/contact/01_2500_hellergrafik_visitenkarten_02.jpg  2500w"
+        <img    class="contact__image"
+                srcset="    ../../../media/img/contact/01_500_hellergrafik_visitenkarten_02.jpg  500w,
+                            ../../../media/img/contact/01_1000_hellergrafik_visitenkarten_02.jpg  1000w,
+                            ../../../media/img/contact/01_1500_hellergrafik_visitenkarten_02.jpg  1500w,
+                            ../../../media/img/contact/01_2000_hellergrafik_visitenkarten_02.jpg  2000w,
+                            ../../../media/img/contact/01_2500_hellergrafik_visitenkarten_02.jpg  2500w"
                 sizes="100%"
-                alt="light my fire">
-        <img
-                class="contact__image"
-                srcset="
-                        ../../../media/img/contact/02_500_Isabel_Heller_Grafikerin_14.jpg  500w,
-                        ../../../media/img/contact/02_1000_Isabel_Heller_Grafikerin_14.jpg  1000w,
-                        ../../../media/img/contact/02_1500_Isabel_Heller_Grafikerin_14.jpg  1500w,
-                        ../../../media/img/contact/02_2000_Isabel_Heller_Grafikerin_14.jpg  2000w,
-                        ../../../media/img/contact/02_2500_Isabel_Heller_Grafikerin_14.jpg  2500w"
+                alt="heller grafik Visitenkarten">
+        <img    class="contact__image"
+                srcset="    ../../../media/img/contact/02_500_Isabel_Heller_Grafikerin_14.jpg  500w,
+                            ../../../media/img/contact/02_1000_Isabel_Heller_Grafikerin_14.jpg  1000w,
+                            ../../../media/img/contact/02_1500_Isabel_Heller_Grafikerin_14.jpg  1500w,
+                            ../../../media/img/contact/02_2000_Isabel_Heller_Grafikerin_14.jpg  2000w,
+                            ../../../media/img/contact/02_2500_Isabel_Heller_Grafikerin_14.jpg  2500w"
                 sizes="100%"
-                alt="light my fire">
+                alt="Isabel Heller">
     </main>
 
 </div>
@@ -59,6 +55,7 @@
 <?php include '../partials/footer_desktop.php' ?>
 <!-- FOOTER -->
 
+<script src="http://localhost:8888/grafik_heller/js/jquery.js"></script>
 <script src="http://localhost:8888/grafik_heller/js/ux.js"></script>
 
 </body>

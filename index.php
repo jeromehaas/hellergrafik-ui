@@ -18,15 +18,12 @@
 
 
     <div class="section-hero">
-            <img
-                    class="section-hero__image"
-                    srcset="
-                        ./media/img/start/01_500_hellergrafik_03_quer.jpg  500w,
-                        ./media/img/start/01_1000_hellergrafik_03_quer.jpg  1000w,
-                        ./media/img/start/01_1500_hellergrafik_03_quer.jpg  1500w,
-                        ./media/img/start/01_1500_hellergrafik_03_quer.jpg  2000w,
-                        ./media/img/start/01_1500_hellergrafik_03_quer.jpg  2500w,
-                      "
+            <img    class="section-hero__image"
+                    srcset="    ./media/img/start/01_500_hellergrafik_03_quer.jpg  500w,
+                                ./media/img/start/01_1000_hellergrafik_03_quer.jpg  1000w,
+                                ./media/img/start/01_1500_hellergrafik_03_quer.jpg  1500w,
+                                ./media/img/start/01_1500_hellergrafik_03_quer.jpg  2000w,
+                                ./media/img/start/01_1500_hellergrafik_03_quer.jpg  2500w"
                     sizes="100%"
                     alt="heller grafik">
             <div class="section-hero__content">
@@ -44,14 +41,12 @@
 
         <article class="project">
             <a href="lang/de/projects/project_xund.php" class="project__image__link">
-                <img
-                        class="project__image"
-                        srcset="
-                        ./media/img/work/xund/01_500_Berufsfodler_Detail_03_quer.jpg  500w,
-                        ./media/img/work/xund/01_1000_Berufsfodler_Detail_03_quer.jpg  1000w,
-                        ./media/img/work/xund/01_1500_Berufsfodler_Detail_03_quer.jpg  1500w,
-                        ./media/img/work/xund/01_2000_Berufsfodler_Detail_03_quer.jpg  2000w,
-                        ./media/img/work/xund/01_2500_Berufsfodler_Detail_03_quer.jpg  2500w"
+                <img    class="project__image"
+                        srcset="    ./media/img/work/xund/01_500_Berufsfodler_Detail_03_quer.jpg  500w,
+                                    ./media/img/work/xund/01_1000_Berufsfodler_Detail_03_quer.jpg  1000w,
+                                    ./media/img/work/xund/01_1500_Berufsfodler_Detail_03_quer.jpg  1500w,
+                                    ./media/img/work/xund/01_2000_Berufsfodler_Detail_03_quer.jpg  2000w,
+                                    ./media/img/work/xund/01_2500_Berufsfodler_Detail_03_quer.jpg  2500w"
                         sizes="100%"
                         alt="XUND Bildung Gesundheit Zentralschweiz">
             </a>
@@ -63,14 +58,12 @@
 
         <article class="project">
             <a href="lang/de/projects/project_albertini.php" class="project__image__link">
-                <img
-                        class="project__image"
-                        srcset="
-                        ./media/img/work/albertini/01_500_Kontrast_Detail_07.jpg  500w,
-                        ./media/img/work/albertini/01_1000_Kontrast_Detail_07.jpg  1000w,
-                        ./media/img/work/albertini/01_1500_Kontrast_Detail_07.jpg  1500w,
-                        ./media/img/work/albertini/01_2000_Kontrast_Detail_07.jpg  2000w,
-                        ./media/img/work/albertini/01_2500_Kontrast_Detail_07.jpg  2500w"
+                <img    class="project__image"
+                        srcset="    ./media/img/work/albertini/01_500_Kontrast_Detail_07.jpg  500w,
+                                    ./media/img/work/albertini/01_1000_Kontrast_Detail_07.jpg  1000w,
+                                    ./media/img/work/albertini/01_1500_Kontrast_Detail_07.jpg  1500w,
+                                    ./media/img/work/albertini/01_2000_Kontrast_Detail_07.jpg  2000w,
+                                    ./media/img/work/albertini/01_2500_Kontrast_Detail_07.jpg  2500w"
                         sizes="100%"
                         alt="Albertini">
             </a>
@@ -81,14 +74,12 @@
         </article>
         <article class="project">
             <a href="lang/de/projects/project_hellergrafik.php" class="project__image__link">
-                <img
-                        class="project__image"
-                        srcset="
-                        ./media/img/work/hellergrafik/01_500_hellergrafik_01_quer.jpg  500w,
-                        ./media/img/work/hellergrafik/01_1000_hellergrafik_01_quer.jpg  1000w,
-                        ./media/img/work/hellergrafik/01_1500_hellergrafik_01_quer.jpg  1500w,
-                        ./media/img/work/hellergrafik/01_2000_hellergrafik_01_quer.jpg  2000w,
-                        ./media/img/work/hellergrafik/01_2500_hellergrafik_01_quer.jpg  2500w"
+                <img    class="project__image"
+                        srcset="    ./media/img/work/hellergrafik/01_500_hellergrafik_01_quer.jpg  500w,
+                                    ./media/img/work/hellergrafik/01_1000_hellergrafik_01_quer.jpg  1000w,
+                                    ./media/img/work/hellergrafik/01_1500_hellergrafik_01_quer.jpg  1500w,
+                                    ./media/img/work/hellergrafik/01_2000_hellergrafik_01_quer.jpg  2000w,
+                                    ./media/img/work/hellergrafik/01_2500_hellergrafik_01_quer.jpg  2500w"
                         sizes="100%"
                         alt="heller grafik">
             </a>
@@ -99,15 +90,12 @@
         </article>
         <article class="project">
             <a href="lang/de/projects/project_xundzebi.php" class="project__image__link">
-                <img
-                        class="project__image"
-                        srcset="
-                        media/img/work/xundzebi/10_500_Xund_Zebi_Karten_09_quer.jpg  500w,
-                        media/img/work/xundzebi/10_1000_Xund_Zebi_Karten_09_quer.jpg  1000w,
-                        media/img/work/xundzebi/10_1500_Xund_Zebi_Karten_09_quer.jpg  1500w,
-                        media/img/work/xundzebi/10_2000_Xund_Zebi_Karten_09_quer.jpg  2000w,
-                        media/img/work/xundzebi/10_2500_Xund_Zebi_Karten_09_quer.jpg  2500w,
-                      "
+                <img    class="project__image"
+                        srcset="    media/img/work/xundzebi/10_500_Xund_Zebi_Karten_09_quer.jpg  500w,
+                                    media/img/work/xundzebi/10_1000_Xund_Zebi_Karten_09_quer.jpg  1000w,
+                                    media/img/work/xundzebi/10_1500_Xund_Zebi_Karten_09_quer.jpg  1500w,
+                                    media/img/work/xundzebi/10_2000_Xund_Zebi_Karten_09_quer.jpg  2000w,
+                                    media/img/work/xundzebi/10_2500_Xund_Zebi_Karten_09_quer.jpg  2500w"
                         sizes="100%"
                         alt="XUND Messeauftritt">
             </a>
@@ -123,7 +111,7 @@
     <?php include './lang/de/partials/footer_mobile.php' ?>
     <?php include './lang/de/partials/footer_desktop.php' ?>
     <!-- FOOTER -->
-
+    <script src="http://localhost:8888/grafik_heller/js/jquery.js"></script>
     <script src="http://localhost:8888/grafik_heller/js/ux.js"></script>
 
 </body>

@@ -18,13 +18,13 @@
 
     <div class="section-impressum">
 
-        <p class="impressum__title">Impressum</p>
+        <h3 class="impressum__title">Impressum</h3>
 
         <div class="impressum__container">
             <address class="impressum__card impressum__address">
                 <p class="impressum__card__title">Kontaktadresse</p>
-                <a class="impressum__card__link default-link" href="mailto:isabel@hellergrafik.ch">isabel@hellergrafik.ch</a><br>
-                <a class="impressum__card__link default-link" href="tel:0774052349">077 405 23 49</a>
+                <a class="impressum__card__link default-link" href="mailto:isabel@hellergrafik.ch" tabindex="1">isabel@hellergrafik.ch</a><br>
+                <a class="impressum__card__link default-link" href="tel:0774052349" tabindex="2">077 405 23 49</a>
                 <p class="impressum__card__text">heller grafik</p>
                 <br />
                 <p class="impressum__card__text">Isabel Heller</p>
@@ -44,7 +44,7 @@
                 <p class="impressum__card__text">Jérôme Haas</p>
                 <p class="impressum__card__text">Sälihügel 9A</p>
                 <p class="impressum__card__text">6005 Luzern</p>
-                <a class="impressum__card__link default-link" href="mailto:info@cyberplanet.ch">info@cyberplanet.ch</a>
+                <a class="impressum__card__link default-link" href="mailto:info@cyberplanet.ch" tabindex="3">info@cyberplanet.ch</a>
             </address>
 
             <p class="impressum__copyright">
@@ -63,6 +63,7 @@
     <?php include '../partials/footer_desktop.php' ?>
     <!-- FOOTER -->
 
+    <script src="http://localhost:8888/grafik_heller/js/jquery.js"></script>
     <script src="http://localhost:8888/grafik_heller/js/ux.js"></script>
 
 </body>

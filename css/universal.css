@@ -52,7 +52,7 @@ h1, h2, h3 {
     line-height: 33px;
 }
 
-p {
+p, td {
     font-size: 16px;
     line-height: 22px;
 }
@@ -93,6 +93,10 @@ img {
     h1, h2, h3 {
         font-size: 44px;
         line-height: 56px;
+    }
+    p, td {
+        font-size: 24px;
+        line-height: 33px;
     }
     #page-wrapper {
         min-height: calc((100vh - 287px));
@@ -782,7 +786,16 @@ img {
 
 .section-info .about__text {
     margin-bottom: 25px;
-    max-width: 500px;
+    max-width: 1000px;
+}
+
+.section-info .about__show-more-box .show-more-box__table {
+    margin-bottom: 50px;
+}
+
+.section-info .about__show-more-box .show-more-box__cell:nth-child(1) {
+    padding-right: 15px;
+    white-space: nowrap;
 }
 
 .section-info .about__link{
@@ -792,7 +805,6 @@ img {
 .section-info .contact__image {
     width: 100%;
     margin-bottom: 50px;
-
 }
 
 .section-info .contact__title {
@@ -1077,8 +1089,6 @@ img {
 }
 
 .impressum__title {
-    font-size: 26px;
-    line-height: 33px;
     margin-bottom: 25px;
     max-width: 500px;
     width: 100%;
@@ -1100,6 +1110,15 @@ font-family: "fjPlatzGroteske-UltraBold";
 
 .impressum__copyright {
     max-width: 500px;
+}
+
+@media screen and (min-width: 700px) {
+    .impressum__card__link,
+    .impressum__card__text {
+        font-size: 24px;
+        line-height: 33px;
+    }
+
 }
 
 @media screen and (min-width: 1000px) {
