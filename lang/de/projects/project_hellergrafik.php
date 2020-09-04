@@ -2,20 +2,23 @@
 <html lang="de">
 <head>
     <?php include '../partials/head.php' ?>
+    <title>Projekt | heller grafik</title>
+    <meta name="description" content="Ganz nach dem Motto und meinem Anspruch an meine Arbeit «Grafik für helle Köpfe» entstand mein eigener visueller Auftritt. Mein Name beziehungsweise das Wort «heller» ist mit seiner Mehrdeutigkeit ein wichtiger Teil meines Auftritts.">
 </head>
 <body>
 
-<!-- NAVIGATION DESKTOP -->
-<?php include '../partials/navigation_desktop.php' ?>
-<!-- NAVIGATION DESKTOP -->
+    <!-- NAVIGATION DESKTOP -->
+    <?php include '../partials/navigation_desktop.php' ?>
+    <!-- NAVIGATION DESKTOP -->
 
-<!-- NAVIGATION MOBILE -->
-<?php include '../partials/navigation_mobile.php' ?>
-<!-- NAVIGATION MOBILE -->
+    <!-- NAVIGATION MOBILE -->
+    <?php include '../partials/navigation_mobile.php' ?>
+    <!-- NAVIGATION MOBILE -->
 
-<div id="page-wrapper">
+    <div id="page-wrapper">
 
     <div class="section-description">
+
         <img    class="section-description__image"
                 srcset="    ../../../media/img/work/hellergrafik/01_500_hellergrafik_01_quer.jpg  500w,
                             ../../../media/img/work/hellergrafik/01_1000_hellergrafik_01_quer.jpg  1000w,

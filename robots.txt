@@ -1,2 +1,4 @@
-User-agent: *
-Disallow:
+User-Agent: *
+Disallow: /lang/de/pages/impressum.php
+Disallow: /lang/de/pages/login.php
+Disallow: /lang/de/pages/404.php

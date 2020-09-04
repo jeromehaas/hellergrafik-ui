@@ -2,6 +2,8 @@
 <html lang="de">
 <head>
     <?php include '../partials/head.php' ?>
+    <title>Projekt | XUND Messeauftritt</title>
+    <meta name="description" content="Für XUND wurde ein neuer Eye-Catcher und Anziehungspunkt an der Zentralschweizer Bildungsmesse entwickelt. Mittels einem interaktiven Game konnten die Besucher auf eine spielerische Art herausfinden, welche Gesundheitsberufe zu ihnen passen und zu welchem XUND-Typ sie gehören.">
 </head>
 <body>
 

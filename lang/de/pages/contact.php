@@ -2,6 +2,8 @@
 <html lang="de">
 <head>
     <?php include '../partials/head.php' ?>
+    <title>Kontakt</title>
+    <meta name="description" content="heller grafik | Isabel Heller | Zähringerstrasse 13 | 6003 Luzern | isabel@hellergrafik.ch | 077 405 23 49">
 </head>
 <body>
 
@@ -19,7 +21,7 @@
     <main class="section-contact">
         <address class="contact__address">
             <div class="contact__address__container">
-                <p class="contact__address__text">heller grafik</p>
+                <h2 class="contact__address__text">heller grafik</h2>
                 <p class="contact__address__text">Isabel Heller</p>
                 <p class="contact__address__text">Zähringerstrasse 13</p>
                 <p class="contact__address__text">6003 Luzern</p>

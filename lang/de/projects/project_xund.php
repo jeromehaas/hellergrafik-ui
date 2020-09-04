@@ -2,6 +2,8 @@
 <html lang="de">
 <head>
     <?php include '../partials/head.php' ?>
+    <title>Projekt | XUND Bildung Gesundheit Zentralschweiz </title>
+    <meta name="description" content="Seit August 2017 gehen die Höhere Fachschule Gesundheit Zentralschweiz (HFGZ) und die Zentralschweizer Interessengemeinschaft Gesundheitsberufe (ZIGG) einen gemeinsamen Weg und treten unter dem Namen XUND auf. Ich begleitete bei der Agentur FRONTAL AG die Designkonzeptphase und Realisierungsphase der neuen Marke «XUND» intensiv.">
 </head>
 <body>
 
@@ -38,7 +40,7 @@
                     </div>
                     <div class="show-more-box__item">
                         <p class="show-more-box__title">Leistungen</p>
-                        <p class="show-more-box__text">Branding, Print Design, Signaletik</p>
+                        <p class="show-more-box__text">Branding</p>
                     </div>
                     <div class="show-more-box__item">
                         <p class="show-more-box__title">Auszeichnung</p>

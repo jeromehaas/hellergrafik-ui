@@ -6,3 +6,7 @@ Webdevelopment:
 Jérôme Haas
 j.haas@cyberplanet.ch
 
+Website Testing:
+Christian Ulrich
+info@reindex.ch
+

@@ -2,6 +2,8 @@
 <html lang="de">
 <head>
     <?php include '../partials/head.php' ?>
+     <title>Impressum</title>
+     <meta name="description" content="Copyright © 2020 Isabel Heller. Alle Rechte vorbehalten. Für die Vervielfältigung oder Veränderung jeglicher Elemente ist die schriftliche Zustimmung der Urheberrechtsträger im Voraus einzuholen.">
 </head>
 <body>
 

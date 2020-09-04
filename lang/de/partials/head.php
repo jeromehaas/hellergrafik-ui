@@ -1,8 +1,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
-<title>heller grafik</title>
-<meta name="description" content="Grafik für helle Köpfe. Hinter heller grafik steckt eine visuelle Gestalterin aus Luzern mit Passion zu durchdachtem Branding.">
 <link rel="stylesheet" href="http://localhost:8888/grafik_heller/css/central.css">
 <link rel="apple-touch-icon" sizes="57x57" href="http://localhost:8888/grafik_heller/media/favicon/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="http://localhost:8888/grafik_heller/media/favicon/apple-icon-60x60.png">

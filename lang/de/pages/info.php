@@ -2,6 +2,8 @@
 <html lang="de">
 <head>
     <?php include '../partials/head.php' ?>
+    <title>Info</title>
+    <meta name="description" content="heller grafik fokussiert sich auf wertebasiertes Branding. Die visuelle Sprache einer Marke soll unternehmerische Ziele und Werte widerspiegeln und bei deren Publikum Anklang finden. Ich höre zu, möchte Zusammenhänge und Zielgruppen verstehen.">
 </head>
 <body>
 
@@ -19,7 +21,7 @@
         <main class="section-info">
             <div class="intro">
                 <h2 class="intro__text">
-                    heller grafik fokussiert sich auf wertebasiertes Branding. Die visuelle Sprache einer Marke soll unternehmerische Ziele und Werte widerspiegeln und bei deren Publikum Anklang finden.<br>
+                    heller grafik fokussiert sich auf wertebasiertes Branding. Die visuelle Sprache einer Marke soll unternehmerische Ziele und Werte widerspiegeln und bei deren Publikum Anklang finden.<br /><br />
                     Ich höre zu, möchte Zusammenhänge und Zielgruppen verstehen.
                 </h2>
                 <a class="section-hero__content__link link-small" href="./contact.php" tabindex="1">
@@ -70,30 +72,34 @@
                                     ../../../media/img/info/02_2500_Isabel_Heller_Grafik.jpg  2500w"
                         sizes="100%"
                         alt="Isabel Heller">
-                <h2 class="about__title">
-                    Isabel Heller <br>
-                    Visuelle Gestalterin
-                </h2>
-                <p class="about__text">
-                    Ich bin eine neugierige Weltenbummlerin mit Affinität zu Design, gutem Essen und spannenden Büchern. In meinem Berufsalltag sowie in meiner Freizeit schaue ich über den Tellerrand hinaus und mag es, mich mit Neuem auseinanderzusetzen.
-                </p>
-                <div class="about__show-more-box">
-                    <div class="show-more-box__item">
-                        <p class="show-more-box__title">Aus- und Weiterbildungen</p>
-                        <table class="show-more-box__table">
-                            <tr class="show-more-box__row">
-                                <td class="show-more-box__cell">2018 – 2019</td>
-                                <td class="show-more-box__cell">Lehrgang Digital Experience Design, SfG Aargau</td>
-                            </tr>
-                            <tr class="show-more-box__row">
-                                <td class="show-more-box__cell">2014 – 2016</td>
-                                <td class="show-more-box__cell">Tagesklasse «Sehen und Gestalten», Gestaltungsschule Farbmühle, Luzern</td>
-                            </tr>
-                            <tr class="show-more-box__row">
-                                <td class="show-more-box__cell">2008 – 2012</td>
-                                <td class="show-more-box__cell">Polygrafin EFZ</td>
-                            </tr>
-                        </table>
+                <div class="about__description">
+                    <h2 class="about__title">
+                        Isabel Heller <br>
+                        Visuelle Gestalterin
+                    </h2>
+                    <div class="about__container">
+                        <p class="about__text">
+                            Ich bin eine neugierige Weltenbummlerin mit Affinität zu Design, gutem Essen und spannenden Büchern. In meinem Berufsalltag sowie in meiner Freizeit schaue ich über den Tellerrand hinaus und mag es, mich mit Neuem auseinanderzusetzen.
+                        </p>
+                        <div class="about__show-more-box">
+                            <div class="show-more-box__item">
+                                <p class="show-more-box__title">Aus- und Weiterbildungen</p>
+                                <table class="show-more-box__table">
+                                    <tr class="show-more-box__row">
+                                        <td class="show-more-box__cell">2018 – 2019</td>
+                                        <td class="show-more-box__cell">Lehrgang Digital Experience Design, SfG Aargau</td>
+                                    </tr>
+                                    <tr class="show-more-box__row">
+                                        <td class="show-more-box__cell">2014 – 2016</td>
+                                        <td class="show-more-box__cell">Tagesklasse «Sehen und Gestalten», Gestaltungsschule Farbmühle, Luzern</td>
+                                    </tr>
+                                    <tr class="show-more-box__row">
+                                        <td class="show-more-box__cell">2008 – 2012</td>
+                                        <td class="show-more-box__cell">Polygrafin EFZ</td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
                     </div>
                 </div>
 

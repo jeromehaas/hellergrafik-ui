@@ -2,7 +2,9 @@
 <html lang="de">
 <head>
     <?php include '../partials/head.php' ?>
-</head>
+    <title>Projekt | Albertini </title>
+    <meta name="description" content="Wichtige Werte und Ansprüche der fiktiven Möbelfirma Albertini, Schreinerei und Innenausbau AG, sind hochwertige Materialien, sorgfältige Verarbeitung und Innovation durch Zusammenarbeit von verschiedenen Designer und Disziplinen. Die Möbelherstellung und -designs sind robust, funktional und zeitlos.">
+ </head>
 <body>
 
 <!-- NAVIGATION DESKTOP -->
@@ -37,10 +39,6 @@
                     <div class="show-more-box__item">
                         <p class="show-more-box__title">Leistungen</p>
                         <p class="show-more-box__text">Branding, Editorial Design, Print Design</p>
-                    </div>
-                    <div class="show-more-box__item">
-                        <p class="show-more-box__title">Auszeichnung</p>
-                        <p class="show-more-box__text">German Design Award Special Mention in Brand Identity</p>
                     </div>
                 </div>
 

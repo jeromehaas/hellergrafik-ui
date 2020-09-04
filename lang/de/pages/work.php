@@ -2,6 +2,8 @@
 <html lang="de">
 <head>
     <?php include '../partials/head.php' ?>
+    <title>Arbeiten</title>
+    <meta name="description" content="Während 2016 bis 2020 hat heller grafik unter anderem Projekte für Xund, Ablertini, hellergrafik und Xund Messeauftritt realisiert.">
 </head>
 <body>
 

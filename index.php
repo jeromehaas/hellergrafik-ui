@@ -2,6 +2,8 @@
 <html lang="de">
 <head>
     <?php include './lang/de/partials/head.php' ?>
+     <title>heller grafik - Grafik für Helle Köpfe</title>
+     <meta name="description" content="Hinter heller grafik steckt eine visuelle Gestalterin aus Luzern mit Passion zu durchdachtem Branding.">
 </head>
 <body>
 

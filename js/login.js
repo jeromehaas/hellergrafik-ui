@@ -17,7 +17,6 @@ $(document).ready(function() {
         }
 
         else {
-            console.log("not correct");
             loginElements.loginButton.addClass("invalid");
             setTimeout(function() {
                 loginElements.loginButton.removeClass("invalid");

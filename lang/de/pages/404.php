@@ -2,6 +2,8 @@
 <html lang="de">
 <head>
     <?php include '../partials/head.php' ?>
+    <title>Fehler</title>
+    <meta name="description" content="Diese Seite konnte nicht gefunden werden.">
 </head>
 <body>
 
