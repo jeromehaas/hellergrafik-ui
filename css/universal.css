@@ -1024,22 +1024,22 @@ img {
 
     .section-details--xundzebi .item-1     { grid-area: 1 / 1 / 2 / 2; }
     .section-details--xundzebi .item-2     { grid-area: 1 / 2 / 2 / 3; }
-    .section-details--xundzebi .item-3     { grid-area: 3 / 1 / 4 / 3; }
-    .section-details--xundzebi .item-4     { grid-area: 4 / 1 / 5 / 2; }
-    .section-details--xundzebi .item-5     { grid-area: 4 / 2 / 5 / 3; }
-    .section-details--xundzebi .item-6     { grid-area: 5 / 1 / 6 / 3; }
-    .section-details--xundzebi .item-7     { grid-area: 6 / 1 / 7 / 2; }
-    .section-details--xundzebi .item-8     { grid-area: 6 / 2 / 7 / 3; }
-    .section-details--xundzebi .item-9     { grid-area: 7 / 1 / 8 / 3; }
-    .section-details--xundzebi .item-10    { grid-area: 8 / 1 / 10 / 2; }
-    .section-details--xundzebi .item-11    { grid-area: 8 / 2 / 9 / 3; }
-    .section-details--xundzebi .item-12    { grid-area: 9 / 2 / 10 / 3; }
-    .section-details--xundzebi .item-13    { grid-area: 10 / 1 / 11 / 3; }
-    .section-details--xundzebi .item-14    { grid-area: 11 / 1 / 12 / 3; }
-    .section-details--xundzebi .item-15    { grid-area: 12 / 2 / 14 / 3; }
-    .section-details--xundzebi .item-16    { grid-area: 14 / 1 / 15 / 3; }
-    .section-details--xundzebi .item-17    { grid-area: 15 / 1 / 16 / 3; }
-    .section-details--xundzebi .item-18    { grid-area: 16 / 1 / 17 / 3; }
+    .section-details--xundzebi .item-3     { grid-area: 2 / 1 / 3 / 3; }
+    .section-details--xundzebi .item-4     { grid-area: 3 / 1 / 4 / 2; }
+    .section-details--xundzebi .item-5     { grid-area: 3 / 2 / 4 / 3; }
+    .section-details--xundzebi .item-6     { grid-area: 4 / 1 / 5 / 3; }
+    .section-details--xundzebi .item-7     { grid-area: 5 / 1 / 6 / 2; }
+    .section-details--xundzebi .item-8     { grid-area: 5 / 2 / 6 / 3; }
+    .section-details--xundzebi .item-9     { grid-area: 6 / 1 / 7 / 3; }
+    .section-details--xundzebi .item-10    { grid-area: 7 / 1 / 9 / 2; }
+    .section-details--xundzebi .item-11    { grid-area: 7 / 2 / 8 / 3; }
+    .section-details--xundzebi .item-12    { grid-area: 8 / 2 / 9 / 3; }
+    .section-details--xundzebi .item-13    { grid-area: 9 / 1 / 10 / 3; }
+    .section-details--xundzebi .item-14    { grid-area: 10 / 1 / 11 / 3; }
+    .section-details--xundzebi .item-15    { grid-area: 11 / 2 / 13 / 3; }
+    .section-details--xundzebi .item-16    { grid-area: 13 / 1 / 14 / 3; }
+    .section-details--xundzebi .item-17    { grid-area: 14 / 1 / 15 / 3; }
+    .section-details--xundzebi .item-18    { grid-area: 15 / 1 / 16 / 3; }
 }
 
 @media screen and (min-width: 1000px) {
