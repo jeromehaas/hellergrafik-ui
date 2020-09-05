@@ -19,11 +19,11 @@
 <div id="page-wrapper">
 
     <main class="section-pagenotfound">
-        <h3 class="pagenotfound-title">404</h3>
-        <p class="pagenotfound-text">Diese Seite wurde nicht gefunden.</p>
+        <h3 class="pagenotfound-title">Fehler 404</h3>
+        <h3 class="pagenotfound-text">Leider existiert diese Seite nicht.</h3>
         <a class="pagenotfound__link link-small" href="../../../index.php" tabindex="1">
             <?php include '../../../media/icons/arrow_small.svg' ?>
-            <span class="link-small__text">zurück zur Webseite</span>
+            <span class="link-small__text">Zurück zur Website</span>
         </a>
     </main>
 
