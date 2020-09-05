@@ -648,6 +648,8 @@ img {
 .section-projects .project__image {
     width: 100%;
     display: block;
+    max-height: calc(100vh - 190px);
+    object-fit: cover;
 }
 
 .section-projects .project__image__link {
@@ -686,8 +688,7 @@ img {
 }
 
 .section-projects .project__title {
-    margin-bottom: 40px;
-    display: inline;
+    display: inline-block;
 }
 
 /* ------------------------------------------------------ */
