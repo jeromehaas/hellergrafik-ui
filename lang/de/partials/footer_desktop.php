@@ -8,7 +8,7 @@
     <address class="footer-desktop__column footer-desktop__column--two">
         <a class="footer-desktop__column-two__item default-link" href="mailto:isabel@hellergrafik.ch">isabel@hellergrafik.ch</a>
         <a class="footer-desktop__column-two__item default-link" href="tel:0774052349">077 405 23 49</a>
-        <a class="footer-desktop__column-two__item default-link" target="_blank" href="https://www.instagram.com/hellerisabel/?hl=en">Instagram</a>
+        <a class="footer-desktop__column-two__item default-link" target="_blank" href="https://www.instagram.com/hellergrafik/">Instagram</a>
     </address>
     <address class="footer-desktop__column footer-desktop__column--three">
         <p class="footer-desktop__column-three__item" >©Isabel Heller</p>
