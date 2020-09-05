@@ -745,8 +745,10 @@ img {
 
 .section-info .about__title {
     margin-bottom: 25px;
-    min-width: 500px;
+    max-width: 500px;
     padding-right: 50px;
+    width: 100%;
+    flex-shrink: 0;
 }
 
 .section-info .about__container {
