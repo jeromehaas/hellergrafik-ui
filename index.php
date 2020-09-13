@@ -15,25 +15,29 @@
     <?php include './lang/de/partials/navigation_mobile.php' ?>
     <!-- NAVIGATION MOBILE -->
 
-    <div class="section-hero">
-            <img    class="section-hero__image"
-                    srcset="    ./media/img/start/01_500_hellergrafik_03_quer.jpg  500w,
-                                ./media/img/start/01_1000_hellergrafik_03_quer.jpg  1000w,
-                                ./media/img/start/01_1500_hellergrafik_03_quer.jpg  1500w,
-                                ./media/img/start/01_1500_hellergrafik_03_quer.jpg  2000w,
-                                ./media/img/start/01_1500_hellergrafik_03_quer.jpg  2500w"
-                    sizes="100%"
-                    alt="heller grafik">
-            <div class="section-hero__content">
-                <h1 class="section-hero__content__title">Grafik für helle Köpfe. Hinter heller grafik steckt eine visuelle Gestalterin aus Luzern mit Passion zu durchdachtem Branding.</h1>
-                <a class="section-hero__content__link link-small" href="http://localhost:8888/grafik_heller/lang/de/pages/info.php" tabindex="1">
-                    <?php include './media/icons/arrow_small.svg' ?>
-                    <span class="link-small__text">Mehr efahren</span>
-                </a>
-            </div>
-    </div>
-
     <div id="page-wrapper">
+
+        <div class="section-hero">
+                <img    class="section-hero__image"
+                        srcset="    ./media/img/start/01_500_hellergrafik_03_quer.jpg  500w,
+                                    ./media/img/start/01_1000_hellergrafik_03_quer.jpg  1000w,
+                                    ./media/img/start/01_1500_hellergrafik_03_quer.jpg  1500w,
+                                    ./media/img/start/01_1500_hellergrafik_03_quer.jpg  2000w,
+                                    ./media/img/start/01_1500_hellergrafik_03_quer.jpg  2500w"
+                        sizes="100%"
+                        alt="heller grafik">
+                <div class="section-hero__content">
+                    <h1 class="section-hero__content__title">
+                        Grafik für helle Köpfe. <br />
+                        Hinter heller grafik steckt eine visuelle Gestalterin aus Luzern mit Passion zu durchdachtem Branding.</h1>
+                    <a class="section-hero__content__link link-small" href="http://localhost:8888/hellergrafik/lang/de/pages/info.php" tabindex="1">
+                        <?php include './media/icons/arrow_small.svg' ?>
+                        <span class="link-small__text">Mehr efahren</span>
+                    </a>
+                </div>
+        </div>
+
+
 
         <main class="section-projects">
             <article class="project">
@@ -71,11 +75,11 @@
             <article class="project">
                 <a href="lang/de/projects/project_hellergrafik.php" class="project__image__link">
                     <img    class="project__image"
-                            srcset="    ./media/img/work/hellergrafik/01_500_hellergrafik_01_quer.jpg  500w,
-                                        ./media/img/work/hellergrafik/01_1000_hellergrafik_01_quer.jpg  1000w,
-                                        ./media/img/work/hellergrafik/01_1500_hellergrafik_01_quer.jpg  1500w,
-                                        ./media/img/work/hellergrafik/01_2000_hellergrafik_01_quer.jpg  2000w,
-                                        ./media/img/work/hellergrafik/01_2500_hellergrafik_01_quer.jpg  2500w"
+                            srcset="    ./media/img/work/hellergrafik/16_500_hellergrafik_08_quer.jpg  500w,
+                                        ./media/img/work/hellergrafik/16_1000_hellergrafik_08_quer.jpg  1000w,
+                                        ./media/img/work/hellergrafik/16_1500_hellergrafik_08_quer.jpg  1500w,
+                                        ./media/img/work/hellergrafik/16_2000_hellergrafik_08_quer.jpg  2000w,
+                                        ./media/img/work/hellergrafik/16_2500_hellergrafik_08_quer.jpg  2500w"
                             sizes="100%"
                             alt="heller grafik">
                 </a>
@@ -109,9 +113,9 @@
     <?php include './lang/de/partials/footer_desktop.php' ?>
     <!-- FOOTER -->
 
-    <script src="http://localhost:8888/grafik_heller/js/jquery.js"></script>
-    <script src="http://localhost:8888/grafik_heller/js/login.js"></script>
-    <script src="http://localhost:8888/grafik_heller/js/ux.js"></script>
+    <script src="http://localhost:8888/hellergrafik/js/jquery.js"></script>
+    <script src="http://localhost:8888/hellergrafik/js/login.js"></script>
+    <script src="http://localhost:8888/hellergrafik/js/ux.js"></script>
 
 </body>
 </html>

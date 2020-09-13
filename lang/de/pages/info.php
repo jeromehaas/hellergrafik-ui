@@ -91,6 +91,10 @@
                                     </tr>
                                     <tr class="show-more-box__row">
                                         <td class="show-more-box__cell">2014 – 2016</td>
+                                        <td class="show-more-box__cell">Typografische Gestalterin EFA, SfG Bern und Biel</td>
+                                    </tr>
+                                    <tr class="show-more-box__row">
+                                        <td class="show-more-box__cell">2013 – 2014</td>
                                         <td class="show-more-box__cell">Tagesklasse «Sehen und Gestalten», Gestaltungsschule Farbmühle, Luzern</td>
                                     </tr>
                                     <tr class="show-more-box__row">
@@ -124,8 +128,8 @@
 <?php include '../partials/footer_desktop.php' ?>
 <!-- FOOTER -->
 
-<script src="http://localhost:8888/grafik_heller/js/jquery.js"></script>
-<script src="http://localhost:8888/grafik_heller/js/ux.js"></script>
+<script src="http://localhost:8888/hellergrafik/js/jquery.js"></script>
+<script src="http://localhost:8888/hellergrafik/js/ux.js"></script>
 
 </body>
 </html>

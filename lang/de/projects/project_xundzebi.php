@@ -19,11 +19,11 @@
 
     <div class="section-description">
         <img    class="section-description__image"
-                srcset="    ../../../media/img/work/xundzebi/01_500_Xund_Zebi_Karten_01.jpg  500w,
-                            ../../../media/img/work/xundzebi/01_1000_Xund_Zebi_Karten_01.jpg  1000w,
-                            ../../../media/img/work/xundzebi/01_1500_Xund_Zebi_Karten_01.jpg  1500w,
-                            ../../../media/img/work/xundzebi/01_2000_Xund_Zebi_Karten_01.jpg  2000w,
-                            ../../../media/img/work/xundzebi/01_2500_Xund_Zebi_Karten_01.jpg  2500w"
+                srcset="    ../../../media/img/work/xundzebi/07_500_Logo_website_content.jpg  500w,
+                            ../../../media/img/work/xundzebi/07_500_Logo_website_content.jpg  1000w,
+                            ../../../media/img/work/xundzebi/07_500_Logo_website_content.jpg  1500w,
+                            ../../../media/img/work/xundzebi/07_500_Logo_website_content.jpg  2000w,
+                            ../../../media/img/work/xundzebi/07_500_Logo_website_content.jpg  2500w"
             sizes="100%"
             alt="XUND Messeauftritt">
         <div class="section-description__content">
@@ -70,7 +70,7 @@
 <?php include '../partials/footer_desktop.php' ?>
 <!-- FOOTER -->
 
-<script src="http://localhost:8888/grafik_heller/js/ux.js"></script>
+<script src="http://localhost:8888/hellergrafik/js/ux.js"></script>
 
 </body>
 </html>

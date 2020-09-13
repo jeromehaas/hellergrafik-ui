@@ -137,16 +137,18 @@ img {
 .link-big__text {
     line-height: 32px;
     font-size: 26px;
-    margin-right: 5px;
+    margin-right: 10px;
     transition: 0.3s ease;
 }
 
 .link-big__arrow {
-    display: inline-block;
+    display: none;
     fill: #151515;
     height: 26px;
-    vertical-align: text-bottom;
+    vertical-align: sub;
     transition: 0.3s ease;
+    position: relative;
+    top: -3px;
 }
 
 @media screen and (min-width: 700px) {
@@ -156,6 +158,12 @@ img {
     }
     .link-big__arrow {
         height: 35px;
+    }
+}
+
+@media screen and (min-width: 1015px) {
+    .link-big__arrow {
+        display: inline-block;
     }
 }
 
@@ -207,7 +215,9 @@ img {
     fill: #151515;
     transition: 0.3s ease;
     height: 12px;
-    vertical-align: middle;
+    vertical-align: baseline;
+    position: relative;
+    top: 2px;
 }
 
 .link-small__text {
@@ -216,6 +226,7 @@ img {
     line-height: 30px;
     font-size: 16px;
     border-bottom: 2px solid #000000;
+    margin-left: 3px;
 }
 
 @media screen and (min-width: 700px) {
@@ -261,6 +272,13 @@ img {
 
 .show-more-box__title {
     font-family: "fjPlatzGroteske-UltraBold";
+}
+
+@media screen and (min-width: 700px) {
+    .show-more-box__title {
+        font-family: "fjPlatzGroteske-SemiBold";
+        font-size: 20px;
+    }
 }
 
 /* ------------------------------------------------------ */
@@ -610,7 +628,8 @@ img {
 
 .section-hero .section-hero__image {
     width: 100%;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
+    display: block;
     max-height: calc(100vh - 392px);
     object-fit: cover;
 }
@@ -624,7 +643,7 @@ img {
 
 .section-hero .section-hero__content__title {
     margin-bottom: 28px;
-    max-width: 1025px;
+    max-width: 1080px;
 }
 
 .section-hero__content__link {
@@ -654,8 +673,8 @@ img {
 
 .section-projects .project__image__link {
     display: inline-block;
-    margin-bottom: 20px;
-    margin-top: 40px;
+    margin-bottom: 14px;
+    margin-top: 26px;
     width: 100%;
 }
 
@@ -691,16 +710,22 @@ img {
     display: inline-block;
 }
 
+@media screen and (min-width: 700px) {
+    .section-projects .project__image__link {
+        margin-top: 45px;
+    }
+}
+
 /* ------------------------------------------------------ */
 /* SECTION - INFO
 /* ------------------------------------------------------ */
 
 .section-info {
-    margin-top: 20px;
+
 }
 
 .section-info .intro__text {
-    margin-bottom: 30px;
+    margin:32px 0 32px 0;
     max-width: 1085px;
 }
 
@@ -739,12 +764,12 @@ img {
 .section-info .about__description{
     display: flex;
     flex-direction: column;
-    margin: 50px 40px 50px 0;
+    margin: 50px 40px 32px 0;
 }
 
 
 .section-info .about__title {
-    margin-bottom: 25px;
+    margin-bottom: 32px;
     max-width: 500px;
     padding-right: 50px;
     width: 100%;
@@ -756,7 +781,7 @@ img {
 }
 
 .section-info .about__text {
-    margin-bottom: 25px;
+    margin-bottom: 32px;
 
 }
 
@@ -810,6 +835,12 @@ img {
     }
 }
 
+@media screen and (min-width: 1015px) {
+    .section-info .intro__text {
+        margin:100px 0 32px 0;
+    }
+}
+
 
 @media screen and (min-width: 1025px) {
     .section-info .cards {
@@ -828,13 +859,13 @@ img {
 /* ------------------------------------------------------ */
 
 .section-contact {
-    margin-top: 20px;
+
 }
 
 .section-contact .contact__address {
     display: flex;
     flex-direction: column;
-    margin-bottom: 32px;
+    margin:32px 0 32px 0;
 }
 
 .section-contact .contact__image {
@@ -844,7 +875,7 @@ img {
 }
 
 .section-contact .contact__address__container:first-child {
-    margin-right: 64px;
+    margin-bottom: 32px
 }
 
 .section-contact .contact__address__text,
@@ -868,6 +899,10 @@ img {
 @media screen and (min-width: 1015px) {
     .section-contact .contact__address {
         flex-direction: row;
+        margin: 100px 0 32px 0;
+    }
+    .section-contact .contact__address__container:first-child {
+        margin-bottom: 0px
     }
 }
 
@@ -886,7 +921,7 @@ img {
 }
 
 .section-description .section-description__content {
-    margin: 20px 40px 40px 0;
+    margin: 20px 0 40px 0;
     display: flex;
     flex-direction: column;
 }
@@ -902,7 +937,7 @@ img {
 .section-description .section-description__content__description {
     margin-bottom: 28px;
     max-width: 1025px;
-    max-width: 500px;
+    max-width: 1000px;
 }
 
 .section-description .section-description__content__link {
@@ -1056,7 +1091,7 @@ img {
 /* ------------------------------------------------------ */
 
 .section-impressum {
-    margin: 20px 40px 40px 0;
+    margin: 32px 40px 40px 0;
     display: flex;
     flex-direction: column;
 }
@@ -1100,6 +1135,12 @@ font-family: "fjPlatzGroteske-UltraBold";
     }
     .section-impressum .impressum__title {
         width: 500px;
+    }
+}
+
+@media screen and (min-width: 1015px) {
+    .section-impressum {
+        margin: 100px 40px 40px 0;
     }
 }
 

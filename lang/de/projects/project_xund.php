@@ -20,19 +20,19 @@
     <div class="section-description">
 
         <img    class="section-description__image"
-                srcset="    ../../../media/img/work/xund/01_500_Berufsfodler_Detail_03_quer.jpg  500w,
-                            ../../../media/img/work/xund/01_1000_Berufsfodler_Detail_03_quer.jpg  1000w,
-                            ../../../media/img/work/xund/01_1500_Berufsfodler_Detail_03_quer.jpg  1500w,
-                            ../../../media/img/work/xund/01_2000_Berufsfodler_Detail_03_quer.jpg  2000w,
-                            ../../../media/img/work/xund/01_2500_Berufsfodler_Detail_03_quer.jpg  2500w"
+                srcset="    ../../../media/img/work/xund/18_500_logo_website_content.jpg  500w,
+                            ../../../media/img/work/xund/18_1000_logo_website_content.jpg  1000w,
+                            ../../../media/img/work/xund/18_1500_logo_website_content.jpg  1500w,
+                            ../../../media/img/work/xund/18_2000_logo_website_content.jpg  2000w,
+                            ../../../media/img/work/xund/18_2500_logo_website_content.jpg  2500w"
                 sizes="100%"
                 alt="XUND Bildung Gesundheit Zentralschweiz">
 
         <div class="section-description__content">
             <h3 class="section-description__content__title">XUND Bildung Gesundheit Zentralschweiz</h3>
             <div class="section-description__content__container">
-                <p class="section-description__content__description">Seit August 2017 gehen die Höhere Fachschule Gesundheit Zentralschweiz (HFGZ) und die Zentralschweizer Interessengemeinschaft Gesundheitsberufe (ZIGG) einen gemeinsamen Weg und treten unter dem Namen XUND auf. Ich begleitete bei der Agentur FRONTAL AG die Designkonzeptphase und Realisierungsphase der neuen Marke «XUND» intensiv.</p>
-                <p class="section-description__content__description">XUND positioniert sich als vernetzte, zentralschweizer Drehscheibe der Gesundheitsbranche in Theorie und Praxis. Die Wortmarke, die einzigartigen Icons, speziell für XUND entwickelt, und weitere Design-Elemente, aber auch die Erstellung der Geschäftsdrucksachen und Layouts für diverse Kommunikationsmittel, Give-Aways, Event- und Messematerial sowie Signaletik trägt meine Handschrift.</p>
+                <p class="section-description__content__description">Seit August 2017 gehen die Höhere Fachschule Gesundheit Zentralschweiz (HFGZ) und die Zentralschweizer Interessengemeinschaft Gesundheitsberufe (ZIGG) einen gemeinsamen Weg und treten unter dem Namen XUND auf. Ich begleitete bei der Agentur FRONTAL AG die Designkonzeptphase und Realisierungsphase der neuen Marke «XUND» intensiv.</p>
+                <p class="section-description__content__description">XUND positioniert sich als vernetzte, zentralschweizer Drehscheibe der Gesundheitsbranche in Theorie und Praxis. Die Wortmarke, die einzigartigen Icons, speziell für XUND entwickelt, und weitere Design-Elemente, aber auch die Erstellung der Geschäftsdrucksachen und Layouts für diverse Kommunikationsmittel, Give-Aways, Event- und Messematerial sowie Signaletik trägt meine Handschrift.</p>
                 <div class="section-description__show-more-box" >
                     <div class="show-more-box__item">
                         <p class="show-more-box__title">Realisation</p>
@@ -40,7 +40,7 @@
                     </div>
                     <div class="show-more-box__item">
                         <p class="show-more-box__title">Leistungen</p>
-                        <p class="show-more-box__text">Branding</p>
+                        <p class="show-more-box__text">Branding, Print Design, Signaletik</p>
                     </div>
                     <div class="show-more-box__item">
                         <p class="show-more-box__title">Auszeichnung</p>
@@ -74,7 +74,7 @@
         <img class="detail__image item-14"      srcset="../../../media/img/work/xund/15_500_GB_Karte_2_quer.jpg  500w,                      ../../../media/img/work/xund/15_1000_GB_Karte_2_quer.jpg  1000w,                         ../../../media/img/work/xund/15_1500_GB_Karte_2_quer.jpg  1500w,                         ../../../media/img/work/xund/15_2000_GB_Karte_2_quer.jpg  2000w,                         ../../../media/img/work/xund/15_2500_GB_Karte_2_quer.jpg  2500w"                         sizes="100%"        alt="XUND Projektbild">
         <img class="detail__image item-15"      srcset="../../../media/img/work/xund/16_500_GB_Karte_1_hoch.jpg  500w,                      ../../../media/img/work/xund/16_1000_GB_Karte_1_hoch.jpg  1000w,                         ../../../media/img/work/xund/16_1500_GB_Karte_1_hoch.jpg  1500w,                         ../../../media/img/work/xund/16_2000_GB_Karte_1_hoch.jpg  2000w,                         ../../../media/img/work/xund/16_2500_GB_Karte_1_hoch.jpg  2500w"                         sizes="100%"        alt="XUND Projektbild">
         <img class="detail__image item-16"      srcset="../../../media/img/work/xund/17_500_GB_Karte_3_2.jpg  500w,                         ../../../media/img/work/xund/17_1000_GB_Karte_3_2.jpg  1000w,                            ../../../media/img/work/xund/17_1500_GB_Karte_3_2.jpg  1500w,                            ../../../media/img/work/xund/17_2000_GB_Karte_3_2.jpg  2000w,                            ../../../media/img/work/xund/17_2500_GB_Karte_3_2.jpg  2500w"                            sizes="100%"        alt="XUND Projektbild">
-        <img class="detail__image item-17"      srcset="../../../media/img/work/xund/18_500_logo_website_content.jpg  500w,                 ../../../media/img/work/xund/18_1000_logo_website_content.jpg  1000w,                    ../../../media/img/work/xund/18_1500_logo_website_content.jpg  1500w,                    ../../../media/img/work/xund/18_2000_logo_website_content.jpg  2000w,                    ../../../media/img/work/xund/18_2500_logo_website_content.jpg  2500w"                    sizes="100%"        alt="XUND Projektbild">
+        <img class="detail__image item-17"      srcset="../../../media/img/work/xund/26_500_XUND_Icons_quer.jpg  500w,                      ../../../media/img/work/xund/26_1000_XUND_Icons_quer.jpg  1000w,                         ../../../media/img/work/xund/26_1500_XUND_Icons_quer.jpg  1500w,                         ../../../media/img/work/xund/26_2000_XUND_Icons_quer.jpg  2000w,                         ../../../media/img/work/xund/26_2500_XUND_Icons_quer.jpg  2500w"                         sizes="100%"        alt="XUND Projektbild">
         <img class="detail__image item-18"      srcset="../../../media/img/work/xund/19_500_Programm_Flyer_01.jpg  500w,                    ../../../media/img/work/xund/19_1000_Programm_Flyer_01.jpg  1000w,                       ../../../media/img/work/xund/19_1500_Programm_Flyer_01.jpg  1500w,                       ../../../media/img/work/xund/19_2000_Programm_Flyer_01.jpg  2000w,                       ../../../media/img/work/xund/19_2500_Programm_Flyer_01.jpg  2500w"                       sizes="100%"        alt="XUND Projektbild">
         <img class="detail__image item-19"      srcset="../../../media/img/work/xund/20_500_Programm_Flyer_02_hoch.jpg  500w,               ../../../media/img/work/xund/20_1000_Programm_Flyer_02_hoch.jpg  1000w,                  ../../../media/img/work/xund/20_1500_Programm_Flyer_02_hoch.jpg  1500w,                  ../../../media/img/work/xund/20_2000_Programm_Flyer_02_hoch.jpg  2000w,                  ../../../media/img/work/xund/20_2500_Programm_Flyer_02_hoch.jpg  2500w"                  sizes="100%"        alt="XUND Projektbild">
         <img class="detail__image item-20"      srcset="../../../media/img/work/xund/21_500_Programm_Flyer_03.jpg  500w,                    ../../../media/img/work/xund/21_1000_Programm_Flyer_03.jpg  1000w,                       ../../../media/img/work/xund/21_1500_Programm_Flyer_03.jpg  1500w,                       ../../../media/img/work/xund/21_2000_Programm_Flyer_03.jpg  2000w,                       ../../../media/img/work/xund/21_2500_Programm_Flyer_03.jpg  2500w"                       sizes="100%"        alt="XUND Projektbild">
@@ -91,8 +91,8 @@
     <?php include '../partials/footer_desktop.php' ?>
     <!-- FOOTER -->
 
-    <script src="http://localhost:8888/grafik_heller/js/jquery.js"></script>
-    <script src="http://localhost:8888/grafik_heller/js/ux.js"></script>
+    <script src="http://localhost:8888/hellergrafik/js/jquery.js"></script>
+    <script src="http://localhost:8888/hellergrafik/js/ux.js"></script>
 
 </body>
 </html>

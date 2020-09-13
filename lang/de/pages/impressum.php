@@ -57,8 +57,8 @@
     <?php include '../partials/footer_desktop.php' ?>
     <!-- FOOTER -->
 
-    <script src="http://localhost:8888/grafik_heller/js/jquery.js"></script>
-    <script src="http://localhost:8888/grafik_heller/js/ux.js"></script>
+    <script src="http://localhost:8888/hellergrafik/js/jquery.js"></script>
+    <script src="http://localhost:8888/hellergrafik/js/ux.js"></script>
 
 </body>
 </html>

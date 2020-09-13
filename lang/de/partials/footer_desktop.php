@@ -1,8 +1,8 @@
 <footer class="footer-desktop">
     <div class="footer-desktop__container">
     <address class="footer-desktop__column footer-desktop__column--one">
-        <a class="footer-desktop__logo__link" href="http://localhost:8888/grafik_heller/index.php">
-            <img class="footer-desktop__logo" src="http://localhost:8888/grafik_heller/media/logo/logo.svg" alt="heller grafik">
+        <a class="footer-desktop__logo__link" href="http://localhost:8888/hellergrafik/index.php">
+            <img class="footer-desktop__logo" src="http://localhost:8888/hellergrafik/media/logo/logo.svg" alt="heller grafik">
         </a>
     </address>
     <address class="footer-desktop__column footer-desktop__column--two">
@@ -12,7 +12,7 @@
     </address>
     <address class="footer-desktop__column footer-desktop__column--three">
         <p class="footer-desktop__column-three__item" >©Isabel Heller</p>
-        <a class="footer-desktop__column-three__item default-link" href="http://localhost:8888/grafik_heller/lang/de/pages/impressum.php">Impressum</a>
+        <a class="footer-desktop__column-three__item default-link" href="http://localhost:8888/hellergrafik/lang/de/pages/impressum.php">Impressum</a>
     </address>
     </div>
 </footer>

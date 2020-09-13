@@ -13,7 +13,7 @@ $(document).ready(function() {
 
         if (usernameInputValue === "admin" && passwordInputValue === "37dzP9!") {
             $.cookie('authenticated', 'true', { expires: 1, path: '/' });
-            window.location.replace("http://localhost:8888/grafik_heller/index.php");
+            window.location.replace("http://localhost:8888/hellergrafik/index.php");
         }
 
         else {

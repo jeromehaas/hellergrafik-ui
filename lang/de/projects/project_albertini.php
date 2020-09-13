@@ -19,18 +19,18 @@
 
     <div class="section-description">
         <img    class="section-description__image"
-                srcset="    ../../../media/img/work/albertini/01_500_Kontrast_Detail_07.jpg  500w,
-                            ../../../media/img/work/albertini/01_1000_Kontrast_Detail_07.jpg  1000w,
-                            ../../../media/img/work/albertini/01_1500_Kontrast_Detail_07.jpg  1500w,
-                            ../../../media/img/work/albertini/01_2000_Kontrast_Detail_07.jpg  2000w,
-                            ../../../media/img/work/albertini/01_2500_Kontrast_Detail_07.jpg  2500w"
+                srcset="    ../../../media/img/work/albertini/13_500_logo_website_content.jpg  500w,
+                            ../../../media/img/work/albertini/13_1000_logo_website_content.jpg  1000w,
+                            ../../../media/img/work/albertini/13_1500_logo_website_content.jpg  1500w,
+                            ../../../media/img/work/albertini/13_2000_logo_website_content.jpg  2000w,
+                            ../../../media/img/work/albertini/13_2500_logo_website_content.jpg  2500w"
             sizes="100%"
             alt="Albertini Schreinerei und Innenausbau">
         <div class="section-description__content">
             <h3 class="section-description__content__title">Albertini Schreinerei und Innenausbau</h3>
             <div class="section-description__content__container">
                 <p class="section-description__content__description">Wichtige Werte und Ansprüche der fiktiven Möbelfirma Albertini, Schreinerei und Innenausbau AG, sind hochwertige Materialien, sorgfältige Verarbeitung und Innovation durch Zusammenarbeit von verschiedenen Designer und Disziplinen. Die Möbelherstellung und -designs sind robust, funktional und zeitlos.</p>
-                <p class="section-description__content__description">Das hochwertige Material Holz steht im Zentrum der Gestaltung. Einerseits um den Rohstoff Holz zu visualisieren und andererseits um die Stabilität der Möbel mit lebenslanger Garantie zu betonen. Die abstrahierten Baumstamm-Querschnitte mit den ersichtlichen Jahresringen erzielen auf verschiedenen Anwendungen eine gewisseDynamik, Flexibilität und Individualität – passend zu Albertini. Das neue Erscheinungsbild und verschiedene Printanwendungen entstanden im Rahmen der Eidg. Berufsprüfung zur Typografischen Gestalterin. </p>
+                <p class="section-description__content__description">Das hochwertige Material Holz steht im Zentrum der Gestaltung. Einerseits um den Rohstoff Holz zu visualisieren und andererseits um die Stabilität der Möbel mit lebenslanger Garantie zu betonen. Die abstrahierten Baumstamm-Querschnitte mit den ersichtlichen Jahresringen erzielen auf verschiedenen Anwendungen eine gewisse Dynamik, Flexibilität und Individualität – passend zu Albertini. Das neue Erscheinungsbild und verschiedene Printanwendungen entstanden im Rahmen der Eidg. Berufsprüfung zur Typografischen Gestalterin. </p>
                 <div class="section-description__show-more-box">
                     <div class="show-more-box__item">
                         <p class="show-more-box__title">Realisation</p>
@@ -63,7 +63,7 @@
         <img class="detail__image item-9"       srcset="../../../media/img/work/albertini/10_500_Kontrast_06_hoch.jpg  500w,                ../../../media/img/work/albertini/10_1000_Kontrast_06_hoch.jpg   1000w,                  ../../../media/img/work/albertini/10_1500_Kontrast_06_hoch.jpg   1500w,                    ../../../media/img/work/albertini/10_2000_Kontrast_06_hoch.jpg   2000w,                   ../../../media/img/work/albertini/10_2500_Kontrast_06_hoch.jpg   2500w"                   sizes="100%"        alt="Albertini Projektbild">
         <img class="detail__image item-10"      srcset="../../../media/img/work/albertini/11_500_Kontrast_03.jpg  500w,                     ../../../media/img/work/albertini/11_1000_Kontrast_03.jpg  1000w,                        ../../../media/img/work/albertini/11_1500_Kontrast_03.jpg  1500w,                          ../../../media/img/work/albertini/11_2000_Kontrast_03.jpg  2000w,                         ../../../media/img/work/albertini/11_2500_Kontrast_03.jpg  2500w"                         sizes="100%"        alt="Albertini Projektbild">
         <img class="detail__image item-11"      srcset="../../../media/img/work/albertini/12_500_Kontrast_04.jpg  500w,                     ../../../media/img/work/albertini/12_1000_Kontrast_04.jpg  1000w,                        ../../../media/img/work/albertini/12_1500_Kontrast_04.jpg  1500w,                          ../../../media/img/work/albertini/12_2000_Kontrast_04.jpg  2000w,                         ../../../media/img/work/albertini/12_2500_Kontrast_04.jpg  2500w"                         sizes="100%"        alt="Albertini Projektbild">
-        <img class="detail__image item-12"      srcset="../../../media/img/work/albertini/13_500_logo_website_content.jpg  500w,            ../../../media/img/work/albertini/13_1000_logo_website_content.jpg  1000w,               ../../../media/img/work/albertini/13_1500_logo_website_content.jpg  1500w,                 ../../../media/img/work/albertini/13_2000_logo_website_content.jpg  2000w,                ../../../media/img/work/albertini/13_2500_logo_website_content.jpg  2500w"                sizes="100%"        alt="Albertini Projektbild">
+        <img class="detail__image item-12"      srcset="../../../media/img/work/albertini/01_500_Kontrast_Detail_07.jpg  500w,              ../../../media/img/work/albertini/01_1000_Kontrast_Detail_07.jpg  1000w,                 ../../../media/img/work/albertini/01_1500_Kontrast_Detail_07.jpg  1500w,                   ../../../media/img/work/albertini/01_2000_Kontrast_Detail_07.jpg  2000w,                  ../../../media/img/work/albertini/01_2500_Kontrast_Detail_07.jpg  2500w"                  sizes="100%"        alt="Albertini Projektbild">
         <img class="detail__image item-13"      srcset="../../../media/img/work/albertini/14_500_Factsheet_Detail_02.jpg  500w,             ../../../media/img/work/albertini/14_1000_Factsheet_Detail_02.jpg  1000w,                ../../../media/img/work/albertini/14_1500_Factsheet_Detail_02.jpg  1500w,                  ../../../media/img/work/albertini/14_2000_Factsheet_Detail_02.jpg  2000w,                 ../../../media/img/work/albertini/14_2500_Factsheet_Detail_02.jpg  2500w"                 sizes="100%"        alt="Albertini Projektbild">
         <img class="detail__image item-14"      srcset="../../../media/img/work/albertini/15_500_Factsheet_Detail_03.jpg  500w,             ../../../media/img/work/albertini/15_1000_Factsheet_Detail_03.jpg  1000w,                ../../../media/img/work/albertini/15_1500_Factsheet_Detail_03.jpg  1500w,                  ../../../media/img/work/albertini/15_2000_Factsheet_Detail_03.jpg  2000w,                 ../../../media/img/work/albertini/15_2500_Factsheet_Detail_03.jpg  2500w"                 sizes="100%"        alt="Albertini Projektbild">
         <img class="detail__image item-15"      srcset="../../../media/img/work/albertini/16_500_Factsheet_Detail_01_hoch.jpg  500w,        ../../../media/img/work/albertini/16_1000_Factsheet_Detail_01_hoch.jpg  1000w,           ../../../media/img/work/albertini/16_1500_Factsheet_Detail_01_hoch.jpg  1500w,             ../../../media/img/work/albertini/16_2000_Factsheet_Detail_01_hoch.jpg  2000w,            ../../../media/img/work/albertini/16_2500_Factsheet_Detail_01_hoch.jpg  2500w"            sizes="100%"        alt="Albertini Projektbild">
@@ -79,8 +79,8 @@
 <?php include '../partials/footer_desktop.php' ?>
 <!-- FOOTER -->
 
-<script src="http://localhost:8888/grafik_heller/js/jquery.js"></script>
-<script src="http://localhost:8888/grafik_heller/js/ux.js"></script>
+<script src="http://localhost:8888/hellergrafik/js/jquery.js"></script>
+<script src="http://localhost:8888/hellergrafik/js/ux.js"></script>
 
 </body>
 </html>
