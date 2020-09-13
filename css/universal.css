@@ -46,7 +46,7 @@ h1, h2, h3 {
     line-height: 33px;
 }
 
-p, td {
+p, td, li {
     font-size: 16px;
     line-height: 22px;
 }
@@ -86,7 +86,7 @@ img {
         font-size: 44px;
         line-height: 56px;
     }
-    p, td {
+    p, td, li {
         font-size: 24px;
         line-height: 33px;
     }
@@ -1143,6 +1143,73 @@ font-family: "fjPlatzGroteske-UltraBold";
         margin: 100px 40px 40px 0;
     }
 }
+
+/* ------------------------------------------------------ */
+/* SECTION - PRIVACY
+/* ------------------------------------------------------ */
+
+.section-privacy {
+    margin: 32px 40px 40px 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.section-privacy .privacy__title {
+    margin-bottom: 25px;
+    max-width: 600px;
+    width: 100%;
+    flex-shrink: 0;
+    padding-right: 50px;
+}
+
+.section-privacy .privacy__card {
+    margin-bottom: 50px;
+}
+
+.section-privacy .privacy__card__title {
+    font-family: "fjPlatzGroteske-UltraBold";
+}
+
+.section-privacy .privacy__card__link {
+    display: inline-block;
+}
+
+.section-privacy .privacy__card__list-element {
+    list-style-type: none;
+}
+
+.section-privacy .privacy__card__list-element::before {
+    content: "— ";
+}
+
+.section-privacy .privacy__copyright {
+    max-width: 500px;
+}
+
+@media screen and (min-width: 700px) {
+    .section-privacy .privacy__card__link,
+    .section-privacy .privacy__card__text {
+        font-size: 24px;
+        line-height: 33px;
+    }
+
+}
+
+@media screen and (min-width: 1000px) {
+    .section-privacy {
+        flex-direction: row;
+    }
+    .section-privacy .privacy__title {
+        width: 600px;
+    }
+}
+
+@media screen and (min-width: 1015px) {
+    .section-privacy {
+        margin: 100px 40px 40px 0;
+    }
+}
+
 
 /* ------------------------------------------------------ */
 /* SECTION - 404 PAGE NOT FOUND
