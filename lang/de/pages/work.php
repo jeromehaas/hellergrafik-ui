@@ -3,7 +3,7 @@
 <head>
     <?php include '../partials/head.php' ?>
     <title>Arbeiten</title>
-    <meta name="description" content="Während 2016 bis 2020 hat heller grafik unter anderem Projekte für Xund, Ablertini, hellergrafik und Xund Messeauftritt realisiert.">
+    <meta name="description" content="Branding, Brand Strategy, Brand Identity, Print Design, Editorial Design, Digital Design, Packaging Design, Visuelle Konzeption und Signaletik.">
 </head>
 <body>
 
