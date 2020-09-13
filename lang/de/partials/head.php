@@ -22,3 +22,5 @@
 <script src="http://localhost:8888/hellergrafik/js/jquery.js"></script>
 <script src="http://localhost:8888/hellergrafik/js/jquery.cookie.js"></script>
 <script src="http://localhost:8888/hellergrafik/js/cookie_checker.js"></script>
+<script src="http://localhost:8888/hellergrafik/js/ux.js"></script>
+<script src="http://localhost:8888/hellergrafik/js/privacy_notification.js"></script>

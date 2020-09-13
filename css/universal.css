@@ -26,6 +26,7 @@ html {
 
 body {
     background-color: #F5F5F5;
+    position: relative;
 }
 
 #page-wrapper {
@@ -618,6 +619,75 @@ img {
     }
 }
 
+
+/* ------------------------------------------------------ */
+/* PARTIAL - COOKIE NOTIFICATION
+/* ------------------------------------------------------ */
+
+#privacy-notification {
+    background-color: #ffffff;
+    position: fixed;
+    bottom: -50vh;
+    transition: bottom 1s ease-in-out;
+    width: 100%;
+}
+
+#privacy-notification .privacy-notification__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 25px 16px;
+    background-color: #ffffff;
+    transition: bottom 1s ease-in-out;
+    max-width: 2560px;
+    margin: 0 auto;
+}
+
+#privacy-notification.is-visible {
+    bottom: 0vh;
+}
+
+#privacy-notification .privacy-notification__text {
+    margin-bottom: 25px;
+    font-size: 14px;
+}
+
+#privacy-notification .privacy-notification__text .default-link {
+    text-decoration: underline;
+}
+
+#privacy-notification .privacy-notification__button {
+    padding: 16px;
+    font-size: 16px;
+    background-color: #5101BE;
+    color: #ffffff;
+    text-decoration: none;
+    border: none;
+}
+
+@media screen and (min-width: 700px) {
+    .privacy-notification__container {
+        padding: 32px 32px !important;
+    }
+    .privacy-notification__text {
+        font-size: 24px !important;
+    }
+    .privacy-notification__button {
+        font-size: 24px !important;
+    }
+}
+
+@media screen and (min-width: 1050px) {
+    .privacy-notification__container {
+        flex-direction: row !important;
+        align-items: center !important;
+    }
+    .privacy-notification__text {
+        padding-right: 32px !important;
+    }
+}
+
+
 /* ------------------------------------------------------ */
 /* SECTION - HERO
 /* ------------------------------------------------------ */
@@ -636,7 +706,7 @@ img {
 
 .section-hero .section-hero__content {
     width: 100%;
-    padding: 0 16px;
+    padding: 0 0;
     max-width: 2560px;
     margin: auto;
 }
@@ -652,7 +722,7 @@ img {
 
 @media screen and (min-width: 700px) {
     .section-hero .section-hero__content {
-        padding: 0 32px;
+        padding: 0 0;
     }
 }
 
@@ -876,6 +946,7 @@ img {
 
 .section-contact .contact__address__container:first-child {
     margin-bottom: 32px
+
 }
 
 .section-contact .contact__address__text,
@@ -902,12 +973,13 @@ img {
         margin: 100px 0 32px 0;
     }
     .section-contact .contact__address__container:first-child {
-        margin-bottom: 0px
+        margin-bottom: 0px;
+        margin-right: 64px;
     }
 }
 
 /* ------------------------------------------------------ */
-/* SECTION - DESCRIPTON
+/* SECTION - DESCRIPTION
 /* ------------------------------------------------------ */
 
 .section-description {
@@ -995,6 +1067,11 @@ img {
 .section-details .item-25    { grid-area: 25 / 1 / 26 / 3; }
 
 @media screen and (min-width: 700px) {
+
+    .section-details {
+        grid-gap: 32px;
+    }
+
     .section-details--xund .item-1     { grid-area: 1 / 1 / 2 / 3; }
     .section-details--xund .item-2     { grid-area: 2 / 1 / 4 / 2; }
     .section-details--xund .item-3     { grid-area: 2 / 2 / 4 / 3; }
@@ -1149,7 +1226,7 @@ font-family: "fjPlatzGroteske-UltraBold";
 /* ------------------------------------------------------ */
 
 .section-privacy {
-    margin: 32px 40px 40px 0;
+    margin: 32px 0 40px 0;
     display: flex;
     flex-direction: column;
 }
@@ -1162,12 +1239,13 @@ font-family: "fjPlatzGroteske-UltraBold";
     padding-right: 50px;
 }
 
-.section-privacy .privacy__card {
-    margin-bottom: 50px;
+.section-privacy .privacy__card:not(:last-child) {
+    margin-bottom: 85px;
 }
 
 .section-privacy .privacy__card__title {
     font-family: "fjPlatzGroteske-UltraBold";
+    margin-bottom: 10px;
 }
 
 .section-privacy .privacy__card__link {
@@ -1192,7 +1270,10 @@ font-family: "fjPlatzGroteske-UltraBold";
         font-size: 24px;
         line-height: 33px;
     }
-
+    .section-privacy .privacy__card__title {
+        font-family: "fjPlatzGroteske-SemiBold";
+        font-size: 20px;
+    }
 }
 
 @media screen and (min-width: 1000px) {
@@ -1206,7 +1287,7 @@ font-family: "fjPlatzGroteske-UltraBold";
 
 @media screen and (min-width: 1015px) {
     .section-privacy {
-        margin: 100px 40px 40px 0;
+        margin: 100px 0 40px 0;
     }
 }
 

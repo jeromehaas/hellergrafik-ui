@@ -111,11 +111,11 @@
     <!-- FOOTER -->
     <?php include './lang/de/partials/footer_mobile.php' ?>
     <?php include './lang/de/partials/footer_desktop.php' ?>
+    <?php include './lang/de/partials/privacy_notification.php' ?>
     <!-- FOOTER -->
 
-    <script src="http://localhost:8888/hellergrafik/js/jquery.js"></script>
-    <script src="http://localhost:8888/hellergrafik/js/login.js"></script>
-    <script src="http://localhost:8888/hellergrafik/js/ux.js"></script>
+
+
 
 </body>
 </html>

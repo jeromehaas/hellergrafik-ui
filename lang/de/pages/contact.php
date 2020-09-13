@@ -55,10 +55,10 @@
 <!-- FOOTER -->
 <?php include '../partials/footer_mobile.php' ?>
 <?php include '../partials/footer_desktop.php' ?>
+<?php include '../partials/privacy_notification.php' ?>
 <!-- FOOTER -->
 
-<script src="http://localhost:8888/hellergrafik/js/jquery.js"></script>
-<script src="http://localhost:8888/hellergrafik/js/ux.js"></script>
+
 
 </body>
 </html>
