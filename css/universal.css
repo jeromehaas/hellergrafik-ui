@@ -1192,7 +1192,8 @@ img {
 }
 
 .section-impressum .impressum__card__title {
-font-family: "fjPlatzGroteske-UltraBold";
+    font-family: "fjPlatzGroteske-UltraBold";
+    margin-bottom: 10px;
 }
 
 .section-impressum .impressum__card__link {
@@ -1209,8 +1210,14 @@ font-family: "fjPlatzGroteske-UltraBold";
         font-size: 24px;
         line-height: 33px;
     }
+    .section-impressum .impressum__card__title {
+        font-family: "fjPlatzGroteske-SemiBold";
+        font-size: 20px;
+    }
 
 }
+
+
 
 @media screen and (min-width: 1000px) {
     .section-impressum {
