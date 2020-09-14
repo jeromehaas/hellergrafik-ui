@@ -813,6 +813,7 @@ img {
 .section-info .intro__image {
     width: 100%;
     margin-bottom: 16px;
+    display: block;
 }
 
 .section-info .cards {
