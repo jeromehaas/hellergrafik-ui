@@ -218,7 +218,7 @@ img {
     height: 12px;
     vertical-align: baseline;
     position: relative;
-    top: 2px;
+    top: 1px;
 }
 
 .link-small__text {
@@ -431,7 +431,7 @@ img {
 
 @media screen and (min-width: 700px) {
     .navigation-desktop .navigation-desktop__bar {
-        padding: 15px 32px 5px 32px;
+        padding: 17px 32px 3px 32px;
     }
 }
 
@@ -489,6 +489,7 @@ img {
 .footer-mobile .footer-mobile__row-two__item {
     font-size: 14px;
     line-height: 21px;
+    margin-bottom: 4px;
 }
 
 .footer-mobile .footer-mobile__row-two__item:nth-child(2):hover {
@@ -496,7 +497,7 @@ img {
 }
 
 
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 350px) {
     .footer-mobile .footer-mobile__row {
         flex-direction: row;
     }
@@ -994,7 +995,7 @@ img {
 
 .section-description .section-description__image {
     width: 100%;
-    max-height: calc(100vh - 392px );
+    /*max-height: calc(100vh - 392px ); */
     object-fit: cover;
 }
 
