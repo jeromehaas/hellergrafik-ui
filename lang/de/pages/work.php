@@ -53,11 +53,11 @@
             <article class="project">
                 <a href="../projects/project_hellergrafik.php" class="project__image__link">
                     <img    class="project__image"
-                            srcset="    ../../../media/img/work/hellergrafik/01_500_hellergrafik_01_quer.jpg  500w,
-                                        ../../../media/img/work/hellergrafik/01_1000_hellergrafik_01_quer.jpg  1000w,
-                                        ../../../media/img/work/hellergrafik/01_1500_hellergrafik_01_quer.jpg  1500w,
-                                        ../../../media/img/work/hellergrafik/01_2000_hellergrafik_01_quer.jpg  2000w,
-                                        ../../../media/img/work/hellergrafik/01_2500_hellergrafik_01_quer.jpg  2500w"
+                            srcset="    ../../../media/img/work/hellergrafik/16_500_hellergrafik_08_quer.jpg  500w,
+                                        ../../../media/img/work/hellergrafik/16_1000_hellergrafik_08_quer.jpg  1000w,
+                                        ../../../media/img/work/hellergrafik/16_1500_hellergrafik_08_quer.jpg  1500w,
+                                        ../../../media/img/work/hellergrafik/16_2000_hellergrafik_08_quer.jpg  2000w,
+                                        ../../../media/img/work/hellergrafik/16_2500_hellergrafik_08_quer.jpg  2500w"
                             sizes="100%"
                             alt="heller grafik">
                 </a>

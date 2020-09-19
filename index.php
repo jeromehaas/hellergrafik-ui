@@ -15,7 +15,7 @@
     <?php include './lang/de/partials/navigation_mobile.php' ?>
     <!-- NAVIGATION MOBILE -->
 
-    <div id="page-wrapper">
+
 
         <div class="section-hero">
                 <img    class="section-hero__image"
@@ -37,12 +37,12 @@
                 </div>
         </div>
 
-
+        <div id="page-wrapper">
 
         <main class="section-projects">
             <article class="project">
                 <a href="lang/de/projects/project_xund.php" class="project__image__link">
-                    <img    class="project__image"
+                    <img class="project__image"
                             srcset="    ./media/img/work/xund/01_500_Berufsfodler_Detail_03_quer.jpg  500w,
                                         ./media/img/work/xund/01_1000_Berufsfodler_Detail_03_quer.jpg  1000w,
                                         ./media/img/work/xund/01_1500_Berufsfodler_Detail_03_quer.jpg  1500w,

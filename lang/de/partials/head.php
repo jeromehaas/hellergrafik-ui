@@ -19,6 +19,7 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="http://localhost:8888/hellergrafik/media/favicon/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
+<meta http-equiv="ScreenOrientation" content="autoRotate:disabled">
 <script src="http://localhost:8888/hellergrafik/js/jquery.js"></script>
 <script src="http://localhost:8888/hellergrafik/js/jquery.cookie.js"></script>
 <script src="http://localhost:8888/hellergrafik/js/cookie_checker.js"></script>

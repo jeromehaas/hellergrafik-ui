@@ -11,8 +11,9 @@
         <a class="footer-desktop__column-two__item default-link" target="_blank" href="https://www.instagram.com/hellergrafik/">Instagram</a>
     </address>
     <address class="footer-desktop__column footer-desktop__column--three">
-        <p class="footer-desktop__column-three__item" >©Isabel Heller</p>
         <a class="footer-desktop__column-three__item default-link" href="http://localhost:8888/hellergrafik/lang/de/pages/impressum.php">Impressum</a>
+        <a class="footer-desktop__column-three__item default-link" href="http://localhost:8888/hellergrafik/lang/de/pages/privacy.php">Datenschutz</a>
+        <p class="footer-desktop__column-three__item">©Isabel Heller</p>
     </address>
     </div>
 </footer>

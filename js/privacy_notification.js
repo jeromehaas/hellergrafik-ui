@@ -26,7 +26,7 @@ $(document).ready(function() {
         }
 
         function setPrivacyCookie() {
-            $.cookie('privacyAccepted', 'true', { expires: 1, path: '/' });
+            $.cookie('privacyAccepted', 'true', { expires: 14, path: '/' });
         }
 
         function navigationMobileToggle() {
