@@ -20,10 +20,10 @@
     <div class="section-description">
         <img    class="section-description__image"
                 srcset="    ../../../media/img/work/xundzebi/07_500_Logo_website_content.jpg  500w,
-                            ../../../media/img/work/xundzebi/07_500_Logo_website_content.jpg  1000w,
-                            ../../../media/img/work/xundzebi/07_500_Logo_website_content.jpg  1500w,
-                            ../../../media/img/work/xundzebi/07_500_Logo_website_content.jpg  2000w,
-                            ../../../media/img/work/xundzebi/07_500_Logo_website_content.jpg  2500w"
+                            ../../../media/img/work/xundzebi/07_1000_Logo_website_content.jpg  1000w,
+                            ../../../media/img/work/xundzebi/07_1500_Logo_website_content.jpg  1500w,
+                            ../../../media/img/work/xundzebi/07_2000_Logo_website_content.jpg  2000w,
+                            ../../../media/img/work/xundzebi/07_2500_Logo_website_content.jpg  2500w"
             sizes="100%"
             alt="XUND Messeauftritt">
         <div class="section-description__content">
