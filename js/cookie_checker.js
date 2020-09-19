@@ -1,3 +1,3 @@
 if ($.cookie('authenticated') != 'true') {
-    window.location.replace("http://localhost:8888/hellergrafik/lang/de/pages/login.php");
+    window.location.replace("https://hg.prototype-area.com/lang/de/pages/login.php");
 }
