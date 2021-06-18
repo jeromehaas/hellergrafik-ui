@@ -15,8 +15,6 @@
     <?php include './lang/de/partials/navigation_mobile.php' ?>
     <!-- NAVIGATION MOBILE -->
 
-
-
         <div class="section-hero">
                 <img    class="section-hero__image"
                         srcset="    ./media/img/start/01_500_hellergrafik_03_quer.jpg  500w,
@@ -30,7 +28,7 @@
                     <h1 class="section-hero__content__title">
                         Grafik für helle Köpfe. <br />
                         Hinter heller grafik steckt eine visuelle Gestalterin aus Luzern mit Passion zu durchdachtem Branding.</h1>
-                    <a class="section-hero__content__link link-small" href="http://localhost:8888/hellergrafik/lang/de/pages/info.php" tabindex="1">
+                    <a class="section-hero__content__link link-small" href="https://hellergrafik.ch/lang/de/pages/info.php" tabindex="1">
                         <?php include './media/icons/arrow_small.svg' ?>
                         <span class="link-small__text">Mehr efahren</span>
                     </a>
@@ -53,6 +51,22 @@
                 </a>
                 <a class="project__title link-big" href="lang/de/projects/project_xund.php" tabindex="2">
                     <span class="link-big__text">XUND Bildung Gesundheit Zentralschweiz</span>
+                    <?php include './media/icons/arrow_big.svg' ?>
+                </a>
+            </article>
+            <article class="project">
+                <a href="lang/de/projects/project_corinnekueng.php" class="project__image__link">
+                    <img class="project__image"
+                            srcset="    ./media/img/work/corinnekueng/01_500corinnekueng-hellergrafik-01.jpg  500w,
+																				./media/img/work/corinnekueng/01_1000corinnekueng-hellergrafik-01.jpg  1000w,
+																				./media/img/work/corinnekueng/01_1500corinnekueng-hellergrafik-01.jpg  1500w,
+																				./media/img/work/corinnekueng/01_2000corinnekueng-hellergrafik-01.jpg  2000w,
+																				./media/img/work/corinnekueng/01_2500corinnekueng-hellergrafik-01.jpg  2500w"
+                            sizes="100%"
+                            alt="XUND Bildung Gesundheit Zentralschweiz">
+                </a>
+                <a class="project__title link-big" href="lang/de/projects/project_xund.php" tabindex="2">
+                    <span class="link-big__text">Corinne Küng </span>
                     <?php include './media/icons/arrow_big.svg' ?>
                 </a>
             </article>
@@ -88,22 +102,7 @@
                     <?php include './media/icons/arrow_big.svg' ?>
                 </a>
             </article>
-            <article class="project">
-                <a href="lang/de/projects/project_xundzebi.php" class="project__image__link">
-                    <img    class="project__image"
-                            srcset="    media/img/work/xundzebi/10_500_Xund_Zebi_Karten_09_quer.jpg  500w,
-                                        media/img/work/xundzebi/10_1000_Xund_Zebi_Karten_09_quer.jpg  1000w,
-                                        media/img/work/xundzebi/10_1500_Xund_Zebi_Karten_09_quer.jpg  1500w,
-                                        media/img/work/xundzebi/10_2000_Xund_Zebi_Karten_09_quer.jpg  2000w,
-                                        media/img/work/xundzebi/10_2500_Xund_Zebi_Karten_09_quer.jpg  2500w"
-                            sizes="100%"
-                            alt="XUND Messeauftritt">
-                </a>
-                <a class="project__title link-big" href="lang/de/projects/project_xundzebi.php" tabindex="5">
-                    <span class="link-big__text">XUND Messeauftritt</span>
-                    <?php include './media/icons/arrow_big.svg' ?>
-                </a>
-            </article>
+           
         </main>
 
     </div>
