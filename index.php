@@ -57,11 +57,11 @@
             <article class="project">
                 <a href="lang/de/projects/project_corinnekueng.php" class="project__image__link">
                     <img class="project__image"
-                            srcset="    ./media/img/work/corinnekueng/01_500corinnekueng-hellergrafik-01.jpg  500w,
-																				./media/img/work/corinnekueng/01_1000corinnekueng-hellergrafik-01.jpg  1000w,
-																				./media/img/work/corinnekueng/01_1500corinnekueng-hellergrafik-01.jpg  1500w,
-																				./media/img/work/corinnekueng/01_2000corinnekueng-hellergrafik-01.jpg  2000w,
-																				./media/img/work/corinnekueng/01_2500corinnekueng-hellergrafik-01.jpg  2500w"
+                            srcset="    ./media/img/work/corinnekueng/03_500corinnekueng-hellergrafik-03.jpg  500w,
+																				./media/img/work/corinnekueng/03_1000corinnekueng-hellergrafik-03.jpg  1000w,
+																				./media/img/work/corinnekueng/03_1500corinnekueng-hellergrafik-03.jpg  1500w,
+																				./media/img/work/corinnekueng/03_2000corinnekueng-hellergrafik-03.jpg  2000w,
+																				./media/img/work/corinnekueng/03_2500corinnekueng-hellergrafik-03.jpg  2500w"
                             sizes="100%"
                             alt="XUND Bildung Gesundheit Zentralschweiz">
                 </a>
