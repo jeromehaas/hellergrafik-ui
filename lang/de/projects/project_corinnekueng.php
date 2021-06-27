@@ -44,7 +44,7 @@
                     </div>
                     <div class="show-more-box__item">
                         <p class="show-more-box__title">Fotografie</p>
-												<a href="https://www.christianfelber.com/" target="_blank" class="show-more-box__link"><p class="show-more-box__text">MING, Christian Felber</p></a>
+												<a href="https://www.christianfelber.com/" target="_blank" class="show-more-box__link default-link">MING, Christian Felber</a>
                     </div>
                 </div>
 

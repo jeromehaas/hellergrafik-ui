@@ -44,7 +44,7 @@
                     </div>
                     <div class="show-more-box__item">
                         <p class="show-more-box__title">Auszeichnung</p>
-												<a href="https://www.german-design-award.com/die-gewinner/galerie/detail/23169-xund.html" target="_blank" class="show-more-box__link"><p class="show-more-box__text">German Design Award Special Mention in Brand Identity</p></a>
+												<a href="https://www.german-design-award.com/die-gewinner/galerie/detail/23169-xund.html" target="_blank" class="show-more-box__link default-link">German Design Award Special Mention in Brand Identity</a
                     </div>
                 </div>
 

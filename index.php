@@ -28,7 +28,7 @@
                     <h1 class="section-hero__content__title">
                         Grafik für helle Köpfe. <br />
                         Hinter heller grafik steckt eine visuelle Gestalterin aus Luzern mit Passion zu durchdachtem Branding.</h1>
-                    <a class="section-hero__content__link link-small" href="https://hellergrafik.ch/lang/de/pages/info.php" tabindex="1">
+                    <a class="section-hero__content__link link-small" href="https://dev.hellergrafik.ch/lang/de/pages/info.php" tabindex="1">
                         <?php include './media/icons/arrow_small.svg' ?>
                         <span class="link-small__text">Mehr efahren</span>
                     </a>
