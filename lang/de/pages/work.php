@@ -37,11 +37,11 @@
             <article class="project">
                 <a href="../projects/project_corinnekueng.php" class="project__image__link">
                     <img    class="project__image"
-										srcset="    ./media/img/work/corinnekueng/03_500corinnekueng-hellergrafik-03.jpg  500w,
-																				../../../media/img/work/corinnekueng/03_1000corinnekueng-hellergrafik-03.jpg  1000w,
-																				../../../media/img/work/corinnekueng/03_1500corinnekueng-hellergrafik-03.jpg  1500w,
-																				../../../media/img/work/corinnekueng/03_2000corinnekueng-hellergrafik-03.jpg  2000w,
-																				../../../media/img/work/corinnekueng/03_2500corinnekueng-hellergrafik-03.jpg  2500w"
+										srcset="    ./media/img/work/corinnekueng/12_500corinnekueng-hellergrafik-12.jpg  500w,
+																				../../../media/img/work/corinnekueng/12_1000corinnekueng-hellergrafik-12.jpg  1000w,
+																				../../../media/img/work/corinnekueng/12_1500corinnekueng-hellergrafik-12.jpg  1500w,
+																				../../../media/img/work/corinnekueng/12_2000corinnekueng-hellergrafik-12.jpg  2000w,
+																				../../../media/img/work/corinnekueng/12_2500corinnekueng-hellergrafik-12.jpg  2500w"
                             sizes="100%"
                             alt="Corinne Küng">
                 </a>

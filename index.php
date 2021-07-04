@@ -28,7 +28,7 @@
                     <h1 class="section-hero__content__title">
                         Grafik für helle Köpfe. <br />
                         Hinter heller grafik steckt eine visuelle Gestalterin aus Luzern mit Passion zu durchdachtem Branding.</h1>
-                    <a class="section-hero__content__link link-small" href="https://dev.hellergrafik.ch/lang/de/pages/info.php" tabindex="1">
+                    <a class="section-hero__content__link link-small" href="https://test.hellergrafik.ch/lang/de/pages/info.php" tabindex="1">
                         <?php include './media/icons/arrow_small.svg' ?>
                         <span class="link-small__text">Mehr efahren</span>
                     </a>
@@ -57,11 +57,11 @@
             <article class="project">
                 <a href="lang/de/projects/project_corinnekueng.php" class="project__image__link">
                     <img class="project__image"
-                            srcset="    ./media/img/work/corinnekueng/03_500corinnekueng-hellergrafik-03.jpg  500w,
-																				./media/img/work/corinnekueng/03_1000corinnekueng-hellergrafik-03.jpg  1000w,
-																				./media/img/work/corinnekueng/03_1500corinnekueng-hellergrafik-03.jpg  1500w,
-																				./media/img/work/corinnekueng/03_2000corinnekueng-hellergrafik-03.jpg  2000w,
-																				./media/img/work/corinnekueng/03_2500corinnekueng-hellergrafik-03.jpg  2500w"
+                            srcset="    ./media/img/work/corinnekueng/12_500corinnekueng-hellergrafik-12.jpg  500w,
+																				./media/img/work/corinnekueng/12_1000corinnekueng-hellergrafik-12.jpg  1000w,
+																				./media/img/work/corinnekueng/12_1500corinnekueng-hellergrafik-12.jpg  1500w,
+																				./media/img/work/corinnekueng/12_2000corinnekueng-hellergrafik-12.jpg  2000w,
+																				./media/img/work/corinnekueng/12_2500corinnekueng-hellergrafik-12.jpg  2500w"
                             sizes="100%"
                             alt="XUND Bildung Gesundheit Zentralschweiz">
                 </a>
