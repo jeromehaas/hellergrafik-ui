@@ -276,12 +276,24 @@ img {
     font-family: "fjPlatzGroteske-UltraBold", Arial, sans-serif;
 }
 
+.show-more-box__link {
+	text-decoration: none;
+	font-size: 16px;
+	line-height: 22px;
+}
+
 @media screen and (min-width: 700px) {
     .show-more-box__title {
         font-family: "fjPlatzGroteske-SemiBold", Arial, sans-serif;
         font-size: 20px;
     }
+    
+		.show-more-box__link {
+        font-size: 24px;
+				line-height: 33px;
+    }
 }
+
 
 /* ------------------------------------------------------ */
 /* PARTIAL - NAVIGATION MOBILE
@@ -1085,6 +1097,7 @@ img {
 .section-details img {
     width: 100%;
     height: auto;
+		object-fit: cover;
 }
 
 .section-details .item-1     { grid-area: 1 / 1 / 2 / 3; }
@@ -1146,6 +1159,24 @@ img {
     .section-details--xund .item-24    { grid-area: 18 / 1 / 19 / 3; }
     .section-details--xund .item-25    { grid-area: 19 / 1 / 20 / 3; }
     .section-details--xund .item-26    { grid-area: 20 / 1 / 21 / 3; }
+    
+		.section-details--corinnekueng .item-1     { grid-area: 1 / 1 / 2 / 3; }
+    .section-details--corinnekueng .item-2     { grid-area: 2 / 1 / 4 / 2; }
+    .section-details--corinnekueng .item-3     { grid-area: 2 / 2 / 4 / 3; }
+    .section-details--corinnekueng .item-4     { grid-area: 4 / 1 / 5 / 3; }
+    .section-details--corinnekueng .item-5     { grid-area: 5 / 1 / 6 / 3; }
+    .section-details--corinnekueng .item-6     { grid-area: 6 / 1 / 7 / 3; }
+    .section-details--corinnekueng .item-7     { grid-area: 7 / 1 / 8 / 2; }
+    .section-details--corinnekueng .item-8     { grid-area: 7 / 2 / 8 / 3; }
+    .section-details--corinnekueng .item-9     { grid-area: 8 / 1 / 9 / 3; }
+    .section-details--corinnekueng .item-10    { grid-area: 9 / 1 / 10 / 2; }
+    .section-details--corinnekueng .item-11    { grid-area: 9 / 2 / 10 / 3; }
+    .section-details--corinnekueng .item-12    { grid-area: 10 / 1 / 11 / 3; }
+    .section-details--corinnekueng .item-13    { grid-area: 11 / 1 / 12 / 3; }
+    .section-details--corinnekueng .item-14    { grid-area: 12 / 1 / 13 / 2; }
+    .section-details--corinnekueng .item-15    { grid-area: 12 / 2 / 13 / 3; }
+    .section-details--corinnekueng .item-16    { grid-area: 13 / 1 / 14 / 3; }
+
 
     .section-details--albertini .item-1     { grid-area: 1 / 1 / 2 / 3; }
     .section-details--albertini .item-2     { grid-area: 2 / 1 / 4 / 2; }
