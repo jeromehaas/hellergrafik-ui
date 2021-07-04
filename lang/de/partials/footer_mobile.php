@@ -6,8 +6,8 @@
     <address class="footer-mobile__row footer-mobile__row--two">
         <div class="footer_mobile__column footer-mobile__row--two__column--one">
             <a class="footer-mobile__row--two__column--one__item default-link" target="_blank" href="https://www.instagram.com/hellergrafik/">Instagram</a>
-            <a class="footer-mobile__row--two__column--one__item default-link" href="https://test.hellergrafik.ch/lang/de/pages/privacy.php">Datenschutz</a>
-            <a class="footer-mobile__row--two__column--one__item default-link" href="https://test.hellergrafik.ch/lang/de/pages/impressum.php">Impressum</a>
+            <a class="footer-mobile__row--two__column--one__item default-link" href="https://hellergrafik.ch/lang/de/pages/privacy.php">Datenschutz</a>
+            <a class="footer-mobile__row--two__column--one__item default-link" href="https://hellergrafik.ch/lang/de/pages/impressum.php">Impressum</a>
         </div>
         <div class="footer_mobile__column footer-mobile__row--tow__column--two">
             <p class="footer-mobile__row--two__column--two__item" >©Isabel Heller</p>
