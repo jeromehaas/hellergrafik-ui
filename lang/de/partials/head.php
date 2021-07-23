@@ -25,3 +25,10 @@
 <script src="https://test.hellergrafik.ch/js/cookie_checker.js"></script>
 <script src="https://test.hellergrafik.ch/js/ux.js"></script>
 <script src="https://test.hellergrafik.ch/js/privacy_notification.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116209845-11"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-116209845-11');
+</script>
