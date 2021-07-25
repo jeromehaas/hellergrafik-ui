@@ -20,9 +20,9 @@
 <meta name="msapplication-TileImage" content="https://hellergrafik.ch/media/favicon/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 <meta http-equiv="ScreenOrientation" content="autoRotate:disabled">
-<script src="https://test.hellergrafik.ch/js/jquery.js"></script>
-<script src="https://test.hellergrafik.ch/js/ux.js"></script>
-<script src="https://test.hellergrafik.ch/js/privacy_notification.js"></script>
+<script src="https://hellergrafik.ch/js/jquery.js"></script>
+<script src="https://hellergrafik.ch/js/ux.js"></script>
+<script src="https://hellergrafik.ch/js/privacy_notification.js"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116209845-11"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
