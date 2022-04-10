@@ -20,11 +20,11 @@
     <div class="section-description">
 
         <img    class="section-description__image"
-                srcset="    ../../../media/img/work/oberberg/oberberg_hellergrafik_00_Headerbild_500.jpg  500w,
-														../../../media/img/work/oberberg/oberberg_hellergrafik_00_Headerbild_1000.jpg  1000w,
-                            ../../../media/img/work/oberberg/oberberg_hellergrafik_00_Headerbild_1500.jpg  1500w,
-                            ../../../media/img/work/oberberg/oberberg_hellergrafik_00_Headerbild_2000.jpg  2000w,
-                            ../../../media/img/work/oberberg/oberberg_hellergrafik_00_Headerbild_2500.jpg  2500w"
+                srcset="    ../../../media/img/work/oberberg/oberberg_hellergrafik_00_header_500.jpg  500w,
+														../../../media/img/work/oberberg/oberberg_hellergrafik_00_header_1000.jpg  1000w,
+                            ../../../media/img/work/oberberg/oberberg_hellergrafik_00_header_1500.jpg  1500w,
+                            ../../../media/img/work/oberberg/oberberg_hellergrafik_00_header_2000.jpg  2000w,
+                            ../../../media/img/work/oberberg/oberberg_hellergrafik_00_header_2500.jpg  2500w"
             sizes="100%"
             alt="heller grafik – eigenes Branding">
         <div class="section-description__content">

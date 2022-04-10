@@ -42,13 +42,13 @@
 					<article class="project">
                 <a href="lang/de/projects/project_impact_acoustic.php" class="project__image__link">
                     <img class="project__image"
-                            srcset="    ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_Header-und-Teaserbild_500.gif  500w,
-                                        ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_Header-und-Teaserbild_1000.gif  1000w,
-                                        ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_Header-und-Teaserbild_1500.gif  1500w,
-                                        ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_Header-und-Teaserbild_2000.gif  2000w,
-                                        ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_Header-und-Teaserbild_2500.gif  2500w"
+                            srcset="    ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_teaser_500.gif  500w,
+                                        ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_teaser_1000.gif  1000w,
+                                        ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_teaser_1500.gif  1500w,
+                                        ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_teaser_2000.gif  2000w,
+                                        ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_teaser_2500.gif  2500w"
                             sizes="100%"
-                            alt="XUND Bildung Gesundheit Zentralschweiz">
+                            alt="Impact Acoustic">
                 </a>
                 <a class="project__title link-big" href="lang/de/projects/project_impact_acoustic.php" tabindex="2">
                     <span class="link-big__text">Impact Acoustic</span>
@@ -82,7 +82,7 @@
 																				./media/img/work/corinnekueng/12_2000corinnekueng-hellergrafik-12.jpg  2000w,
 																				./media/img/work/corinnekueng/12_2500corinnekueng-hellergrafik-12.jpg  2500w"
                             sizes="100%"
-                            alt="XUND Bildung Gesundheit Zentralschweiz">
+                            alt="Corinne Kueng">
                 </a>
                 <a class="project__title link-big" href="lang/de/projects/project_xund.php" tabindex="2">
                     <span class="link-big__text">Corinne Küng </span>
@@ -110,13 +110,13 @@
 						<article class="project">
                 <a href="lang/de/projects/project_oberberg.php" class="project__image__link">
                     <img    class="project__image"
-                            srcset="    ./media/img/work/oberberg/oberberg_hellergrafik_02_Teaserbild_500.gif  500w,
-																				./media/img/work/oberberg/oberberg_hellergrafik_02_Teaserbild_1000.gif  1000w,
-																				./media/img/work/oberberg/oberberg_hellergrafik_02_Teaserbild_1500.gif  1500w,
-																				./media/img/work/oberberg/oberberg_hellergrafik_02_Teaserbild_2000.gif  2000w,
-																				./media/img/work/oberberg/oberberg_hellergrafik_02_Teaserbild_2500.gif  2500w"
+                            srcset="    ./media/img/work/oberberg/oberberg_hellergrafik_02_teaser_500.gif  500w,
+																				./media/img/work/oberberg/oberberg_hellergrafik_02_teaser_1000.gif  1000w,
+																				./media/img/work/oberberg/oberberg_hellergrafik_02_teaser_1500.gif  1500w,
+																				./media/img/work/oberberg/oberberg_hellergrafik_02_teaser_2000.gif  2000w,
+																				./media/img/work/oberberg/oberberg_hellergrafik_02_teaser_2500.gif  2500w"
                             sizes="100%"
-                            alt="Albertini">
+                            alt="Biohof Oberberg">
                 </a>
                 <a class="project__title link-big" href="lang/de/projects/project_oberberg.php" tabindex="3">
                     <span class="link-big__text">Biohof Oberberg</span>
