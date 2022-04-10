@@ -2,7 +2,7 @@
 <html lang="de">
 <head>
     <?php include '../partials/head.php' ?>
-    <title>Projekt | Albertini </title>
+    <title>Projekt | Albertini</title>
     <meta name="description" content="Wichtige Werte und Ansprüche der fiktiven Möbelfirma Albertini, Schreinerei und Innenausbau AG, sind hochwertige Materialien, sorgfältige Verarbeitung und Innovation durch Zusammenarbeit von verschiedenen Designer und Disziplinen. Die Möbelherstellung und -designs sind robust, funktional und zeitlos.">
  </head>
 <body>

@@ -38,7 +38,25 @@
         <div id="page-wrapper">
 
         <main class="section-projects">
-            <article class="project">
+            
+					<article class="project">
+                <a href="lang/de/projects/project_impact_acoustic.php" class="project__image__link">
+                    <img class="project__image"
+                            srcset="    ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_Header-und-Teaserbild_500.gif  500w,
+                                        ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_Header-und-Teaserbild_1000.gif  1000w,
+                                        ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_Header-und-Teaserbild_1500.gif  1500w,
+                                        ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_Header-und-Teaserbild_2000.gif  2000w,
+                                        ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_Header-und-Teaserbild_2500.gif  2500w"
+                            sizes="100%"
+                            alt="XUND Bildung Gesundheit Zentralschweiz">
+                </a>
+                <a class="project__title link-big" href="lang/de/projects/project_impact_acoustic.php" tabindex="2">
+                    <span class="link-big__text">Impact Acoustic</span>
+                    <?php include './media/icons/arrow_big.svg' ?>
+                </a>
+            </article>
+
+						<article class="project">
                 <a href="lang/de/projects/project_xund.php" class="project__image__link">
                     <img class="project__image"
                             srcset="    ./media/img/work/xund/01_500_Berufsfodler_Detail_03_quer.jpg  500w,
@@ -54,7 +72,8 @@
                     <?php include './media/icons/arrow_big.svg' ?>
                 </a>
             </article>
-            <article class="project">
+    
+						<article class="project">
                 <a href="lang/de/projects/project_corinnekueng.php" class="project__image__link">
                     <img class="project__image"
                             srcset="    ./media/img/work/corinnekueng/12_500corinnekueng-hellergrafik-12.jpg  500w,
@@ -70,7 +89,8 @@
                     <?php include './media/icons/arrow_big.svg' ?>
                 </a>
             </article>
-            <article class="project">
+  
+						<article class="project">
                 <a href="lang/de/projects/project_albertini.php" class="project__image__link">
                     <img    class="project__image"
                             srcset="    ./media/img/work/albertini/01_500_Kontrast_Detail_07.jpg  500w,
@@ -86,7 +106,25 @@
                     <?php include './media/icons/arrow_big.svg' ?>
                 </a>
             </article>
-            <article class="project">
+  
+						<article class="project">
+                <a href="lang/de/projects/project_oberberg.php" class="project__image__link">
+                    <img    class="project__image"
+                            srcset="    ./media/img/work/oberberg/oberberg_hellergrafik_02_Teaserbild_500.gif  500w,
+																				./media/img/work/oberberg/oberberg_hellergrafik_02_Teaserbild_1000.gif  1000w,
+																				./media/img/work/oberberg/oberberg_hellergrafik_02_Teaserbild_1500.gif  1500w,
+																				./media/img/work/oberberg/oberberg_hellergrafik_02_Teaserbild_2000.gif  2000w,
+																				./media/img/work/oberberg/oberberg_hellergrafik_02_Teaserbild_2500.gif  2500w"
+                            sizes="100%"
+                            alt="Albertini">
+                </a>
+                <a class="project__title link-big" href="lang/de/projects/project_oberberg.php" tabindex="3">
+                    <span class="link-big__text">Biohof Oberberg</span>
+                    <?php include './media/icons/arrow_big.svg' ?>
+                </a>
+            </article>
+ 
+						<article class="project">
                 <a href="lang/de/projects/project_hellergrafik.php" class="project__image__link">
                     <img    class="project__image"
                             srcset="    ./media/img/work/hellergrafik/16_500_hellergrafik_08_quer.jpg  500w,
