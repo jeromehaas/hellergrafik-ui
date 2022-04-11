@@ -31,7 +31,8 @@
             <h3 class="section-description__content__title">heller grafik – eigenes Branding</h3>
             <div class="section-description__content__container">
                 <p class="section-description__content__description">Ganz nach dem Motto und meinem Anspruch an meine Arbeit «Grafik für helle Köpfe» entstand mein eigener visueller Auftritt. Mein Name beziehungsweise das Wort «heller» ist mit seiner Mehrdeutigkeit ein wichtiger Teil meines Auftritts.</p>
-                <p class="section-description__content__description">Auf der Postkartenserie von heller grafik wird «heller» spielerisch und mit etwas Selbstironie auf verschiedene Arten in Szene gesetzt – visuell aber auch inhaltlich. Die Postkarten habe ich im Rahmen eines Siebdruckkurses selbst produziert – von der analogen und digitalen Motiverstellung, über die Belichtung des Siebs bis hin zum Farbenmischen.</p>
+                <p class="section-description__content__description">Auf der Postkartenserie von heller grafik wird «heller» spielerisch und mit etwas Selbstironie auf verschiedene Arten in Szene gesetzt – visuell aber auch inhaltlich. Die erste Edition der Postkarten habe ich im Rahmen eines Siebdruckkurses selbst produziert – von der analogen und digitalen Motiverstellung, über die Belichtung des Siebs bis hin zum Farbenmischen.</p>
+                <p class="section-description__content__description">Eine zweite Edition Postkarten und A-4-Prints durfte ich für Fidea Design entwickeln. Sie sind online <a href="https://fideadesign.com/de/kollektion/18#search=heller" target="blank">hier</a> erhältlich.</p>
                 <div class="section-description__show-more-box show-more-box">
                     <div class="show-more-box__item">
                         <p class="show-more-box__title">Realisation</p>
@@ -42,11 +43,6 @@
                         <p class="show-more-box__text">Branding, Print Design, Digital Design</p>
                     </div>
                 </div>
-
-                <!--  <a class="section-description__content__link link-small show-more-box__trigger" tabindex="1">
-                    <svg class="link-small__plus" viewBox="0 0 62.11 62.08"><rect x="26.36" y="6.03" width="9.42" height="50"/><rect x="26.36" y="5.62" width="9.42" height="50.82" transform="translate(62.1 -0.05) rotate(90)"/></svg>
-                    <span class="link-small__text">Mehr efahren</span>
-                 </a> -->
 
             </div>
         </div>

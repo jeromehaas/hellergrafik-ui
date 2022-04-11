@@ -18,7 +18,25 @@
     <div id="page-wrapper">
 
         <main class="section-projects">
-            <article class="project">
+    
+				<article class="project">
+                <a href="../projects/project_impact_acoustic.php" class="project__image__link">
+                    <img class="project__image"
+                            srcset="    ../../../media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_teaser_500.gif  500w,
+                                        ../../../media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_teaser_1000.gif  1000w,
+                                        ../../../media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_teaser_1500.gif  1500w,
+                                        ../../../media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_teaser_2000.gif  2000w,
+                                        ../../../media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_teaser_2500.gif  2500w"
+                            sizes="100%"
+                            alt="Impact Acoustic">
+                </a>
+                <a class="project__title link-big" href="../projects/project_impact_acoustic.php" tabindex="2">
+                    <span class="link-big__text">Impact Acoustic</span>
+										<?php include '../../../media/icons/arrow_big.svg' ?>
+                </a>
+            </article>
+				
+					<article class="project">
                 <a href="../projects/project_xund.php" class="project__image__link">
                     <img    class="project__image"
                             srcset="    ../../../media/img/work/xund/01_500_Berufsfodler_Detail_03_quer.jpg  500w,
@@ -66,6 +84,24 @@
                     <?php include '../../../media/icons/arrow_big.svg' ?>
                 </a>
             </article>
+
+						<article class="project">
+                <a href="../projects/project_oberberg.php" class="project__image__link">
+                    <img    class="project__image"
+                            srcset="    ../../../media/img/work/oberberg/oberberg_hellergrafik_02_teaser_500.gif  500w,
+																				../../../media/img/work/oberberg/oberberg_hellergrafik_02_teaser_1000.gif  1000w,
+																				../../../media/img/work/oberberg/oberberg_hellergrafik_02_teaser_1500.gif  1500w,
+																				../../../media/img/work/oberberg/oberberg_hellergrafik_02_teaser_2000.gif  2000w,
+																				../../../media/img/work/oberberg/oberberg_hellergrafik_02_teaser_2500.gif  2500w"
+                            sizes="100%"
+                            alt="Biohof Oberberg">
+                </a>
+                <a class="project__title link-big" href="../projects/project_oberberg.php" tabindex="3">
+                    <span class="link-big__text">Biohof Oberberg</span>
+                    <?php include '../../../media/icons/arrow_big.svg' ?>
+                </a>
+            </article>
+
             <article class="project">
                 <a href="../projects/project_hellergrafik.php" class="project__image__link">
                     <img    class="project__image"

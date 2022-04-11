@@ -91,23 +91,6 @@
             </article>
   
 						<article class="project">
-                <a href="lang/de/projects/project_albertini.php" class="project__image__link">
-                    <img    class="project__image"
-                            srcset="    ./media/img/work/albertini/01_500_Kontrast_Detail_07.jpg  500w,
-                                        ./media/img/work/albertini/01_1000_Kontrast_Detail_07.jpg  1000w,
-                                        ./media/img/work/albertini/01_1500_Kontrast_Detail_07.jpg  1500w,
-                                        ./media/img/work/albertini/01_2000_Kontrast_Detail_07.jpg  2000w,
-                                        ./media/img/work/albertini/01_2500_Kontrast_Detail_07.jpg  2500w"
-                            sizes="100%"
-                            alt="Albertini">
-                </a>
-                <a class="project__title link-big" href="lang/de/projects/project_albertini.php" tabindex="3">
-                    <span class="link-big__text">Albertini</span>
-                    <?php include './media/icons/arrow_big.svg' ?>
-                </a>
-            </article>
-  
-						<article class="project">
                 <a href="lang/de/projects/project_oberberg.php" class="project__image__link">
                     <img    class="project__image"
                             srcset="    ./media/img/work/oberberg/oberberg_hellergrafik_02_teaser_500.gif  500w,

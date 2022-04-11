@@ -3,7 +3,7 @@
 <head>
     <?php include '../partials/head.php' ?>
     <title>Info</title>
-    <meta name="description" content="heller grafik fokussiert sich auf wertebasiertes Branding. Die visuelle Sprache einer Marke soll unternehmerische Ziele und Werte widerspiegeln und bei deren Publikum Anklang finden. Ich höre zu, möchte Zusammenhänge und Zielgruppen verstehen.">
+    <meta name="description" content="heller grafik fokussiert sich auf wertebasiertes Branding im On- und Offlinebereich.. Die visuelle Sprache einer Marke soll unternehmerische Ziele und Werte widerspiegeln und bei deren Publikum Anklang finden. Ich höre zu, möchte Zusammenhänge und Zielgruppen verstehen.">
 </head>
 <body>
 
@@ -21,7 +21,7 @@
         <main class="section-info">
             <div class="intro">
                 <h2 class="intro__text">
-                    heller grafik fokussiert sich auf wertebasiertes Branding. Die visuelle Sprache einer Marke soll unternehmerische Ziele und Werte widerspiegeln und bei deren Publikum Anklang finden.<br /><br />
+                    heller grafik fokussiert sich auf wertebasiertes Branding im On- und Offlinebereich. Die visuelle Sprache einer Marke soll unternehmerische Ziele und Werte widerspiegeln und bei deren Publikum Anklang finden.<br /><br />
                     Ich höre zu, möchte Zusammenhänge und Zielgruppen verstehen.
                 </h2>
                 <a class="section-hero__content__link link-small" href="./contact.php" tabindex="1">
@@ -48,6 +48,7 @@
                         <li class="card__list-item"><h3>Editorial Design</h3></li>
                         <li class="card__list-item"><h3>Digital Design</h3></li>
                         <li class="card__list-item"><h3>Packaging Design</h3></li>
+                        <li class="card__list-item"><h3>Campaign Design</h3></li>
                         <li class="card__list-item"><h3>Visuelle Konzeption</h3></li>
                         <li class="card__list-item"><h3>Signaletik</h3></li>
                     </ul>
