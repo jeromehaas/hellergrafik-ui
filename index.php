@@ -42,11 +42,11 @@
 					<article class="project">
                 <a href="lang/de/projects/project_impact_acoustic.php" class="project__image__link">
                     <img class="project__image"
-                            srcset="    ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_teaser_500.gif  500w,
-                                        ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_teaser_1000.gif  1000w,
-                                        ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_teaser_1500.gif  1500w,
-                                        ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_teaser_2000.gif  2000w,
-                                        ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_teaser_2500.gif  2500w"
+                            srcset="    ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_teaser_2_500.gif  500w,
+                                        ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_teaser_2_1000.gif  1000w,
+                                        ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_teaser_2_1500.gif  1500w,
+                                        ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_teaser_2_2000.gif  2000w,
+                                        ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_teaser_2_2500.gif  2500w"
                             sizes="100%"
                             alt="Impact Acoustic">
                 </a>
@@ -93,11 +93,11 @@
 						<article class="project">
                 <a href="lang/de/projects/project_oberberg.php" class="project__image__link">
                     <img    class="project__image"
-                            srcset="    ./media/img/work/oberberg/oberberg_hellergrafik_02_teaser_500.gif  500w,
-																				./media/img/work/oberberg/oberberg_hellergrafik_02_teaser_1000.gif  1000w,
-																				./media/img/work/oberberg/oberberg_hellergrafik_02_teaser_1500.gif  1500w,
-																				./media/img/work/oberberg/oberberg_hellergrafik_02_teaser_2000.gif  2000w,
-																				./media/img/work/oberberg/oberberg_hellergrafik_02_teaser_2500.gif  2500w"
+                            srcset="    ./media/img/work/oberberg/oberberg_hellergrafik_02_teaser_2_500.gif  500w,
+																				./media/img/work/oberberg/oberberg_hellergrafik_02_teaser_2_1000.gif  1000w,
+																				./media/img/work/oberberg/oberberg_hellergrafik_02_teaser_2_1500.gif  1500w,
+																				./media/img/work/oberberg/oberberg_hellergrafik_02_teaser_2_2000.gif  2000w,
+																				./media/img/work/oberberg/oberberg_hellergrafik_02_teaser_2_2500.gif  2500w"
                             sizes="100%"
                             alt="Biohof Oberberg">
                 </a>
