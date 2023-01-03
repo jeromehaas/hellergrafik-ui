@@ -18,7 +18,43 @@
     <div id="page-wrapper">
 
         <main class="section-projects">
+
+				<article class="project">
+                <a href="../projects/project_bkg.php" class="project__image__link">
+                    <img class="project__image"
+                            srcset="    ../../../media/img/work/bkg/bkg_00_header_500.gif  500w,
+                                        ../../../media/img/work/bkg/bkg_00_header_1000.gif  1000w,
+                                        ../../../media/img/work/bkg/bkg_00_header_1500.gif  1500w,
+                                        ../../../media/img/work/bkg/bkg_00_header_2000.gif  2000w,
+                                        ../../../media/img/work/bkg/bkg_00_header_2500.gif  2500w"
+                            sizes="100%"
+                            alt="Impact Acoustic">
+                </a>
+                <a class="project__title link-big" href="../projects/project_impact_acoustic.php" tabindex="2">
+                    <span class="link-big__text">Blumen Kräuter Gewürze</span>
+										<?php include '../../../media/icons/arrow_big.svg' ?>
+                </a>
+            </article>
     
+				<article class="project">
+                <a href="../projects/project_sigrist_photometer.php" class="project__image__link">
+                    <img class="project__image"
+                            srcset="    ../../../media/img/work/sigrist-photometer/sigrist_hellergrafik_teaser_500.jpg  500w,
+                                        ../../../media/img/work/sigrist-photometer/sigrist_hellergrafik_teaser_1000.jpg  1000w,
+                                        ../../../media/img/work/sigrist-photometer/sigrist_hellergrafik_teaser_1500.jpg  1500w,
+                                        ../../../media/img/work/sigrist-photometer/sigrist_hellergrafik_teaser_2000.jpg  2000w,
+                                        ../../../media/img/work/sigrist-photometer/sigrist_hellergrafik_teaser_2500.jpg  2500w"
+                            sizes="100%"
+                            alt="Sigrist-Photometer">
+                </a>
+                <a class="project__title link-big" href="../projects/project_impact_acoustic.php" tabindex="2">
+                    <span class="link-big__text">Sigrist Photometer AG</span>
+										<?php include '../../../media/icons/arrow_big.svg' ?>
+                </a>
+            </article>
+
+
+
 				<article class="project">
                 <a href="../projects/project_impact_acoustic.php" class="project__image__link">
                     <img class="project__image"
