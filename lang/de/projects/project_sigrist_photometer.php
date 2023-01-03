@@ -3,7 +3,7 @@
 <head>
     <?php include '../partials/head.php' ?>
     <title>Projekt | Sigrist Photometer</title>
-    <meta name="description" content="Ganz nach dem Motto und meinem Anspruch an meine Arbeit «Grafik für helle Köpfe» entstand mein eigener visueller Auftritt. Mein Name beziehungsweise das Wort «heller» ist mit seiner Mehrdeutigkeit ein wichtiger Teil meines Auftritts.">
+    <meta name="description" content="Die Sigrist-Photometer AG mit Sitz in Ennetbürgen entwickelt, produziert und vertreibt seit 1946 hochwertige optische Messgeräte für den Einsatz in den Bereichen Wasseraufbereitung, Lebensmittelindustrie, industrielle Prozesse sowie Verkehr und Umwelt.">
 </head>
 <body>
 

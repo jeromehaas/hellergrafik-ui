@@ -3,7 +3,7 @@
 <head>
     <?php include '../partials/head.php' ?>
     <title>Projekt | Corinne Kueng </title>
-    <meta name="description" content="Seit August 2017 gehen die Höhere Fachschule Gesundheit Zentralschweiz (HFGZ) und die Zentralschweizer Interessengemeinschaft Gesundheitsberufe (ZIGG) einen gemeinsamen Weg und treten unter dem Namen XUND auf. Ich begleitete bei der Agentur FRONTAL AG die Designkonzeptphase und Realisierungsphase der neuen Marke «XUND» intensiv.">
+    <meta name="description" content="Corinne Küng steht mit ihrer Arbeit für Authentizität, Nachhaltigkeit, Intuition und Achtsamkeit ein. Ihre ganzheitliche Arbeitsweise inspiriert und unterstützt Menschen in einem nachhaltigeren und intuitiveren Leben. Sie stärkt die Verbindung zur eigenen Intuition und einem achtsamen Umgang mit sich selbst und der Welt.">
 </head>
 <body>
 

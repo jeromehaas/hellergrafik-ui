@@ -3,7 +3,7 @@
 <head>
     <?php include '../partials/head.php' ?>
     <title>Projekt | Impact Acoustic</title>
-    <meta name="description" content="Ganz nach dem Motto und meinem Anspruch an meine Arbeit «Grafik für helle Köpfe» entstand mein eigener visueller Auftritt. Mein Name beziehungsweise das Wort «heller» ist mit seiner Mehrdeutigkeit ein wichtiger Teil meines Auftritts.">
+    <meta name="description" content="Im Herzen der Schweiz werden nicht nur schöne und funktionale, sondern auch umweltverträgliche und idividuell angefertigte Akustiklösungen entwickelt. Impact Acoustic AG verwandelt täglich hunderte von Plastikflaschen in ästhetische Akustikprodukte, die das Leben von uns allen verbessern. Immer mit Blick auf globale Trends und Fokus auf die Anforderungen der sich stets wandelnden Architektur- und Designindustrie.">
 </head>
 <body>
 
