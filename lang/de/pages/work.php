@@ -48,7 +48,7 @@
                             alt="Sigrist-Photometer">
                 </a>
                 <a class="project__title link-big" href="../projects/project_impact_acoustic.php" tabindex="2">
-                    <span class="link-big__text">Sigrist Photometer AG</span>
+                    <span class="link-big__text">Sigrist Photometer</span>
 										<?php include '../../../media/icons/arrow_big.svg' ?>
                 </a>
             </article>
@@ -91,11 +91,11 @@
             <article class="project">
                 <a href="../projects/project_corinnekueng.php" class="project__image__link">
                     <img    class="project__image"
-										srcset="    ./media/img/work/corinnekueng/12_500corinnekueng-hellergrafik-12.jpg  500w,
-																				../../../media/img/work/corinnekueng/12_1000corinnekueng-hellergrafik-12.jpg  1000w,
-																				../../../media/img/work/corinnekueng/12_1500corinnekueng-hellergrafik-12.jpg  1500w,
-																				../../../media/img/work/corinnekueng/12_2000corinnekueng-hellergrafik-12.jpg  2000w,
-																				../../../media/img/work/corinnekueng/12_2500corinnekueng-hellergrafik-12.jpg  2500w"
+                            srcset="    ../../../media/img/work/corinnekueng/12_500corinnekueng-hellergrafik-12.jpg  500w,
+                                        ../../../media/img/work/corinnekueng/12_1000corinnekueng-hellergrafik-12.jpg  1000w,
+                                        ../../../media/img/work/corinnekueng/12_1500corinnekueng-hellergrafik-12.jpg  1500w,
+                                        ../../../media/img/work/corinnekueng/12_2000corinnekueng-hellergrafik-12.jpg  2000w,
+                                        ../../../media/img/work/corinnekueng/12_2500corinnekueng-hellergrafik-12.jpg  2500w"
                             sizes="100%"
                             alt="Corinne Küng">
                 </a>

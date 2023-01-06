@@ -68,7 +68,7 @@
                             alt="Sigrist-Photometer">
                 </a>
                 <a class="project__title link-big" href="lang/de/projects/project_sigrist_photometer.php" tabindex="2">
-                    <span class="link-big__text">Sigrist-Photometer AG</span>
+                    <span class="link-big__text">Sigrist-Photometer</span>
                     <?php include './media/icons/arrow_big.svg' ?>
                 </a>
           </article>
