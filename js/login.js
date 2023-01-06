@@ -13,7 +13,7 @@ $(document).ready(function() {
 
         if (usernameInputValue === "admin" && passwordInputValue === "37dzP9!") {
             $.cookie('authenticated', 'true', { expires: 1, path: '/' });
-            window.location.replace("https://hellergrafik.ch/index.php");
+            window.location.replace("https://staging.hellergrafik.ch/index.php");
         }
 
         else {

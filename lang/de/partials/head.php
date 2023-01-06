@@ -23,6 +23,7 @@
 <script src="/js/jquery.js"></script>
 <script src="/js/jquery.cookie.js"></script>
 <script src="/js/ux.js"></script>
+<script src="/js/cookie_checker.js"></script>
 <script src="/js/privacy_notification.js"></script>
 <script defer data-domain="hellergrafik.ch" src="https://plausible.io/js/plausible.js"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116209845-11"></script>

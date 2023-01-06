@@ -35,7 +35,7 @@
                 <div class="section-description__show-more-box show-more-box">
                     <div class="show-more-box__item">
                         <p class="show-more-box__title">Realisation</p>
-                        <p class="show-more-box__text">2022, als freischafende Mitarbeiterin von <a href="https://www.internezzo.ch/" target="_blank"> Internezzo AG </a>, Rotkreuz</p>
+                        <p class="show-more-box__text">2022, als freischaffende Mitarbeiterin von <a href="https://www.internezzo.ch/" target="_blank"> Internezzo AG </a>, Rotkreuz</p>
                     </div>
                     <div class="show-more-box__item">
                         <p class="show-more-box__title">Leistungen</p>
