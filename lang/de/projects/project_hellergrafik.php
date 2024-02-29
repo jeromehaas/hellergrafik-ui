@@ -32,7 +32,7 @@
             <div class="section-description__content__container">
                 <p class="section-description__content__description">Ganz nach dem Motto und meinem Anspruch an meine Arbeit «Grafik für helle Köpfe» entstand mein eigener visueller Auftritt. Mein Name beziehungsweise das Wort «heller» ist mit seiner Mehrdeutigkeit ein wichtiger Teil meines Auftritts.</p>
                 <p class="section-description__content__description">Auf der Postkartenserie von heller grafik wird «heller» spielerisch und mit etwas Selbstironie auf verschiedene Arten in Szene gesetzt – visuell aber auch inhaltlich. Die erste Edition der Postkarten habe ich im Rahmen eines Siebdruckkurses selbst produziert – von der analogen und digitalen Motiverstellung, über die Belichtung des Siebs bis hin zum Farbenmischen.</p>
-                <p class="section-description__content__description">Eine zweite Edition Postkarten und A-4-Prints durfte ich für Fidea Design entwickeln. Sie sind online <a href="https://fideadesign.com/de/kollektion/18#search=heller" target="blank">hier</a> erhältlich.</p>
+                <p class="section-description__content__description">Eine zweite Edition Postkarten und A-4-Prints durfte ich für Fidea Design entwickeln. Sie sind online <a href=" https://fideadesign.com/de/suche?controller=search&s=heller" target="blank">hier</a> erhältlich.</p>
                 <div class="section-description__show-more-box show-more-box">
                     <div class="show-more-box__item">
                         <p class="show-more-box__title">Realisation</p>
