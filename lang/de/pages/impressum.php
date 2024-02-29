@@ -28,24 +28,25 @@
                     <p class="impressum__card__text">heller grafik</p>
                     <br />
                     <p class="impressum__card__text">Isabel Heller</p>
-                    <p class="impressum__card__text">Zähringerstrasse 13</p>
+                    <p class="impressum__card__text">Untergütschstrasse 45</p>
                     <p class="impressum__card__text">6003 Luzern</p>
                 </address>
                 <address class="impressum__card impressum__conception">
                     <p class="impressum__card__title">Konzeption und Gestaltung</p>
                     <p class="impressum__card__text">Isabel Heller</p>
-                    <p class="impressum__card__text">Zähringerstrasse 13</p>
+                    <p class="impressum__card__text">Untergütschstrasse 45</p>
                     <p class="impressum__card__text">6003 Luzern</p>
                 </address>
                 <address class="impressum__card impressum__realisation">
                     <p class="impressum__card__title">Umsetzung</p>
-                    <p class="impressum__card__text">Jérôme Haas</p>
-                    <p class="impressum__card__text">Sälihügel 9A</p>
-                    <p class="impressum__card__text">6005 Luzern</p>
-                    <a class="impressum__card__link default-link" href="mailto:info@cyberplanet.ch" tabindex="3">info@cyberplanet.ch</a>
+                    <p class="impressum__card__text">haas web solutions</p>
+                    <p class="impressum__card__text">Bodenmatte 16a</p>
+                    <p class="impressum__card__text">5647 Oberrüti</p>
+                    <a class="impressum__card__link default-link" href="mailto:jerome@haaswebsolutions.io" tabindex="3">jerome@haaswebsolutions.io</a><br />
+                    <a class="impressum__card__link default-link" href="tel:+41795129016" tabindex="3">+41 79 512 90 16</a>
                 </address>
                 <p class="impressum__copyright">
-                    Copyright © 2020 Isabel Heller. Alle Rechte vorbehalten. Für die Vervielfältigung oder Veränderung jeglicher Elemente ist die schriftliche Zustimmung der Urheberrechtsträger im Voraus einzuholen.
+                  Copyright © 2024 Isabel Heller. Alle Rechte vorbehalten. Für die Vervielfältigung oder Veränderung jeglicher Elemente ist die schriftliche Zustimmung der Urheberrechtsträger im Voraus einzuholen.
                 </p>
             </div>
         </main>
