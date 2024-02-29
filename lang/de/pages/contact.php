@@ -23,14 +23,21 @@
             <div class="contact__address__container">
                 <h2 class="contact__address__text">heller grafik</h2>
                 <p class="contact__address__text">Isabel Heller</p>
-                <p class="contact__address__text">Zähringerstrasse 13</p>
-                <p class="contact__address__text">6003 Luzern</p>
             </div>
             <div class="contact__address__container">
                 <a class="contact__address__link default-link" href="mailto:isabel@hellergrafik.ch">isabel@hellergrafik.ch</a><br>
                 <a class="contact__address__link default-link" href="tel:0774052349">077 405 23 49</a>
             </div>
-
+						<div class="contact__address__container">
+                <p class="contact__address__heading">Postadresse</p>
+                <p class="contact__address__text">Untergütschstrasse 45</p>
+                <p class="contact__address__text">6003 Luzern</p>
+            </div>
+            <div class="contact__address__container">
+                <p class="contact__address__heading">Büro</p>
+                <p class="contact__address__text">Habsburgerstrasse 52a</p>
+                <a class="contact__address__text">6003 Luzern</a>
+            </div>
         </address>
         <img    class="contact__image"
                 srcset="    ../../../media/img/contact/01_500_hellergrafik_visitenkarten_02.jpg  500w,

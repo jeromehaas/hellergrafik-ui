@@ -1004,9 +1004,12 @@ img {
 }
 
 .section-contact .contact__address {
-    display: flex;
+    display: grid;
+		grid-template-columns: 100%;
+		grid-template-rows: auto auto auto auto;
+		grid-gap: 32px;
     flex-direction: column;
-    margin:32px 0 32px 0;
+    margin: 32px 0 32px 0;
 }
 
 .section-contact .contact__image {
@@ -1015,10 +1018,10 @@ img {
     display: block;
 }
 
-.section-contact .contact__address__container:first-child {
+/* .section-contact .contact__address__container:first-child {
     margin-bottom: 32px
 
-}
+} */
 
 .section-contact .contact__address__text,
 .section-contact .contact__address__link {
@@ -1038,10 +1041,13 @@ img {
     }
 }
 
-@media screen and (min-width: 1015px) {
+@media screen and (min-width: 1075px) {
     .section-contact .contact__address {
-        flex-direction: row;
-        margin: 100px 0 32px 0;
+        /* flex-direction: row;
+        margin: 100px 0 32px 0; */
+				grid-template-columns: 1fr 1fr;
+				grid-template-rows: auto auto;
+				grid-gap: 48px;
     }
     .section-contact .contact__address__container:first-child {
         margin-bottom: 0px;
