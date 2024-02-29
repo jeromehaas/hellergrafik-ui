@@ -2,7 +2,7 @@
 <html lang="de">
 <head>
     <?php include './lang/de/partials/head.php' ?>
-     <title>heller grafik - Grafik für Helle Köpfe</title>
+     <title>heller grafik - Grafik für helle Köpfe</title>
      <meta name="description" content="Hinter heller grafik steckt eine visuelle Gestalterin aus Luzern mit Passion zu durchdachtem Branding.">
 </head>
 <body>
@@ -38,8 +38,8 @@
         <div id="page-wrapper">
 
         <main class="section-projects">
-            
-					<article class="project">
+
+				<article class="project">
                 <a href="lang/de/projects/project_impact_acoustic.php" class="project__image__link">
                     <img class="project__image"
                             srcset="    ./media/img/work/impact-acoustic/impact-acoustic_hellergrafik_00_teaser_2_500.gif  500w,
@@ -50,11 +50,49 @@
                             sizes="100%"
                             alt="Impact Acoustic">
                 </a>
-                <a class="project__title link-big" href="lang/de/projects/project_impact_acoustic.php" tabindex="2">
+                <a class="project__title link-big" href="lang/de/projects/project_impact_acoustic.php" tabindex="3">
                     <span class="link-big__text">Impact Acoustic</span>
                     <?php include './media/icons/arrow_big.svg' ?>
                 </a>
             </article>
+
+						<article class="project">
+                <a href="lang/de/projects/project_sigrist_photometer.php" class="project__image__link">
+                    <img class="project__image"
+                            srcset="    ./media/img/work/sigrist-photometer/sigrist_hellergrafik_teaser_500.jpg  500w,
+                                        ./media/img/work/sigrist-photometer/sigrist_hellergrafik_teaser_1000.jpg  1000w,
+                                        ./media/img/work/sigrist-photometer/sigrist_hellergrafik_teaser_1500.jpg  1500w,
+                                        ./media/img/work/sigrist-photometer/sigrist_hellergrafik_teaser_2000.jpg  2000w,
+                                        ./media/img/work/sigrist-photometer/sigrist_hellergrafik_teaser_2500.jpg  2500w"
+                            sizes="100%"
+                            alt="Sigrist-Photometer">
+                </a>
+                <a class="project__title link-big" href="lang/de/projects/project_sigrist_photometer.php" tabindex="2">
+                    <span class="link-big__text">Sigrist-Photometer</span>
+                    <?php include './media/icons/arrow_big.svg' ?>
+                </a>
+          </article>
+    
+				<article class="project">
+                <a href="lang/de/projects/project_bkg.php" class="project__image__link">
+                    <img class="project__image"
+                            srcset="    ./media/img/work/bkg/bkg_00_header_500.gif  500w,
+                                        ./media/img/work/bkg/bkg_00_header_1000.gif  1000w,
+                                        ./media/img/work/bkg/bkg_00_header_1500.gif  1500w,
+                                        ./media/img/work/bkg/bkg_00_header_2000.gif  2000w,
+                                        ./media/img/work/bkg/bkg_00_header_2500.gif  2500w"
+                            sizes="100%"
+                            alt="Blumen Kräuter Gewürze">
+                </a>
+                <a class="project__title link-big" href="lang/de/projects/project_bkg.php" tabindex="1">
+                    <span class="link-big__text">Blumen Kräuter Gewürze</span>
+                    <?php include './media/icons/arrow_big.svg' ?>
+                </a>
+          </article>
+
+
+
+
 
 						<article class="project">
                 <a href="lang/de/projects/project_xund.php" class="project__image__link">
@@ -67,62 +105,13 @@
                             sizes="100%"
                             alt="XUND Bildung Gesundheit Zentralschweiz">
                 </a>
-                <a class="project__title link-big" href="lang/de/projects/project_xund.php" tabindex="2">
+                <a class="project__title link-big" href="lang/de/projects/project_xund.php" tabindex="4">
                     <span class="link-big__text">XUND Bildung Gesundheit Zentralschweiz</span>
                     <?php include './media/icons/arrow_big.svg' ?>
                 </a>
             </article>
     
-						<article class="project">
-                <a href="lang/de/projects/project_corinnekueng.php" class="project__image__link">
-                    <img class="project__image"
-                            srcset="    ./media/img/work/corinnekueng/12_500corinnekueng-hellergrafik-12.jpg  500w,
-																				./media/img/work/corinnekueng/12_1000corinnekueng-hellergrafik-12.jpg  1000w,
-																				./media/img/work/corinnekueng/12_1500corinnekueng-hellergrafik-12.jpg  1500w,
-																				./media/img/work/corinnekueng/12_2000corinnekueng-hellergrafik-12.jpg  2000w,
-																				./media/img/work/corinnekueng/12_2500corinnekueng-hellergrafik-12.jpg  2500w"
-                            sizes="100%"
-                            alt="Corinne Kueng">
-                </a>
-                <a class="project__title link-big" href="lang/de/projects/project_xund.php" tabindex="2">
-                    <span class="link-big__text">Corinne Küng </span>
-                    <?php include './media/icons/arrow_big.svg' ?>
-                </a>
-            </article>
-  
-						<article class="project">
-                <a href="lang/de/projects/project_oberberg.php" class="project__image__link">
-                    <img    class="project__image"
-                            srcset="    ./media/img/work/oberberg/oberberg_hellergrafik_02_teaser_2_500.gif  500w,
-																				./media/img/work/oberberg/oberberg_hellergrafik_02_teaser_2_1000.gif  1000w,
-																				./media/img/work/oberberg/oberberg_hellergrafik_02_teaser_2_1500.gif  1500w,
-																				./media/img/work/oberberg/oberberg_hellergrafik_02_teaser_2_2000.gif  2000w,
-																				./media/img/work/oberberg/oberberg_hellergrafik_02_teaser_2_2500.gif  2500w"
-                            sizes="100%"
-                            alt="Biohof Oberberg">
-                </a>
-                <a class="project__title link-big" href="lang/de/projects/project_oberberg.php" tabindex="3">
-                    <span class="link-big__text">Biohof Oberberg</span>
-                    <?php include './media/icons/arrow_big.svg' ?>
-                </a>
-            </article>
- 
-						<article class="project">
-                <a href="lang/de/projects/project_hellergrafik.php" class="project__image__link">
-                    <img    class="project__image"
-                            srcset="    ./media/img/work/hellergrafik/16_500_hellergrafik_08_quer.jpg  500w,
-                                        ./media/img/work/hellergrafik/16_1000_hellergrafik_08_quer.jpg  1000w,
-                                        ./media/img/work/hellergrafik/16_1500_hellergrafik_08_quer.jpg  1500w,
-                                        ./media/img/work/hellergrafik/16_2000_hellergrafik_08_quer.jpg  2000w,
-                                        ./media/img/work/hellergrafik/16_2500_hellergrafik_08_quer.jpg  2500w"
-                            sizes="100%"
-                            alt="heller grafik">
-                </a>
-                <a class="project__title link-big" href="lang/de/projects/project_hellergrafik.php" tabindex="4">
-                    <span class="link-big__text">heller grafik</span>
-                    <?php include './media/icons/arrow_big.svg' ?>
-                </a>
-            </article>
+					
            
         </main>
 

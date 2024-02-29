@@ -3,7 +3,7 @@
 <head>
     <?php include '../partials/head.php' ?>
     <title>Projekt | Biohof Oberberg</title>
-    <meta name="description" content="Ganz nach dem Motto und meinem Anspruch an meine Arbeit «Grafik für helle Köpfe» entstand mein eigener visueller Auftritt. Mein Name beziehungsweise das Wort «heller» ist mit seiner Mehrdeutigkeit ein wichtiger Teil meines Auftritts.">
+    <meta name="description" content="Seit mehr als 150 Jahren wird der Oberberg in Willisau von den Hellers bewirtschaftet. Vom idyllisch gelegenen Biohof hat man einen wunderbaren Weitblick von den Alpen über den Säntis bis hin zum Juragebirge. Viele Hühner, Milchkühe und Kälber sowie Wiesen, Wälder und Obstbäume werden von den Landwirten Jonas und Thomas Heller umsorgt.">
 </head>
 <body>
 

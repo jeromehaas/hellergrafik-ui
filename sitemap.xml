@@ -1,63 +1,81 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-  <url>
-    <loc>https://hellergrafik.ch/</loc>
-    <lastmod>2020-09-04T21:25:48+00:00</lastmod>
-    <priority>1.00</priority>
-  </url>
-  <url>
-    <loc>https://hellergrafik.ch/lang/de/pages/404.php</loc>
-    <lastmod>2020-09-04T21:25:48+00:00</lastmod>
-    <priority>0.2</priority>
-  </url>
-  <url>
-    <loc>https://hellergrafik.ch/lang/de/pages/contact.php</loc>
-    <lastmod>2020-09-04T21:25:48+00:00</lastmod>
-    <priority>1.00</priority>
-  </url>
-  <url>
-    <loc>https://hellergrafik.ch/lang/de/pages/impressum.php</loc>
-    <lastmod>2020-09-04T21:25:48+00:00</lastmod>
-    <priority>0.2</priority>
-  </url>
-  <url>
-    <loc>https://hellergrafik.ch/lang/de/pages/privacy.php</loc>
-    <lastmod>2020-09-04T21:25:48+00:00</lastmod>
-    <priority>0.2</priority>
-  </url>
-  <url>
-    <loc>https://hellergrafik.ch/lang/de/pages/info.php</loc>
-    <lastmod>2020-09-04T21:25:48+00:00</lastmod>
-    <priority>1.00</priority>
-  </url>
-  <url>
-    <loc>https://hellergrafik.ch/lang/de/pages/work.php</loc>
-    <lastmod>2020-09-04T21:25:48+00:00</lastmod>
-    <priority>1.00</priority>
-  </url>
-  <url>
-    <loc>https://hellergrafik.ch/lang/de/projects/project_xund.php</loc>
-    <lastmod>2020-09-04T21:25:48+00:00</lastmod>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://hellergrafik.ch/lang/de/projects/project_corinnekueng.php</loc>
-    <lastmod>2020-09-04T21:25:48+00:00</lastmod>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://hellergrafik.ch/lang/de/projects/project_albertini.php</loc>
-    <lastmod>2020-09-04T21:25:48+00:00</lastmod>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://hellergrafik.ch/lang/de/projects/project_hellergrafik.php</loc>
-    <lastmod>2020-09-04T21:25:48+00:00</lastmod>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://hellergrafik.ch/lang/de/projects/project_xundzebi.php</loc>
-    <lastmod>2020-09-04T21:25:48+00:00</lastmod>
-    <priority>1</priority>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://hellergrafik.ch/</loc>
+  <lastmod>2022-04-12T20:07:26+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://hellergrafik.ch/index.php</loc>
+  <lastmod>2022-04-12T20:07:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hellergrafik.ch/lang/de/pages/work.php</loc>
+  <lastmod>2022-04-12T20:07:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hellergrafik.ch/lang/de/pages/info.php</loc>
+  <lastmod>2022-04-12T20:07:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hellergrafik.ch/lang/de/pages/contact.php</loc>
+  <lastmod>2022-04-12T20:07:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hellergrafik.ch/lang/de/projects/project_impact_acoustic.php</loc>
+  <lastmod>2022-04-12T20:07:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hellergrafik.ch/lang/de/projects/project_xund.php</loc>
+  <lastmod>2022-04-12T20:07:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hellergrafik.ch/lang/de/projects/project_corinnekueng.php</loc>
+  <lastmod>2022-04-12T20:07:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hellergrafik.ch/lang/de/projects/project_oberberg.php</loc>
+  <lastmod>2022-04-12T20:07:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hellergrafik.ch/lang/de/projects/project_hellergrafik.php</loc>
+  <lastmod>2022-04-12T20:07:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hellergrafik.ch/lang/de/pages/privacy.php</loc>
+  <lastmod>2022-04-12T20:07:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hellergrafik.ch/lang/de/pages/impressum.php</loc>
+  <lastmod>2022-04-12T20:07:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hellergrafik.ch/lang/de/projects/project_albertini.php</loc>
+  <lastmod>2022-04-12T20:07:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hellergrafik.ch/lang/de/projects/project_xundzebi.php</loc>
+  <lastmod>2022-04-12T20:07:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>

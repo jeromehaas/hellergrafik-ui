@@ -1,4 +1,3 @@
-@import url("//hello.myfonts.net/count/3bf5e4");
 
 @font-face {
     font-family: 'fjPlatzGroteske-SemiBold';
@@ -8,25 +7,3 @@
     font-family: 'fjPlatzGroteske-UltraBold';
     src: url('../media/fonts/fj_platz_groteske_ultrabold/font.woff2') format('woff2'), url('../media/fonts/fj_platz_groteske_ultrabold/font.woff') format('woff');
 }
-
-/**
- * @license
- * MyFonts Webfont Build ID 3929572, 2020-07-26T15:44:57-0400
- *
- * The fonts listed in this notice are subject to the End User License
- * Agreement(s) entered into by the website owner. All other parties are
- * explicitly restricted from using the Licensed Webfonts(s).
- *
- * You may obtain a valid license at the URLs below.
- *
- * Webfont: fjPlatzGroteske-SemiBold by Frncojonastype
- * URL: https://www.myfonts.com/fonts/frncojonastype/fj-platz-groteske/semi-bold/
- *
- * Webfont: fjPlatzGroteske-UltraBold by Frncojonastype
- * URL: https://www.myfonts.com/fonts/frncojonastype/fj-platz-groteske/ultra-bold/
- *
- *
- * Webfonts copyright: Copyright © 2020 by Franco Jonas Hernández. All rights reserved.
- *
- * © 2020 MyFonts Inc
-*/
