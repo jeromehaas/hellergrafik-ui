@@ -27,7 +27,7 @@
             <address class="privacy__card">
                 <p class="privacy__card__title">Name und Anschrift des für die Datenverarbeitung Verantwortlichen</p>
                 <p class="privacy__card__text">Isabel Heller</p>
-                <p class="privacy__card__text">Zähringerstrasse 13</p>
+                <p class="privacy__card__text">Habsburgerstrasse 52a</p>
                 <p class="privacy__card__text">6003 Luzern</p>
             </address>
             <div class="privacy__card">
