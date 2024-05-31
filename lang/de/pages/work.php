@@ -28,9 +28,9 @@
                                         ../../../media/img/work/bkg/bkg_00_header_2000.gif  2000w,
                                         ../../../media/img/work/bkg/bkg_00_header_2500.gif  2500w"
                             sizes="100%"
-                            alt="Impact Acoustic">
+                            alt="Blumen Kräuter Gewürze">
                 </a>
-                <a class="project__title link-big" href="../projects/project_impact_acoustic.php" tabindex="2">
+                <a class="project__title link-big" href="../projects/project_impact_acoustic.php" tabindex="1">
                     <span class="link-big__text">Blumen Kräuter Gewürze</span>
 										<?php include '../../../media/icons/arrow_big.svg' ?>
                 </a>
@@ -53,7 +53,34 @@
                 </a>
             </article>
 
+						<article class="project">
+					<a href="../projects/project_sft.php" class="project__image__link">
+						<video class="project__image" preload="auto" autoPlay muted loop >
+							<source src="../../../media/img/work/swiss-fassaden-technik/sft_0.mp4" type="video/mp4" playsInline />
+						</video>	
+					</a>
+					<a class="project__title link-big" href="../projects/project_sft.php" tabindex="3">
+							<span class="link-big__text">Swiss Fassaden Technik</span>
+							<?php include './media/icons/arrow_big.svg' ?>
+					</a>
+				</article>
 
+				<article class="project">
+					<a href="../projects/project_vocom.php" class="project__image__link">
+							<img class="project__image"
+											srcset="    ../../../media/img/work/vocom/VOCOM-0-header-teaser-500.jpg  500w,
+																	../../../media/img/work/vocom/VOCOM-0-header-teaser-1000.jpg  1000w,
+																	../../../media/img/work/vocom/VOCOM-0-header-teaser-1500.jpg  1500w,
+																	../../../media/img/work/vocom/VOCOM-0-header-teaser-2000.jpg  2000w,
+																	../../../media/img/work/vocom/VOCOM-0-header-teaser-2500.jpg  2500w"
+											sizes="100%"
+											alt="VOCOM Informatik AG">
+					</a>
+					<a class="project__title link-big" href="../projects/project_vocom.php" tabindex="4">
+							<span class="link-big__text">VOCOM Informatik</span>
+							<?php include './media/icons/arrow_big.svg' ?>
+					</a>
+				</article>
 
 				<article class="project">
                 <a href="../projects/project_impact_acoustic.php" class="project__image__link">
@@ -66,7 +93,7 @@
                             sizes="100%"
                             alt="Impact Acoustic">
                 </a>
-                <a class="project__title link-big" href="../projects/project_impact_acoustic.php" tabindex="2">
+                <a class="project__title link-big" href="../projects/project_impact_acoustic.php" tabindex="5">
                     <span class="link-big__text">Impact Acoustic</span>
 										<?php include '../../../media/icons/arrow_big.svg' ?>
                 </a>
@@ -83,7 +110,7 @@
                             sizes="100%"
                             alt="XUND Bildung Gesundheit Zentralschweiz">
                 </a>
-                <a class="project__title link-big" href="../projects/project_xund.php" tabindex="1">
+                <a class="project__title link-big" href="../projects/project_xund.php" tabindex="6">
                     <span class="link-big__text">XUND Bildung Gesundheit Zentralschweiz</span>
                     <?php include '../../../media/icons/arrow_big.svg' ?>
                 </a>
@@ -99,7 +126,7 @@
                             sizes="100%"
                             alt="Corinne Küng">
                 </a>
-                <a class="project__title link-big" href="../projects/project_xund.php" tabindex="1">
+                <a class="project__title link-big" href="../projects/project_xund.php" tabindex="7">
                     <span class="link-big__text">Corinne Küng</span>
                     <?php include '../../../media/icons/arrow_big.svg' ?>
                 </a>
@@ -115,7 +142,7 @@
                             sizes="100%"
                             alt="Albertini">
                 </a>
-                <a class="project__title link-big" href="../projects/project_albertini.php" tabindex="2">
+                <a class="project__title link-big" href="../projects/project_albertini.php" tabindex="8">
                     <span class="link-big__text">Albertini</span>
                     <?php include '../../../media/icons/arrow_big.svg' ?>
                 </a>
@@ -132,7 +159,7 @@
                             sizes="100%"
                             alt="Biohof Oberberg">
                 </a>
-                <a class="project__title link-big" href="../projects/project_oberberg.php" tabindex="3">
+                <a class="project__title link-big" href="../projects/project_oberberg.php" tabindex="9">
                     <span class="link-big__text">Biohof Oberberg</span>
                     <?php include '../../../media/icons/arrow_big.svg' ?>
                 </a>
@@ -149,7 +176,7 @@
                             sizes="100%"
                             alt="heller grafik">
                 </a>
-                <a class="project__title link-big" href="../projects/project_hellergrafik.php" tabindex="3">
+                <a class="project__title link-big" href="../projects/project_hellergrafik.php" tabindex="10">
                     <span class="link-big__text">heller grafik</span>
                     <?php include '../../../media/icons/arrow_big.svg' ?>
                 </a>
@@ -165,7 +192,7 @@
                             sizes="100%"
                             alt="XUND Messeauftritt">
                 </a>
-                <a class="project__title link-big" href="../projects/project_xundzebi.php" tabindex="4">
+                <a class="project__title link-big" href="../projects/project_xundzebi.php" tabindex="11">
                     <span class="link-big__text">XUND Messeauftritt</span>
                     <?php include '../../../media/icons/arrow_big.svg' ?>
                 </a>

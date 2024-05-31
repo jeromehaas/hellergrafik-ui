@@ -1083,6 +1083,10 @@ img {
     padding-right: 50px;
 }
 
+.section-description .section-description__content__subtitle {
+    font-family: "fjPlatzGroteske-UltraBold", Arial, sans-serif;
+}
+
 .section-description .section-description__content__description {
     margin-bottom: 28px;
     max-width: 1025px;
@@ -1091,6 +1095,15 @@ img {
 
 .section-description .section-description__content__link {
     margin-bottom: 50px;
+}
+
+@media screen and (min-width: 700px) {
+
+.section-description .section-description__content__subtitle {
+			font-family: "fjPlatzGroteske-SemiBold", Arial, sans-serif;
+			font-size: 20px;
+	}
+	
 }
 
 @media screen and (min-width: 1000px) {
@@ -1298,6 +1311,14 @@ img {
     .section-details--bkg .item-11    { grid-area: 8 / 1 / 9 / 3; }
     .section-details--bkg .item-12    { grid-area: 9 / 1 / 10 / 2; }
     .section-details--bkg .item-13    { grid-area: 9 / 2 / 10 / 3; }
+
+		.section-details--vocom .item-1    { grid-area: 1 / 1 / 2 / 3; }
+    .section-details--vocom .item-2    { grid-area: 2 / 1 / 3 / 3; }
+    .section-details--vocom .item-3    { grid-area: 3 / 1 / 4 / 3; }
+    .section-details--vocom .item-4    { grid-area: 4 / 1 / 5 / 2; }
+    .section-details--vocom .item-5    { grid-area: 4 / 2 / 5 / 3; }
+
+		.section-details--sft .item-1    { grid-area: 1 / 1 / 2 / 3; }
 }
 
 
