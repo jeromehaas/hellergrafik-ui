@@ -18,7 +18,7 @@
 
     <div class="section-description">
 			<video class="section-description__image" preload="auto" autoPlay muted loop >
-				<source src="../../../media/img/work/swiss-fassaden-technik/sft_0.mp4" type="video/mp4" playsInline />
+				<source src="../../../media/img/work/swiss-fassaden-technik/SFT_0.mp4" type="video/mp4" playsInline />
 			</video>	
 			<div class="section-description__content">
             <h3 class="section-description__content__title">Swiss Fassaden Technik AG</h3>

@@ -56,7 +56,7 @@
 						<article class="project">
 					<a href="../projects/project_sft.php" class="project__image__link">
 						<video class="project__image" preload="auto" autoPlay muted loop >
-							<source src="../../../media/img/work/swiss-fassaden-technik/sft_0.mp4" type="video/mp4" playsInline />
+							<source src="../../../media/img/work/swiss-fassaden-technik/SFT_0.mp4" type="video/mp4" playsInline />
 						</video>	
 					</a>
 					<a class="project__title link-big" href="../projects/project_sft.php" tabindex="3">
