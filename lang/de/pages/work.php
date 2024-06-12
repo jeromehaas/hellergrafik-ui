@@ -55,8 +55,8 @@
 
 						<article class="project">
 					<a href="../projects/project_sft.php" class="project__image__link">
-						<video class="project__image" preload="auto" autoPlay muted loop >
-							<source src="../../../media/img/work/swiss-fassaden-technik/SFT_0.mp4" type="video/mp4" playsInline />
+						<video class="project__image" preload="auto" autoplay muted loop playsinline>
+							<source src="../../../media/img/work/swiss-fassaden-technik/SFT_3.mp4" type="video/mp4" playsInline />
 						</video>	
 					</a>
 					<a class="project__title link-big" href="../projects/project_sft.php" tabindex="3">
@@ -68,11 +68,11 @@
 				<article class="project">
 					<a href="../projects/project_vocom.php" class="project__image__link">
 							<img class="project__image"
-											srcset="    ../../../media/img/work/vocom/VOCOM-0-header-teaser-500.jpg  500w,
-																	../../../media/img/work/vocom/VOCOM-0-header-teaser-1000.jpg  1000w,
-																	../../../media/img/work/vocom/VOCOM-0-header-teaser-1500.jpg  1500w,
-																	../../../media/img/work/vocom/VOCOM-0-header-teaser-2000.jpg  2000w,
-																	../../../media/img/work/vocom/VOCOM-0-header-teaser-2500.jpg  2500w"
+											srcset="    ../../../media/img/work/vocom/VOCOM-header-teaser-500.jpg  500w,
+																	../../../media/img/work/vocom/VOCOM-header-teaser-1000.jpg  1000w,
+																	../../../media/img/work/vocom/VOCOM-header-teaser-1500.jpg  1500w,
+																	../../../media/img/work/vocom/VOCOM-header-teaser-2000.jpg  2000w,
+																	../../../media/img/work/vocom/VOCOM-header-teaser-2500.jpg  2500w"
 											sizes="100%"
 											alt="VOCOM Informatik AG">
 					</a>

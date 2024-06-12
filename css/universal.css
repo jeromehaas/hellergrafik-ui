@@ -1065,7 +1065,7 @@ img {
 
 .section-description .section-description__image {
     width: 100%;
-    /*max-height: calc(100vh - 392px ); */
+    max-height: calc(100vh - 392px );
     object-fit: cover;
 }
 
@@ -1077,10 +1077,9 @@ img {
 
 .section-description .section-description__content__title {
     margin-bottom: 25px;
-    max-width: 500px;
+    max-width: 600px;
     width: 100%;
     flex-shrink: 0;
-    padding-right: 50px;
 }
 
 .section-description .section-description__content__subtitle {
@@ -1326,6 +1325,11 @@ img {
     .section-description .section-description__content {
         flex-direction: row;
     }
+
+		.section-description .section-description__content__title {
+			padding-right: 50px;
+	}
+
 }
 
 /* ------------------------------------------------------ */

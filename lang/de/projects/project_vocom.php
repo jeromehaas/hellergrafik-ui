@@ -20,11 +20,11 @@
     <div class="section-description">
 
         <img    class="section-description__image"
-                srcset="    ../../../media/img/work/vocom/VOCOM-0-header-teaser-500.jpg  500w,
-														../../../media/img/work/vocom/VOCOM-0-header-teaser-1000.jpg  1000w,
-                            ../../../media/img/work/vocom/VOCOM-0-header-teaser-1500.jpg  1500w,
-                            ../../../media/img/work/vocom/VOCOM-0-header-teaser-2000.jpg  2000w,
-                            ../../../media/img/work/vocom/VOCOM-0-header-teaser-2500.jpg  2500w"
+                srcset="    ../../../media/img/work/vocom/VOCOM-header-teaser-500.jpg  500w,
+														../../../media/img/work/vocom/VOCOM-header-teaser-1000.jpg  1000w,
+                            ../../../media/img/work/vocom/VOCOM-header-teaser-1500.jpg  1500w,
+                            ../../../media/img/work/vocom/VOCOM-header-teaser-2000.jpg  2000w,
+                            ../../../media/img/work/vocom/VOCOM-header-teaser-2500.jpg  2500w"
             sizes="100%"
             alt="Vocom">
         <div class="section-description__content">
