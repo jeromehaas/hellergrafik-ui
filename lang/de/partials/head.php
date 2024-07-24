@@ -1,8 +1,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
-<link rel="stylesheet" href="/css/central.css?v=1">
-<link rel="stylesheet" href="/css/universal.css?v=1">
+<link rel="stylesheet" href="/css/central.css?v=2">
+<link rel="stylesheet" href="/css/universal.css?v=2">
 <link rel="apple-touch-icon" sizes="57x57" href="/media/favicon/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/media/favicon/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/media/favicon/apple-icon-72x72.png">

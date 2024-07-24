@@ -905,7 +905,7 @@ img {
 .section-info .about__description{
     display: flex;
     flex-direction: column;
-    margin: 50px 40px 32px 0;
+    margin: 50px 40px 96px 0;
 }
 
 

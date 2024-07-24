@@ -108,10 +108,42 @@
                     </div>
                 </div>
 
-                <!-- <a class="section-hero__content__link link-small" href="" tabindex="1">
-                    <?php include '../../../media/icons/arrow_small.svg' ?>
-                    <span class="link-small__text">Mehr efahren</span>
-                </a> -->
+								<img    class="about__image"
+                        srcset="    ../../../media/img/info/04_chiara_bammert_heller_grafik_500.jpg  500w,
+                                    ../../../media/img/info/04_chiara_bammert_heller_grafik_1000.jpg  1000w,
+                                    ../../../media/img/info/04_chiara_bammert_heller_grafik_1500.jpg  1500w,
+                                    ../../../media/img/info/04_chiara_bammert_heller_grafik_2000.jpg  2000w,
+                                    ../../../media/img/info/04_chiara_bammert_heller_grafik_2500.jpg  2500w"
+                        sizes="100%"
+                        alt="Isabel Heller">
+                <div class="about__description">
+                    <h2 class="about__title">
+												Chiara Bammert <br>
+                        Grafikerin <br>
+												in Ausbildung
+                    </h2>
+                    <div class="about__container">
+                        <p class="about__text">
+												An der Grafik fasziniert mich, wie effizient wir auf visueller Ebene miteinander kommunizieren können. Ich mag grosse Typografie, den Umgang mit Weissraum und bin ein grosser Fan von Pasta, Katzen und lesen. Ich absolviere im Rahmen der Ausbildung zur Grafikerin EFZ an der Fachklasse Grafik Luzern ein Praktikum bei heller grafik.
+                        </p>
+                        <div class="about__show-more-box">
+                            <div class="show-more-box__item">
+                                <p class="show-more-box__title">Ausbildungen</p>
+                                <table class="show-more-box__table">
+                                    <tr class="show-more-box__row">
+                                        <td class="show-more-box__cell">2021 – 2026</td>
+                                        <td class="show-more-box__cell">Fachklasse Grafik Luzern</td>
+                                    </tr>
+                                    <tr class="show-more-box__row">
+                                        <td class="show-more-box__cell">2020 – 2021</td>
+                                        <td class="show-more-box__cell">Vorkurs für Gestaltung, Invers Schule für Gestaltung, Olten</td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <img    class="about__image"
                         srcset="    ../../../media/img/info/03_500_hellergrafik_02.jpg  500w,
                                     ../../../media/img/info/03_1000_hellergrafik_02.jpg  1000w,
