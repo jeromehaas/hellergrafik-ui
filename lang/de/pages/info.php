@@ -131,7 +131,7 @@
                                 <p class="show-more-box__title">Ausbildungen</p>
                                 <table class="show-more-box__table">
                                     <tr class="show-more-box__row">
-                                        <td class="show-more-box__cell">2021 – 2026</td>
+                                        <td class="show-more-box__cell">2021 – 2025</td>
                                         <td class="show-more-box__cell">Fachklasse Grafik Luzern</td>
                                     </tr>
                                     <tr class="show-more-box__row">
