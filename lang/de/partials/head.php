@@ -23,6 +23,10 @@
 <meta http-equiv="ScreenOrientation" content="autoRotate:disabled">
 <script src="/js/jquery.js"></script>
 <script src="/js/jquery.cookie.js"></script>
+<?php $config = require __DIR__ . '/../../../env.php'; ?>
+<?php if ($config['env'] !== 'production'): ?>
+<script src="/js/cookie_checker.js"></script>
+<?php endif; ?>
 <script src="/js/ux.js"></script>
 <script src="/js/privacy_notification.js"></script>
 <script defer data-domain="hellergrafik.ch" src="https://plausible.io/js/plausible.js"></script>

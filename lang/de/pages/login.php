@@ -1,3 +1,11 @@
+<?php
+$config = require __DIR__ . '/../../../env.php';
+if ($_POST && $_POST['username'] === $config['user'] && $_POST['password'] === $config['password']) {
+    setcookie('authenticated', 'true', time() + 86400, '/');
+    header('Location: /index.php');
+    exit;
+}
+?>
 <html lang="de"><head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -163,18 +171,17 @@
 <div class="pagewrapper">
 
     <div class="bubble-holder"></div>
-    <div class="login-form">
+    <form class="login-form" method="post">
         <input type="username" name="username" class="username" placeholder="Username" autocomplete="off">
         <input type="password" name="password" class="password" placeholder="Password" autocomplete="off">
-        <button name="submit-login" id="login">Login</button>
-    </div>
+        <button name="submit-login" id="login" class="<?= $_POST ? 'invalid' : '' ?>">Login</button>
+    </form>
 
 </div>
 
 <script src="https://hellergrafik.ch/js/jquery.js"></script>
 <script src="https://hellergrafik.ch/js/jquery.cookie.js"></script>
 <script src="../../../js/animation.js"></script>
-<script src="../../../js/login.js"></script>
 
 </body>
 </html>
