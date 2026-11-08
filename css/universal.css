@@ -772,7 +772,7 @@ img {
 
 .section-hero .section-hero__content__title {
     margin-bottom: 28px;
-    max-width: 1080px;
+    max-width: 1160px;
 }
 
 .section-hero__content__link {
@@ -924,6 +924,10 @@ img {
 .section-info .about__text {
     margin-bottom: 32px;
 
+}
+
+.section-info .about__show-more-box {
+    margin-bottom: 40px;
 }
 
 .section-info .about__show-more-box .show-more-box__cell:nth-child(1) {

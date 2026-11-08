@@ -3,7 +3,7 @@
 <head>
     <?php include './lang/de/partials/head.php' ?>
      <title>heller grafik - Grafik für helle Köpfe</title>
-     <meta name="description" content="Hinter heller grafik steckt eine visuelle Gestalterin aus Luzern mit Passion zu durchdachtem Branding.">
+     <meta name="description" content="Hinter heller grafik stecken zwei visuelle Gestalterinnen aus Luzern mit Passion zu durchdachtem Branding.">
 </head>
 <body>
 
@@ -27,10 +27,10 @@
                 <div class="section-hero__content">
                     <h1 class="section-hero__content__title">
                         Grafik für helle Köpfe. <br />
-                        Hinter heller grafik steckt eine visuelle Gestalterin aus Luzern mit Passion zu durchdachtem Branding.</h1>
+                        Hinter heller grafik stecken zwei visuelle Gestalterinnen aus Luzern mit Passion zu durchdachtem Branding.</h1>
                     <a class="section-hero__content__link link-small" href="/lang/de/pages/info.php" tabindex="1">
                         <?php include './media/icons/arrow_small.svg' ?>
-                        <span class="link-small__text">Mehr erfahren</span>
+                        <span class="link-small__text">mehr über heller grafik</span>
                     </a>
                 </div>
         </div>

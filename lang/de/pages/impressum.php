@@ -25,23 +25,23 @@
                     <p class="impressum__card__title">Kontaktadresse</p>
                     <a class="impressum__card__link default-link" href="mailto:isabel@hellergrafik.ch" tabindex="1">isabel@hellergrafik.ch</a><br>
                     <a class="impressum__card__link default-link" href="tel:0774052349" tabindex="2">077 405 23 49</a>
-                    <p class="impressum__card__text">heller grafik</p>
+                    <p class="impressum__card__text">heller grafik GmbH</p>
                     <br />
                     <p class="impressum__card__text">Isabel Heller</p>
-                    <p class="impressum__card__text">Untergütschstrasse 45</p>
+                    <p class="impressum__card__text">Habsburgerstrasse 52 a</p>
                     <p class="impressum__card__text">6003 Luzern</p>
                 </address>
                 <address class="impressum__card impressum__conception">
                     <p class="impressum__card__title">Konzeption und Gestaltung</p>
                     <p class="impressum__card__text">Isabel Heller</p>
-                    <p class="impressum__card__text">Untergütschstrasse 45</p>
+                    <p class="impressum__card__text">Habsburgerstrasse 52 a</p>
                     <p class="impressum__card__text">6003 Luzern</p>
                 </address>
                 <address class="impressum__card impressum__realisation">
                     <p class="impressum__card__title">Umsetzung</p>
                     <p class="impressum__card__text">haas web solutions</p>
-                    <p class="impressum__card__text">Bodenmatte 16a</p>
-                    <p class="impressum__card__text">5647 Oberrüti</p>
+                    <p class="impressum__card__text">Morgartenstrasse 6</p>
+                    <p class="impressum__card__text">8004 Zürich</p>
                     <a class="impressum__card__link default-link" href="mailto:jerome@haaswebsolutions.io" tabindex="3">jerome@haaswebsolutions.io</a><br />
                     <a class="impressum__card__link default-link" href="tel:+41795129016" tabindex="3">+41 79 512 90 16</a>
                 </address>

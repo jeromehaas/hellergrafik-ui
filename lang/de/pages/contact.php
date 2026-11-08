@@ -3,7 +3,7 @@
 <head>
     <?php include '../partials/head.php' ?>
     <title>Kontakt</title>
-    <meta name="description" content="heller grafik | Isabel Heller | Zähringerstrasse 13 | 6003 Luzern | isabel@hellergrafik.ch | 077 405 23 49">
+    <meta name="description" content="heller grafik GmbH | Habsburgerstrasse 52 a | 6003 Luzern | isabel@hellergrafik.ch | 077 405 23 49">
 </head>
 <body>
 
@@ -21,22 +21,13 @@
     <main class="section-contact">
         <address class="contact__address">
             <div class="contact__address__container">
-                <h2 class="contact__address__text">heller grafik</h2>
-                <p class="contact__address__text">Isabel Heller</p>
+                <h2 class="contact__address__text">heller grafik GmbH</h2>
+                <p class="contact__address__text">Habsburgerstrasse 52 a</p>
+                <p class="contact__address__text">6003 Luzern</p>
             </div>
             <div class="contact__address__container">
                 <a class="contact__address__link default-link" href="mailto:isabel@hellergrafik.ch">isabel@hellergrafik.ch</a><br>
                 <a class="contact__address__link default-link" href="tel:0774052349">077 405 23 49</a>
-            </div>
-						<div class="contact__address__container">
-                <p class="contact__address__heading">Postadresse</p>
-                <p class="contact__address__text">Untergütschstrasse 45</p>
-                <p class="contact__address__text">6003 Luzern</p>
-            </div>
-            <div class="contact__address__container">
-                <p class="contact__address__heading">Büro</p>
-                <p class="contact__address__text">Habsburgerstrasse 52a</p>
-                <a class="contact__address__text">6003 Luzern</a>
             </div>
         </address>
         <img    class="contact__image"
@@ -48,13 +39,13 @@
                 sizes="100%"
                 alt="heller grafik Visitenkarten">
         <img    class="contact__image"
-                srcset="    ../../../media/img/contact/02_500_Isabel_Heller_Grafikerin_14.jpg  500w,
-                            ../../../media/img/contact/02_1000_Isabel_Heller_Grafikerin_14.jpg  1000w,
-                            ../../../media/img/contact/02_1500_Isabel_Heller_Grafikerin_14.jpg  1500w,
-                            ../../../media/img/contact/02_2000_Isabel_Heller_Grafikerin_14.jpg  2000w,
-                            ../../../media/img/contact/02_2500_Isabel_Heller_Grafikerin_14.jpg  2500w"
+                srcset="    ../../../media/img/contact/06_500_Team_Heller_Grafik.jpg  500w,
+                            ../../../media/img/contact/06_1000_Team_Heller_Grafik.jpg  1000w,
+                            ../../../media/img/contact/06_1500_Team_Heller_Grafik.jpg  1500w,
+                            ../../../media/img/contact/06_2000_Team_Heller_Grafik.jpg  2000w,
+                            ../../../media/img/contact/06_2500_Team_Heller_Grafik.jpg  2500w"
                 sizes="100%"
-                alt="Isabel Heller">
+                alt="Team heller grafik">
     </main>
 
 </div> <!-- END OF PAGE-WRAPPER -->

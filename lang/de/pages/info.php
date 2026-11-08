@@ -22,7 +22,7 @@
             <div class="intro">
                 <h2 class="intro__text">
                     heller grafik fokussiert sich auf wertebasiertes Branding im On- und Offlinebereich. Die visuelle Sprache einer Marke soll unternehmerische Ziele und Werte widerspiegeln und bei deren Publikum Anklang finden.<br /><br />
-                    Ich höre zu, möchte Zusammenhänge und Zielgruppen verstehen.
+                    Wir hören zu, möchten Zusammenhänge und Zielgruppen verstehen.
                 </h2>
                 <a class="section-hero__content__link link-small" href="./contact.php" tabindex="1">
                     <?php include '../../../media/icons/arrow_small.svg' ?>
@@ -87,6 +87,10 @@
                                 <p class="show-more-box__title">Aus- und Weiterbildungen</p>
                                 <table class="show-more-box__table">
                                     <tr class="show-more-box__row">
+                                        <td class="show-more-box__cell">2026</td>
+                                        <td class="show-more-box__cell">CAS Brand Management, HSLU</td>
+                                    </tr>
+                                    <tr class="show-more-box__row">
                                         <td class="show-more-box__cell">2018 – 2019</td>
                                         <td class="show-more-box__cell">Lehrgang Digital Experience Design, SfG Aargau</td>
                                     </tr>
@@ -105,10 +109,51 @@
                                 </table>
                             </div>
                         </div>
+                        <a class="section-hero__content__link link-small" href="mailto:isabel@hellergrafik.ch" tabindex="1">
+                            <?php include '../../../media/icons/arrow_small.svg' ?>
+                            <span class="link-small__text">Mail</span>
+                        </a>
                     </div>
                 </div>
 
-		
+                <img    class="about__image"
+                        srcset="    ../../../media/img/info/05_500_Melanie_Heller_Grafik.jpg  500w,
+                                    ../../../media/img/info/05_1000_Melanie_Heller_Grafik.jpg  1000w,
+                                    ../../../media/img/info/05_1500_Melanie_Heller_Grafik.jpg  1500w,
+                                    ../../../media/img/info/05_2000_Melanie_Heller_Grafik.jpg  2000w,
+                                    ../../../media/img/info/05_2500_Melanie_Heller_Grafik.jpg  2500w"
+                        sizes="100%"
+                        alt="Melanie Knupp">
+                <div class="about__description">
+                    <h2 class="about__title">
+                        Melanie Knupp <br>
+                        Grafikerin
+                    </h2>
+                    <div class="about__container">
+                        <p class="about__text">
+                            Meine grosse Liebe zum Lernen und mein Herz für Kreativität öffnen mir ständig neue Welten. Ich bin gerne in Bewegung, kann aber genauso gut innehalten und den Moment geniessen – am liebsten dort, wo die Sonne scheint und das Wasser nicht weit ist.
+                        </p>
+                        <div class="about__show-more-box">
+                            <div class="show-more-box__item">
+                                <p class="show-more-box__title">Aus- und Weiterbildungen</p>
+                                <table class="show-more-box__table">
+                                    <tr class="show-more-box__row">
+                                        <td class="show-more-box__cell">2022 – 2025</td>
+                                        <td class="show-more-box__cell">Dipl. Kommunikationsdesignerin HF, Visuelle Gestaltung, Professional Bachelor, SfG Bern und Biel</td>
+                                    </tr>
+                                    <tr class="show-more-box__row">
+                                        <td class="show-more-box__cell">2014 – 2018</td>
+                                        <td class="show-more-box__cell">Polygrafin EFZ</td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+                        <a class="section-hero__content__link link-small" href="mailto:melanie@hellergrafik.ch" tabindex="1">
+                            <?php include '../../../media/icons/arrow_small.svg' ?>
+                            <span class="link-small__text">Mail</span>
+                        </a>
+                    </div>
+                </div>
 
                 <img    class="about__image"
                         srcset="    ../../../media/img/info/03_500_hellergrafik_02.jpg  500w,
